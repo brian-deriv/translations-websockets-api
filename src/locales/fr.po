@@ -19,7 +19,7 @@ msgstr "%1 %2 Effectuez un retrait%3 de votre compte %4 via %5%6%7. %8 Effectuez
 
 msgctxt "Customer.io email: svg_all_transactional_crypto_withdrawal_rejected "
 msgid "%1 %2Make an exchange%3 on Deriv P2P for your local currency. %4 Make an exchange on Deriv P2P for your local currency. %5"
-msgstr "%1 %2Effectuez un échange%3 sur Deriv P2P contre votre monnaie locale. %4 Effectuez un échange sur Deriv P2P contre votre monnaie locale. aaaaaaa %5"
+msgstr "%1 %2Effectuez un échange%3 sur Deriv P2P contre votre monnaie locale. %4 Effectuez un échange sur Deriv P2P contre votre monnaie locale. ddddddd %5"
 
 msgctxt "Customer.io email: svg-all-transactional-professional-client-request "
 msgid "%1 - Request to be categorised as professional trader"
