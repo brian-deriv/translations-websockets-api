@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deriv-websocket-api\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-02-08 09:15\n"
+"PO-Revision-Date: 2024-02-11 21:53\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "MIME-Version: 1.0\n"
@@ -86,10 +86,10 @@ msgid "API tokens can't be used to authorize multiple accounts."
 msgstr "다수의 계정을 인증하는 데 API 토큰을 사용할 수 없습니다."
 
 msgid "AUD/JPY"
-msgstr ""
+msgstr "AUD/JPY"
 
 msgid "AUD/USD"
-msgstr ""
+msgstr "AUD/USD"
 
 msgid "Account currency is set to cryptocurrency. Any change is not allowed."
 msgstr "계좌의 통화가 암호화폐로 설정되었습니다. 변경은 허용되지 않습니다."
@@ -824,13 +824,13 @@ msgid "Missing required parameter."
 msgstr "파라미터가 필요합니다."
 
 msgid "Mr"
-msgstr ""
+msgstr "Mr"
 
 msgid "Mrs"
 msgstr "부인"
 
 msgid "Ms"
-msgstr ""
+msgstr "Ms"
 
 msgid "Need a new %1 investor password?"
 msgstr "새로운 %1 투자자 비밀번호가 필요하신가요?"
@@ -3323,7 +3323,7 @@ msgid "cTrader withdrawal is currently suspended."
 msgstr "cTrader에서의 출금은 현재 보류되어 있습니다."
 
 msgid "example@email.com"
-msgstr ""
+msgstr "example@email.com"
 
 msgid "shows the date of issue and/or expiry (if applicable)"
 msgstr "발급 날짜 및/또는 만료일 (적용되는 경우)를 나타냅니다"
@@ -3344,58 +3344,58 @@ msgid "3M Company"
 msgstr "3M 회사 (3M Company)"
 
 msgid "ADA/USD"
-msgstr ""
+msgstr "ADA/USD"
 
 msgid "ALG/USD"
-msgstr ""
+msgstr "ALG/USD"
 
 msgid "AP Ordinary"
-msgstr ""
+msgstr "AP Ordinary"
 
 msgid "ARK Innovation ETF CFD"
-msgstr ""
+msgstr "ARK Innovation ETF CFD"
 
 msgid "AUD Basket"
 msgstr "AUD 바스켓"
 
 msgid "AUD/AED"
-msgstr ""
+msgstr "AUD/AED"
 
 msgid "AUD/CAD"
-msgstr ""
+msgstr "AUD/CAD"
 
 msgid "AUD/CHF"
-msgstr ""
+msgstr "AUD/CHF"
 
 msgid "AUD/HKD"
-msgstr ""
+msgstr "AUD/HKD"
 
 msgid "AUD/IDR"
-msgstr ""
+msgstr "AUD/IDR"
 
 msgid "AUD/INR"
-msgstr ""
+msgstr "AUD/INR"
 
 msgid "AUD/MXN"
-msgstr ""
+msgstr "AUD/MXN"
 
 msgid "AUD/NOK"
-msgstr ""
+msgstr "AUD/NOK"
 
 msgid "AUD/NZD"
-msgstr ""
+msgstr "AUD/NZD"
 
 msgid "AUD/PLN"
-msgstr ""
+msgstr "AUD/PLN"
 
 msgid "AUD/SEK"
-msgstr ""
+msgstr "AUD/SEK"
 
 msgid "AUD/SGD"
-msgstr ""
+msgstr "AUD/SGD"
 
 msgid "AUD/TRY"
-msgstr ""
+msgstr "AUD/TRY"
 
 msgid "AUD/USD DFX10 Index"
 msgstr "AUD/USD DFX10 지수"
@@ -3407,10 +3407,10 @@ msgid "AUD/USD DFX20 Index"
 msgstr "AUD/USD DFX20 지수"
 
 msgid "AUDZAR"
-msgstr ""
+msgstr "AUDZAR"
 
 msgid "AVA/USD"
-msgstr ""
+msgstr "AVA/USD"
 
 msgid "Abu Dhabi Index"
 msgstr "아부다비 지수"
@@ -3419,7 +3419,7 @@ msgid "Adidas"
 msgstr "아디다스 (Adidas)"
 
 msgid "Advanced Micro Devices Inc"
-msgstr ""
+msgstr "Advanced Micro Devices Inc"
 
 msgid "Air France KLM SA"
 msgstr "에어 프랑스 KLM SA (Air France KLM SA)"
@@ -3455,64 +3455,64 @@ msgid "Australia 200"
 msgstr "호주 200 (Australia 200)"
 
 msgid "BAT/USD"
-msgstr ""
+msgstr "BAT/USD"
 
 msgid "BCH/USD"
-msgstr ""
+msgstr "BCH/USD"
 
 msgid "BMW"
 msgstr "비엠더블유 (BMW)"
 
 msgid "BNB/USD"
-msgstr ""
+msgstr "BNB/USD"
 
 msgid "BTC/AUD"
-msgstr ""
+msgstr "BTC/AUD"
 
 msgid "BTC/BCH"
-msgstr ""
+msgstr "BTC/BCH"
 
 msgid "BTC/CAD"
-msgstr ""
+msgstr "BTC/CAD"
 
 msgid "BTC/CHF"
-msgstr ""
+msgstr "BTC/CHF"
 
 msgid "BTC/ETH"
-msgstr ""
+msgstr "BTC/ETH"
 
 msgid "BTC/EUR"
-msgstr ""
+msgstr "BTC/EUR"
 
 msgid "BTC/GBP"
-msgstr ""
+msgstr "BTC/GBP"
 
 msgid "BTC/JPY"
-msgstr ""
+msgstr "BTC/JPY"
 
 msgid "BTC/LTC"
-msgstr ""
+msgstr "BTC/LTC"
 
 msgid "BTC/NZD"
-msgstr ""
+msgstr "BTC/NZD"
 
 msgid "BTC/RUB"
-msgstr ""
+msgstr "BTC/RUB"
 
 msgid "BTC/USD"
-msgstr ""
+msgstr "BTC/USD"
 
 msgid "BTC/XAG"
-msgstr ""
+msgstr "BTC/XAG"
 
 msgid "BTC/XAU"
-msgstr ""
+msgstr "BTC/XAU"
 
 msgid "BTC/XRP"
-msgstr ""
+msgstr "BTC/XRP"
 
 msgid "BUSD/USD"
-msgstr ""
+msgstr "BUSD/USD"
 
 msgid "Bank of America Corporation"
 msgstr "뱅크 오브 아메리카 (Bank of America Corporation)"
@@ -3527,7 +3527,7 @@ msgid "Belgian Index"
 msgstr "벨기에 지수"
 
 msgid "Biogen Biogen Inc"
-msgstr ""
+msgstr "Biogen Biogen Inc"
 
 msgid "Boeing"
 msgstr "보잉 (Boeing)"
@@ -3560,19 +3560,19 @@ msgid "Bull Market Index"
 msgstr "Bull Market 지수"
 
 msgid "CAD/CHF"
-msgstr ""
+msgstr "CAD/CHF"
 
 msgid "CAD/JPY"
-msgstr ""
+msgstr "CAD/JPY"
 
 msgid "CHF/JPY"
-msgstr ""
+msgstr "CHF/JPY"
 
 msgid "Canadian Index"
 msgstr "캐나다 지수"
 
 msgid "Chevron Co."
-msgstr ""
+msgstr "Chevron Co."
 
 msgid "Cisco Systems Inc."
 msgstr "시스코 시스템즈 (Cisco Systems Inc.)"
@@ -3605,43 +3605,43 @@ msgid "Crash 900 Index"
 msgstr "Crash 900 지수"
 
 msgid "DAI/USD"
-msgstr ""
+msgstr "DAI/USD"
 
 msgid "DEX 1500DN"
-msgstr ""
+msgstr "DEX 1500DN"
 
 msgid "DEX 1500UP"
-msgstr ""
+msgstr "DEX 1500UP"
 
 msgid "DEX 600DN"
-msgstr ""
+msgstr "DEX 600DN"
 
 msgid "DEX 600UP"
-msgstr ""
+msgstr "DEX 600UP"
 
 msgid "DEX 900DN"
-msgstr ""
+msgstr "DEX 900DN"
 
 msgid "DEX 900UP"
-msgstr ""
+msgstr "DEX 900UP"
 
 msgid "DOG/USD"
-msgstr ""
+msgstr "DOG/USD"
 
 msgid "DOT/USD"
-msgstr ""
+msgstr "DOT/USD"
 
 msgid "DSH/USD"
-msgstr ""
+msgstr "DSH/USD"
 
 msgid "DSI10"
-msgstr ""
+msgstr "DSI10"
 
 msgid "DSI20"
-msgstr ""
+msgstr "DSI20"
 
 msgid "DSI30"
-msgstr ""
+msgstr "DSI30"
 
 msgid "Dell Technologies Inc"
 msgstr "델 테크놀로지스 (Dell Technologies Inc)"
@@ -3653,82 +3653,82 @@ msgid "Deutsche Bank"
 msgstr "도이치 은행 (Deutsche Bank)"
 
 msgid "Direxion Daily Energy Bull 2x Shares CFD"
-msgstr ""
+msgstr "Direxion Daily Energy Bull 2x Shares CFD"
 
 msgid "Direxion Daily S&P 500 Bear 3X Shares ETF CFD"
-msgstr ""
+msgstr "Direxion Daily S&P 500 Bear 3X Shares ETF CFD"
 
 msgid "Dubai Index"
 msgstr "두바이 지수"
 
 msgid "EOS/USD"
-msgstr ""
+msgstr "EOS/USD"
 
 msgid "ETC/USD"
-msgstr ""
+msgstr "ETC/USD"
 
 msgid "ETH/EUR"
-msgstr ""
+msgstr "ETH/EUR"
 
 msgid "ETH/USD"
-msgstr ""
+msgstr "ETH/USD"
 
 msgid "EUR Basket"
 msgstr "EUR 바스켓"
 
 msgid "EUR/AED"
-msgstr ""
+msgstr "EUR/AED"
 
 msgid "EUR/AUD"
-msgstr ""
+msgstr "EUR/AUD"
 
 msgid "EUR/CAD"
-msgstr ""
+msgstr "EUR/CAD"
 
 msgid "EUR/CHF"
-msgstr ""
+msgstr "EUR/CHF"
 
 msgid "EUR/GBP"
-msgstr ""
+msgstr "EUR/GBP"
 
 msgid "EUR/HKD"
-msgstr ""
+msgstr "EUR/HKD"
 
 msgid "EUR/IDR"
-msgstr ""
+msgstr "EUR/IDR"
 
 msgid "EUR/ILS"
-msgstr ""
+msgstr "EUR/ILS"
 
 msgid "EUR/INR"
-msgstr ""
+msgstr "EUR/INR"
 
 msgid "EUR/JPY"
-msgstr ""
+msgstr "EUR/JPY"
 
 msgid "EUR/MXN"
-msgstr ""
+msgstr "EUR/MXN"
 
 msgid "EUR/NOK"
-msgstr ""
+msgstr "EUR/NOK"
 
 msgid "EUR/NZD"
-msgstr ""
+msgstr "EUR/NZD"
 
 msgid "EUR/PLN"
-msgstr ""
+msgstr "EUR/PLN"
 
 msgid "EUR/SEK"
-msgstr ""
+msgstr "EUR/SEK"
 
 msgid "EUR/SGD"
-msgstr ""
+msgstr "EUR/SGD"
 
 msgid "EUR/TRY"
-msgstr ""
+msgstr "EUR/TRY"
 
 msgid "EUR/USD"
-msgstr ""
+msgstr "EUR/USD"
 
 msgid "EUR/USD DFX10 Index"
 msgstr "EUR/USD DFX10 지수"
@@ -3740,16 +3740,16 @@ msgid "EUR/USD DFX20 Index"
 msgstr "EUR/USD DFX20 지수"
 
 msgid "EUR/ZAR"
-msgstr ""
+msgstr "EUR/ZAR"
 
 msgid "EURS/USD"
-msgstr ""
+msgstr "EURS/USD"
 
 msgid "Egypt Index"
 msgstr "이집트 지수"
 
 msgid "Energy Select Sector SPDR Fund ETF CFD"
-msgstr ""
+msgstr "Energy Select Sector SPDR Fund ETF CFD"
 
 msgid "Euro 100 Index"
 msgstr "유로 100 지수"
@@ -3761,10 +3761,10 @@ msgid "Euro 50"
 msgstr "유로 50 (Euro 50)"
 
 msgid "FIL/USD"
-msgstr ""
+msgstr "FIL/USD"
 
 msgid "FKP/USD"
-msgstr ""
+msgstr "FKP/USD"
 
 msgid "Facebook"
 msgstr "페이스북 (Facebook)"
@@ -3773,7 +3773,7 @@ msgid "FedEx"
 msgstr "페덱스 (FedEx)"
 
 msgid "Financial Select Sector SPDR ETF CFD"
-msgstr ""
+msgstr "Financial Select Sector SPDR ETF CFD"
 
 msgid "Fox Corporation B"
 msgstr "폭스 코퍼레이션 B (Fox Corporation B)"
@@ -3785,52 +3785,52 @@ msgid "GBP Basket"
 msgstr "GBP 바스켓"
 
 msgid "GBP/AED"
-msgstr ""
+msgstr "GBP/AED"
 
 msgid "GBP/AUD"
-msgstr ""
+msgstr "GBP/AUD"
 
 msgid "GBP/CAD"
-msgstr ""
+msgstr "GBP/CAD"
 
 msgid "GBP/CHF"
-msgstr ""
+msgstr "GBP/CHF"
 
 msgid "GBP/HKD"
-msgstr ""
+msgstr "GBP/HKD"
 
 msgid "GBP/IDR"
-msgstr ""
+msgstr "GBP/IDR"
 
 msgid "GBP/INR"
-msgstr ""
+msgstr "GBP/INR"
 
 msgid "GBP/JPY"
-msgstr ""
+msgstr "GBP/JPY"
 
 msgid "GBP/MXN"
-msgstr ""
+msgstr "GBP/MXN"
 
 msgid "GBP/NOK"
-msgstr ""
+msgstr "GBP/NOK"
 
 msgid "GBP/NZD"
-msgstr ""
+msgstr "GBP/NZD"
 
 msgid "GBP/PLN"
-msgstr ""
+msgstr "GBP/PLN"
 
 msgid "GBP/SEK"
-msgstr ""
+msgstr "GBP/SEK"
 
 msgid "GBP/SGD"
-msgstr ""
+msgstr "GBP/SGD"
 
 msgid "GBP/TRY"
-msgstr ""
+msgstr "GBP/TRY"
 
 msgid "GBP/USD"
-msgstr ""
+msgstr "GBP/USD"
 
 msgid "GBP/USD DFX10 Index"
 msgstr "GBP/USD DFX10 지수"
@@ -3842,10 +3842,10 @@ msgid "GBP/USD DFX20 Index"
 msgstr "GBP/USD DFX20 지수"
 
 msgid "GBP/ZAR"
-msgstr ""
+msgstr "GBP/ZAR"
 
 msgid "GIP/USD"
-msgstr ""
+msgstr "GIP/USD"
 
 msgid "General Motors Company"
 msgstr "제너럴 모터스 (General Motors Company)"
@@ -3872,13 +3872,13 @@ msgid "Goldman Sachs"
 msgstr "골드만 삭스 (Goldman Sachs)"
 
 msgid "HKD/JPY"
-msgstr ""
+msgstr "HKD/JPY"
 
 msgid "HP Inc"
-msgstr ""
+msgstr "HP Inc"
 
 msgid "Hang Seng China"
-msgstr ""
+msgstr "Hang Seng China"
 
 msgid "Home Depot Inc"
 msgstr "홈디포 주식회사 (Home Depot Inc)"
@@ -3890,13 +3890,13 @@ msgid "Hugo Boss AG"
 msgstr "휴고 보스"
 
 msgid "IBM"
-msgstr ""
+msgstr "IBM"
 
 msgid "IDK/USD"
-msgstr ""
+msgstr "IDK/USD"
 
 msgid "IOT/USD"
-msgstr ""
+msgstr "IOT/USD"
 
 msgid "Intel"
 msgstr "인텔 (Intel)"
@@ -3944,25 +3944,25 @@ msgid "Korean Index"
 msgstr "한국 지수"
 
 msgid "LNK/USD"
-msgstr ""
+msgstr "LNK/USD"
 
 msgid "LTC/EUR"
-msgstr ""
+msgstr "LTC/EUR"
 
 msgid "LTC/USD"
-msgstr ""
+msgstr "LTC/USD"
 
 msgid "Lufthansa AG"
-msgstr ""
+msgstr "Lufthansa AG"
 
 msgid "MKR/USD"
-msgstr ""
+msgstr "MKR/USD"
 
 msgid "MTC/USD"
-msgstr ""
+msgstr "MTC/USD"
 
 msgid "Market Vectors Gold Miners ETF CFD"
-msgstr ""
+msgstr "Market Vectors Gold Miners ETF CFD"
 
 msgid "MasterCard"
 msgstr "마스터카드"
@@ -3977,22 +3977,22 @@ msgid "Moderna Inc"
 msgstr "모더나 (Moderna Inc)"
 
 msgid "NEO/USD"
-msgstr ""
+msgstr "NEO/USD"
 
 msgid "NZD/CAD"
-msgstr ""
+msgstr "NZD/CAD"
 
 msgid "NZD/JPY"
-msgstr ""
+msgstr "NZD/JPY"
 
 msgid "NZD/SGD"
-msgstr ""
+msgstr "NZD/SGD"
 
 msgid "NZD/USD"
-msgstr ""
+msgstr "NZD/USD"
 
 msgid "NZDCHF"
-msgstr ""
+msgstr "NZDCHF"
 
 msgid "Nestle SA"
 msgstr "네슬레 (Nestle SA)"
@@ -4019,7 +4019,7 @@ msgid "Nvidia"
 msgstr "엔비디아 (Nvidia)"
 
 msgid "OMG/USD"
-msgstr ""
+msgstr "OMG/USD"
 
 msgid "Oil/AUD"
 msgstr "원유/AUD"
@@ -4034,7 +4034,7 @@ msgid "Oil/USD"
 msgstr "원유/USD"
 
 msgid "PAX/USD"
-msgstr ""
+msgstr "PAX/USD"
 
 msgid "Palladium/USD"
 msgstr "팔라듐/USD"
@@ -4058,16 +4058,16 @@ msgid "Portuguese Index"
 msgstr "포르투갈 지수"
 
 msgid "ProShares UltraPro QQQ ETF CFD"
-msgstr ""
+msgstr "ProShares UltraPro QQQ ETF CFD"
 
 msgid "ProShares UltraShort 20+ Year Treasury CFD"
-msgstr ""
+msgstr "ProShares UltraShort 20+ Year Treasury CFD"
 
 msgid "ProShares UltraShort QQQ ETF CFD"
-msgstr ""
+msgstr "ProShares UltraShort QQQ ETF CFD"
 
 msgid "ProShares UltraShort S&P500 CFD"
-msgstr ""
+msgstr "ProShares UltraShort S&P500 CFD"
 
 msgid "Procter & Gamble"
 msgstr "프록터 앤드 갬블 (Procter & Gamble)"
@@ -4085,19 +4085,19 @@ msgid "Russian Regular Index"
 msgstr "러시아 정규 지수"
 
 msgid "SGD/JPY"
-msgstr ""
+msgstr "SGD/JPY"
 
 msgid "SHP/USD"
-msgstr ""
+msgstr "SHP/USD"
 
 msgid "SOL/USD"
-msgstr ""
+msgstr "SOL/USD"
 
 msgid "SPDR Dow Jones Industrial Average ETF Trust CFD"
-msgstr ""
+msgstr "SPDR Dow Jones Industrial Average ETF Trust CFD"
 
 msgid "SPDR Gold Trust CFD"
-msgstr ""
+msgstr "SPDR Gold Trust CFD"
 
 msgid "Salesforce"
 msgstr "세일즈포스 (Salesforce)"
@@ -4127,7 +4127,7 @@ msgid "Spanish Index"
 msgstr "스페인 지수"
 
 msgid "Spdr S&P 500 ETF CFD"
-msgstr ""
+msgstr "Spdr S&P 500 ETF CFD"
 
 msgid "Step Index"
 msgstr "Step 지수"
@@ -4139,16 +4139,16 @@ msgid "Swiss 20"
 msgstr "스위스 20 (Swiss 20)"
 
 msgid "TER/USD"
-msgstr ""
+msgstr "TER/USD"
 
 msgid "TRX/USD"
-msgstr ""
+msgstr "TRX/USD"
 
 msgid "TUSD/USD"
-msgstr ""
+msgstr "TUSD/USD"
 
 msgid "Technology Select Sector SPDR ETF CFD"
-msgstr ""
+msgstr "Technology Select Sector SPDR ETF CFD"
 
 msgid "Tesla Motors Inc."
 msgstr "테슬라 (Tesla Motors Inc.)"
@@ -4163,10 +4163,10 @@ msgid "Twitter Inc."
 msgstr "트위터 (Twitter Inc.)"
 
 msgid "UK 100"
-msgstr ""
+msgstr "UK 100"
 
 msgid "UNI/USD"
-msgstr ""
+msgstr "UNI/USD"
 
 msgid "US 500"
 msgstr "미국 500 (US 500)"
@@ -4181,79 +4181,79 @@ msgid "USD Basket"
 msgstr "USD 바스켓"
 
 msgid "USD/AED"
-msgstr ""
+msgstr "USD/AED"
 
 msgid "USD/AFN"
-msgstr ""
+msgstr "USD/AFN"
 
 msgid "USD/ALL"
-msgstr ""
+msgstr "USD/ALL"
 
 msgid "USD/AMD"
-msgstr ""
+msgstr "USD/AMD"
 
 msgid "USD/AOA"
-msgstr ""
+msgstr "USD/AOA"
 
 msgid "USD/ARS"
-msgstr ""
+msgstr "USD/ARS"
 
 msgid "USD/AWG"
-msgstr ""
+msgstr "USD/AWG"
 
 msgid "USD/AZM"
-msgstr ""
+msgstr "USD/AZM"
 
 msgid "USD/BAM"
-msgstr ""
+msgstr "USD/BAM"
 
 msgid "USD/BBD"
-msgstr ""
+msgstr "USD/BBD"
 
 msgid "USD/BDT"
-msgstr ""
+msgstr "USD/BDT"
 
 msgid "USD/BHD"
-msgstr ""
+msgstr "USD/BHD"
 
 msgid "USD/BIF"
-msgstr ""
+msgstr "USD/BIF"
 
 msgid "USD/BMD"
-msgstr ""
+msgstr "USD/BMD"
 
 msgid "USD/BND"
-msgstr ""
+msgstr "USD/BND"
 
 msgid "USD/BOB"
-msgstr ""
+msgstr "USD/BOB"
 
 msgid "USD/BRL"
-msgstr ""
+msgstr "USD/BRL"
 
 msgid "USD/BSD"
-msgstr ""
+msgstr "USD/BSD"
 
 msgid "USD/BTN"
-msgstr ""
+msgstr "USD/BTN"
 
 msgid "USD/BWP"
-msgstr ""
+msgstr "USD/BWP"
 
 msgid "USD/BYR"
-msgstr ""
+msgstr "USD/BYR"
 
 msgid "USD/BZD"
-msgstr ""
+msgstr "USD/BZD"
 
 msgid "USD/CAD"
-msgstr ""
+msgstr "USD/CAD"
 
 msgid "USD/CDF"
-msgstr ""
+msgstr "USD/CDF"
 
 msgid "USD/CHF"
-msgstr ""
+msgstr "USD/CHF"
 
 msgid "USD/CHF DFX10 Index"
 msgstr "USD/CHF DFX10 지수"
@@ -4265,106 +4265,106 @@ msgid "USD/CHF DFX20 Index"
 msgstr "USD/CHF DFX20 지수"
 
 msgid "USD/CLP"
-msgstr ""
+msgstr "USD/CLP"
 
 msgid "USD/CNH"
-msgstr ""
+msgstr "USD/CNH"
 
 msgid "USD/CNY"
-msgstr ""
+msgstr "USD/CNY"
 
 msgid "USD/COP"
-msgstr ""
+msgstr "USD/COP"
 
 msgid "USD/CRC"
-msgstr ""
+msgstr "USD/CRC"
 
 msgid "USD/CUP"
-msgstr ""
+msgstr "USD/CUP"
 
 msgid "USD/CVE"
-msgstr ""
+msgstr "USD/CVE"
 
 msgid "USD/DJF"
-msgstr ""
+msgstr "USD/DJF"
 
 msgid "USD/DKK"
-msgstr ""
+msgstr "USD/DKK"
 
 msgid "USD/DOP"
-msgstr ""
+msgstr "USD/DOP"
 
 msgid "USD/DZD"
-msgstr ""
+msgstr "USD/DZD"
 
 msgid "USD/ECS"
-msgstr ""
+msgstr "USD/ECS"
 
 msgid "USD/EGP"
-msgstr ""
+msgstr "USD/EGP"
 
 msgid "USD/ERN"
-msgstr ""
+msgstr "USD/ERN"
 
 msgid "USD/ETB"
-msgstr ""
+msgstr "USD/ETB"
 
 msgid "USD/FJD"
-msgstr ""
+msgstr "USD/FJD"
 
 msgid "USD/GEL"
-msgstr ""
+msgstr "USD/GEL"
 
 msgid "USD/GHC"
-msgstr ""
+msgstr "USD/GHC"
 
 msgid "USD/GMD"
-msgstr ""
+msgstr "USD/GMD"
 
 msgid "USD/GNF"
-msgstr ""
+msgstr "USD/GNF"
 
 msgid "USD/GQE"
-msgstr ""
+msgstr "USD/GQE"
 
 msgid "USD/GTQ"
-msgstr ""
+msgstr "USD/GTQ"
 
 msgid "USD/GYD"
-msgstr ""
+msgstr "USD/GYD"
 
 msgid "USD/HKD"
-msgstr ""
+msgstr "USD/HKD"
 
 msgid "USD/HNL"
-msgstr ""
+msgstr "USD/HNL"
 
 msgid "USD/HTG"
-msgstr ""
+msgstr "USD/HTG"
 
 msgid "USD/IDR"
-msgstr ""
+msgstr "USD/IDR"
 
 msgid "USD/ILS"
-msgstr ""
+msgstr "USD/ILS"
 
 msgid "USD/INR"
-msgstr ""
+msgstr "USD/INR"
 
 msgid "USD/IQD"
-msgstr ""
+msgstr "USD/IQD"
 
 msgid "USD/ISK"
-msgstr ""
+msgstr "USD/ISK"
 
 msgid "USD/JMD"
-msgstr ""
+msgstr "USD/JMD"
 
 msgid "USD/JOD"
-msgstr ""
+msgstr "USD/JOD"
 
 msgid "USD/JPY"
-msgstr ""
+msgstr "USD/JPY"
 
 msgid "USD/JPY DFX10 Index"
 msgstr "USD/JPY DFX10 지수"
@@ -4376,49 +4376,49 @@ msgid "USD/JPY DFX20 Index"
 msgstr "USD/JPY DFX20 지수"
 
 msgid "USD/KES"
-msgstr ""
+msgstr "USD/KES"
 
 msgid "USD/KGS"
-msgstr ""
+msgstr "USD/KGS"
 
 msgid "USD/KHR"
-msgstr ""
+msgstr "USD/KHR"
 
 msgid "USD/KMF"
-msgstr ""
+msgstr "USD/KMF"
 
 msgid "USD/KRW"
-msgstr ""
+msgstr "USD/KRW"
 
 msgid "USD/KWD"
-msgstr ""
+msgstr "USD/KWD"
 
 msgid "USD/KYD"
-msgstr ""
+msgstr "USD/KYD"
 
 msgid "USD/KZT"
-msgstr ""
+msgstr "USD/KZT"
 
 msgid "USD/LAK"
-msgstr ""
+msgstr "USD/LAK"
 
 msgid "USD/LBP"
-msgstr ""
+msgstr "USD/LBP"
 
 msgid "USD/LKR"
-msgstr ""
+msgstr "USD/LKR"
 
 msgid "USD/LRD"
-msgstr ""
+msgstr "USD/LRD"
 
 msgid "USD/LSL"
-msgstr ""
+msgstr "USD/LSL"
 
 msgid "USD/LYD"
-msgstr ""
+msgstr "USD/LYD"
 
 msgid "USD/MAD"
-msgstr ""
+msgstr "USD/MAD"
 
 msgid "USD/MDL"
 msgstr ""
