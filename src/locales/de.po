@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deriv-websocket-api\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-02-08 09:15\n"
+"PO-Revision-Date: 2024-02-12 08:27\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -86,10 +86,10 @@ msgid "API tokens can't be used to authorize multiple accounts."
 msgstr "API-Tokens können nicht für die Autorisierung mehrerer Konten verwendet werden."
 
 msgid "AUD/JPY"
-msgstr ""
+msgstr "AUD/JPY"
 
 msgid "AUD/USD"
-msgstr ""
+msgstr "AUD/USD"
 
 msgid "Account currency is set to cryptocurrency. Any change is not allowed."
 msgstr "Die Kontowährung ist auf Kryptowährung eingestellt. Eine Änderung ist nicht erlaubt."
@@ -1400,7 +1400,7 @@ msgid "Review Permissions"
 msgstr "Berechtigungen ansehen"
 
 msgid "Rise/Fall"
-msgstr ""
+msgstr "Rise/Fall"
 
 msgid "Saved payment methods cannot be provided for buy ads. Please provide payment method names."
 msgstr "Für Kaufanzeigen können keine gespeicherten Zahlungsmethoden angegeben werden. Bitte geben Sie den Namen der Zahlungsmethode an."
@@ -3323,7 +3323,7 @@ msgid "cTrader withdrawal is currently suspended."
 msgstr "Der Rückzug von cTrader ist derzeit ausgesetzt."
 
 msgid "example@email.com"
-msgstr ""
+msgstr "example@email.com"
 
 msgid "shows the date of issue and/or expiry (if applicable)"
 msgstr "zeigt das Datum der Ausstellung und/oder des Ablaufs (falls zutreffend)"
@@ -3341,61 +3341,61 @@ msgid "today"
 msgstr "heute"
 
 msgid "3M Company"
-msgstr ""
+msgstr "3M Unternehmen"
 
 msgid "ADA/USD"
-msgstr ""
+msgstr "ADA/USD"
 
 msgid "ALG/USD"
-msgstr ""
+msgstr "ALG/USD"
 
 msgid "AP Ordinary"
 msgstr "AP Allgemein"
 
 msgid "ARK Innovation ETF CFD"
-msgstr ""
+msgstr "ARK Innovation ETF CFD"
 
 msgid "AUD Basket"
 msgstr "AUD Korb"
 
 msgid "AUD/AED"
-msgstr ""
+msgstr "AUD/AED"
 
 msgid "AUD/CAD"
-msgstr ""
+msgstr "AUD/CAD"
 
 msgid "AUD/CHF"
-msgstr ""
+msgstr "AUD/CHF"
 
 msgid "AUD/HKD"
-msgstr ""
+msgstr "AUD/HKD"
 
 msgid "AUD/IDR"
-msgstr ""
+msgstr "AUD/IDR"
 
 msgid "AUD/INR"
-msgstr ""
+msgstr "AUD/INR"
 
 msgid "AUD/MXN"
-msgstr ""
+msgstr "AUD/MXN"
 
 msgid "AUD/NOK"
-msgstr ""
+msgstr "AUD/NOK"
 
 msgid "AUD/NZD"
-msgstr ""
+msgstr "AUD/NZD"
 
 msgid "AUD/PLN"
-msgstr ""
+msgstr "AUD/PLN"
 
 msgid "AUD/SEK"
-msgstr ""
+msgstr "AUD/SEK"
 
 msgid "AUD/SGD"
-msgstr ""
+msgstr "AUD/SGD"
 
 msgid "AUD/TRY"
-msgstr ""
+msgstr "AUD/TRY"
 
 msgid "AUD/USD DFX10 Index"
 msgstr "AUD/USD DFX10-Index"
@@ -3410,94 +3410,94 @@ msgid "AUDZAR"
 msgstr "AUD/ZAR"
 
 msgid "AVA/USD"
-msgstr ""
+msgstr "AVA/USD"
 
 msgid "Abu Dhabi Index"
-msgstr ""
+msgstr "Abu Dhabi Index"
 
 msgid "Adidas"
-msgstr ""
+msgstr "Adidas"
 
 msgid "Advanced Micro Devices Inc"
-msgstr ""
+msgstr "Advanced Micro Devices Inc"
 
 msgid "Air France KLM SA"
-msgstr ""
+msgstr "Air France KLM SA"
 
 msgid "Airbnb Inc."
-msgstr ""
+msgstr "Airbnb Inc."
 
 msgid "Airbus SE"
-msgstr ""
+msgstr "Airbus SE"
 
 msgid "Alibaba"
-msgstr ""
+msgstr "Alibaba"
 
 msgid "Alphabet"
-msgstr ""
+msgstr "Alphabet"
 
 msgid "Amazon.com"
-msgstr ""
+msgstr "Amazon.com"
 
 msgid "American Airlines Group Inc."
-msgstr ""
+msgstr "American Airlines Group Inc."
 
 msgid "American Express"
-msgstr ""
+msgstr "American Express"
 
 msgid "American International Group Inc."
-msgstr ""
+msgstr "American International Group Inc."
 
 msgid "Apple"
-msgstr ""
+msgstr "Apple"
 
 msgid "Australia 200"
 msgstr "Australien 200"
 
 msgid "BAT/USD"
-msgstr ""
+msgstr "BAT/USD"
 
 msgid "BCH/USD"
-msgstr ""
+msgstr "BCH/USD"
 
 msgid "BMW"
-msgstr ""
+msgstr "BMW"
 
 msgid "BNB/USD"
-msgstr ""
+msgstr "BNB/USD"
 
 msgid "BTC/AUD"
-msgstr ""
+msgstr "BTC/AUD"
 
 msgid "BTC/BCH"
-msgstr ""
+msgstr "BTC/BCH"
 
 msgid "BTC/CAD"
-msgstr ""
+msgstr "BTC/CAD"
 
 msgid "BTC/CHF"
-msgstr ""
+msgstr "BTC/CHF"
 
 msgid "BTC/ETH"
-msgstr ""
+msgstr "BTC/ETH"
 
 msgid "BTC/EUR"
-msgstr ""
+msgstr "BTC/EUR"
 
 msgid "BTC/GBP"
-msgstr ""
+msgstr "BTC/GBP"
 
 msgid "BTC/JPY"
-msgstr ""
+msgstr "BTC/JPY"
 
 msgid "BTC/LTC"
-msgstr ""
+msgstr "BTC/LTC"
 
 msgid "BTC/NZD"
-msgstr ""
+msgstr "BTC/NZD"
 
 msgid "BTC/RUB"
-msgstr ""
+msgstr "BTC/RUB"
 
 msgid "BTC/USD"
 msgstr ""
@@ -3665,70 +3665,70 @@ msgid "EOS/USD"
 msgstr ""
 
 msgid "ETC/USD"
-msgstr ""
+msgstr "ETC/USD"
 
 msgid "ETH/EUR"
-msgstr ""
+msgstr "ETH/EUR"
 
 msgid "ETH/USD"
-msgstr ""
+msgstr "ETH/USD"
 
 msgid "EUR Basket"
 msgstr "EUR Korb"
 
 msgid "EUR/AED"
-msgstr ""
+msgstr "EUR/AED"
 
 msgid "EUR/AUD"
-msgstr ""
+msgstr "EUR/AUD"
 
 msgid "EUR/CAD"
-msgstr ""
+msgstr "EUR/CAD"
 
 msgid "EUR/CHF"
-msgstr ""
+msgstr "EUR/CHF"
 
 msgid "EUR/GBP"
-msgstr ""
+msgstr "EUR/GBP"
 
 msgid "EUR/HKD"
-msgstr ""
+msgstr "EUR/HKD"
 
 msgid "EUR/IDR"
-msgstr ""
+msgstr "EUR/IDR"
 
 msgid "EUR/ILS"
-msgstr ""
+msgstr "EUR/ILS"
 
 msgid "EUR/INR"
-msgstr ""
+msgstr "EUR/INR"
 
 msgid "EUR/JPY"
-msgstr ""
+msgstr "EUR/JPY"
 
 msgid "EUR/MXN"
-msgstr ""
+msgstr "EUR/MXN"
 
 msgid "EUR/NOK"
-msgstr ""
+msgstr "EUR/NOK"
 
 msgid "EUR/NZD"
-msgstr ""
+msgstr "EUR/NZD"
 
 msgid "EUR/PLN"
-msgstr ""
+msgstr "EUR/PLN"
 
 msgid "EUR/SEK"
-msgstr ""
+msgstr "EUR/SEK"
 
 msgid "EUR/SGD"
-msgstr ""
+msgstr "EUR/SGD"
 
 msgid "EUR/TRY"
-msgstr ""
+msgstr "EUR/TRY"
 
 msgid "EUR/USD"
-msgstr ""
+msgstr "EUR/USD"
 
 msgid "EUR/USD DFX10 Index"
 msgstr "EUR/USD DFX10-Index"
@@ -3740,43 +3740,43 @@ msgid "EUR/USD DFX20 Index"
 msgstr "EUR/USD DFX20-Index"
 
 msgid "EUR/ZAR"
-msgstr ""
+msgstr "EUR/ZAR"
 
 msgid "EURS/USD"
-msgstr ""
+msgstr "EURS/USD"
 
 msgid "Egypt Index"
 msgstr "Ägypten Index"
 
 msgid "Energy Select Sector SPDR Fund ETF CFD"
-msgstr ""
+msgstr "Energy Select Sector SPDR Fund ETF CFD"
 
 msgid "Euro 100 Index"
-msgstr ""
+msgstr "Euro 100 Index"
 
 msgid "Euro 150 Index"
-msgstr ""
+msgstr "Euro 150 Index"
 
 msgid "Euro 50"
-msgstr ""
+msgstr "50 Euro"
 
 msgid "FIL/USD"
-msgstr ""
+msgstr "FIL/USD"
 
 msgid "FKP/USD"
-msgstr ""
+msgstr "FKP/USD"
 
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 msgid "FedEx"
-msgstr ""
+msgstr "FedEx"
 
 msgid "Financial Select Sector SPDR ETF CFD"
-msgstr ""
+msgstr "Financial Select Sector SPDR ETF CFD"
 
 msgid "Fox Corporation B"
-msgstr ""
+msgstr "Fox Corporation B"
 
 msgid "France 40"
 msgstr "Frankreich 40"
@@ -3785,37 +3785,37 @@ msgid "GBP Basket"
 msgstr "GBP-Korb"
 
 msgid "GBP/AED"
-msgstr ""
+msgstr "GBP/AED"
 
 msgid "GBP/AUD"
-msgstr ""
+msgstr "GBP/AUD"
 
 msgid "GBP/CAD"
-msgstr ""
+msgstr "GBP/CAD"
 
 msgid "GBP/CHF"
-msgstr ""
+msgstr "GBP/CHF"
 
 msgid "GBP/HKD"
-msgstr ""
+msgstr "GBP/HKD"
 
 msgid "GBP/IDR"
-msgstr ""
+msgstr "GBP/IDR"
 
 msgid "GBP/INR"
-msgstr ""
+msgstr "GBP/INR"
 
 msgid "GBP/JPY"
-msgstr ""
+msgstr "GBP/JPY"
 
 msgid "GBP/MXN"
-msgstr ""
+msgstr "GBP/MXN"
 
 msgid "GBP/NOK"
-msgstr ""
+msgstr "GBP/NOK"
 
 msgid "GBP/NZD"
-msgstr ""
+msgstr "GBP/NZD"
 
 msgid "GBP/PLN"
 msgstr ""
