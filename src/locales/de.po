@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deriv-websocket-api\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-02-12 10:35\n"
+"PO-Revision-Date: 2024-02-12 13:00\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -4196,40 +4196,40 @@ msgid "USD/AOA"
 msgstr "USD/AOA"
 
 msgid "USD/ARS"
-msgstr ""
+msgstr "USD/ARS"
 
 msgid "USD/AWG"
-msgstr ""
+msgstr "USD/AWG"
 
 msgid "USD/AZM"
-msgstr ""
+msgstr "USD/AZM"
 
 msgid "USD/BAM"
-msgstr ""
+msgstr "USD/BAM"
 
 msgid "USD/BBD"
-msgstr ""
+msgstr "USD/BBD"
 
 msgid "USD/BDT"
-msgstr ""
+msgstr "USD/BDT"
 
 msgid "USD/BHD"
-msgstr ""
+msgstr "USD/BHD"
 
 msgid "USD/BIF"
-msgstr ""
+msgstr "USD/BIF"
 
 msgid "USD/BMD"
-msgstr ""
+msgstr "USD/BMD"
 
 msgid "USD/BND"
-msgstr ""
+msgstr "USD/BND"
 
 msgid "USD/BOB"
-msgstr ""
+msgstr "USD/BOB"
 
 msgid "USD/BRL"
-msgstr ""
+msgstr "USD/BRL"
 
 msgid "USD/BSD"
 msgstr ""
@@ -4400,112 +4400,112 @@ msgid "USD/KZT"
 msgstr ""
 
 msgid "USD/LAK"
-msgstr ""
+msgstr "USD/LAK"
 
 msgid "USD/LBP"
-msgstr ""
+msgstr "USD/LBP"
 
 msgid "USD/LKR"
-msgstr ""
+msgstr "USD/LKR"
 
 msgid "USD/LRD"
-msgstr ""
+msgstr "USD/LRD"
 
 msgid "USD/LSL"
-msgstr ""
+msgstr "USD/LSL"
 
 msgid "USD/LYD"
-msgstr ""
+msgstr "USD/LYD"
 
 msgid "USD/MAD"
-msgstr ""
+msgstr "USD/MAD"
 
 msgid "USD/MDL"
-msgstr ""
+msgstr "USD/MDL"
 
 msgid "USD/MGA"
-msgstr ""
+msgstr "USD/MGA"
 
 msgid "USD/MGF"
-msgstr ""
+msgstr "USD/MG"
 
 msgid "USD/MKD"
-msgstr ""
+msgstr "USD/MKD"
 
 msgid "USD/MMK"
-msgstr ""
+msgstr "USD/MMK"
 
 msgid "USD/MNT"
-msgstr ""
+msgstr "USD/MNT"
 
 msgid "USD/MOP"
-msgstr ""
+msgstr "USD/MOP"
 
 msgid "USD/MUR"
-msgstr ""
+msgstr "USD/MUR"
 
 msgid "USD/MVR"
-msgstr ""
+msgstr "USD/MVR"
 
 msgid "USD/MWK"
-msgstr ""
+msgstr "USD/MWK"
 
 msgid "USD/MXN"
-msgstr ""
+msgstr "USD/MXN"
 
 msgid "USD/MZM"
-msgstr ""
+msgstr "USD/MZM"
 
 msgid "USD/NAD"
-msgstr ""
+msgstr "USD/NAD"
 
 msgid "USD/NGN"
-msgstr ""
+msgstr "USD/NGN"
 
 msgid "USD/NIO"
-msgstr ""
+msgstr "USD/NIO"
 
 msgid "USD/NOK"
-msgstr ""
+msgstr "USD/NOK"
 
 msgid "USD/NPR"
-msgstr ""
+msgstr "USD/NPR"
 
 msgid "USD/OMR"
-msgstr ""
+msgstr "USD/OMR"
 
 msgid "USD/PAB"
-msgstr ""
+msgstr "USD/PAB"
 
 msgid "USD/PEN"
-msgstr ""
+msgstr "USD/PEN"
 
 msgid "USD/PGK"
-msgstr ""
+msgstr "USD/PGK"
 
 msgid "USD/PHP"
-msgstr ""
+msgstr "USD/PHP"
 
 msgid "USD/PKR"
-msgstr ""
+msgstr "USD/PKR"
 
 msgid "USD/PLN"
-msgstr ""
+msgstr "USD/PLN"
 
 msgid "USD/QAR"
-msgstr ""
+msgstr "USD/QAR"
 
 msgid "USD/RUB"
-msgstr ""
+msgstr "USD/RUB"
 
 msgid "USD/RWF"
-msgstr ""
+msgstr "USD/RWF"
 
 msgid "USD/SAR"
-msgstr ""
+msgstr "USD/SAR"
 
 msgid "USD/SBD"
-msgstr ""
+msgstr "USD/SBD"
 
 msgid "USD/SCR"
 msgstr ""
