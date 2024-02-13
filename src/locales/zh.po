@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deriv-websocket-api\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-02-13 10:21\n"
+"PO-Revision-Date: 2024-02-13 11:51\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -317,154 +317,154 @@ msgid "Checksum verification failed."
 msgstr "校验和验证失败。"
 
 msgid "Click the button below and upload a scanned copy or a clear photo of your passport, driving licence, or national ID."
-msgstr ""
+msgstr "单击下面的按钮，然后上传护照、驾照或身份证的扫描件或清晰的照片。"
 
 msgid "Client loginid is required."
-msgstr ""
+msgstr "客户登录 Id 为必填项。"
 
 msgid "Closes early (at %1)"
-msgstr ""
+msgstr "收盘提前（于%1）"
 
 msgid "Code of conduct should be accepted."
-msgstr ""
+msgstr "必须接受行为准则。"
 
 msgid "Connection closed"
-msgstr ""
+msgstr "连接已关闭"
 
 msgid "Contract has expired."
-msgstr ""
+msgstr "合约已到期。"
 
 msgid "Contract id is required to cancel contract"
-msgstr ""
+msgstr "需要合约 id 以取消合约"
 
 msgid "Contract id is required to update contract"
-msgstr ""
+msgstr "需要合约 id 以更新合约"
 
 msgid "Contract not found for contract id: %1."
-msgstr ""
+msgstr "未找到合约 id：%1的合约。"
 
 msgid "Contract's stake amount is more than the maximum purchase price."
-msgstr ""
+msgstr "合约投注额大于最大购入价。"
 
 msgid "Copier can't be a trader."
-msgstr ""
+msgstr "跟单交易者不可成为交易员。"
 
 msgid "Could not retrieve contract details"
-msgstr ""
+msgstr "无法提取合约细节"
 
 msgid "Country \"%1\" is not supported by Onfido."
-msgstr ""
+msgstr "Onfido不支持%1国。"
 
 msgid "Crypto cashier is unavailable for fiat currencies."
-msgstr ""
+msgstr "法定货币无法使用加密货币收银台。"
 
 msgid "Currency is required."
-msgstr ""
+msgstr "货币是必填项。"
 
 msgid "Currency provided is different from account currency."
-msgstr ""
+msgstr "提供货币与账户货币不相符。"
 
 msgid "Currency provided is not valid for your account."
-msgstr ""
+msgstr "所提供的货币不可在账户使用。"
 
 msgid "Current password and new password cannot be the same."
-msgstr ""
+msgstr "新密码不可与当前密码相同。"
 
 msgid "DP2P is Deriv's peer-to-peer deposit and withdrawal service"
-msgstr ""
+msgstr "DP2P 是 Deriv 的点对点存取款服务"
 
 msgid "Date first contact is invalid."
-msgstr ""
+msgstr "首次接触日期无效。"
 
 msgid "Date of birth is invalid."
-msgstr ""
+msgstr "出生日期无效。"
 
 msgid "Dear %1 %2 %3,"
-msgstr ""
+msgstr "尊敬的 %1 %2 %3,"
 
 msgid "Deny this app"
-msgstr ""
+msgstr "拒绝此应用程序"
 
 msgid "Deposit"
-msgstr ""
+msgstr "存款"
 
 msgid "Deposit exceeds %1 limit %2. Aggregated deposit over period %3. Current amount %4."
-msgstr ""
+msgstr "存款超过 %1 限额 %2。%3期间累积存款额。当前金额 %4。"
 
 msgid "Deposits are currently unavailable. Please try again later."
-msgstr ""
+msgstr "目前无法存款。请稍后重试。"
 
 msgid "Deposits are temporarily unavailable for %1. Please try later."
-msgstr ""
+msgstr "%1暂时无法存款。请稍后重试。"
 
 msgid "Deriv EZ account is not available in your country yet."
-msgstr ""
+msgstr "您的国家还不能使用 Deriv EZ 账户。"
 
 msgid "Deriv EZ is currently unavailable. Please try again later."
-msgstr ""
+msgstr "Deriv EZ 目前无法使用。请稍后重试。"
 
 msgid "Deriv EZ platform is not available."
-msgstr ""
+msgstr "Deriv EZ 平台目前不可用。"
 
 msgid "Deriv P2P is currently unavailable. Please check back later."
-msgstr ""
+msgstr "Deriv P2P 目前无法使用。请稍后再查看。"
 
 msgid "Deriv P2P is unavailable in your country."
-msgstr ""
+msgstr "您的所在国无法使用 Deriv P2P。"
 
 msgid "Deriv P2P is unavailable in your country. Please provide a different account opening reason."
-msgstr ""
+msgstr "您的国家无法使用 Deriv P2P。请提供另一个开立账户的原因。"
 
 msgid "Deriv P2P is unavailable on demo accounts. Please switch to your real account."
-msgstr ""
+msgstr "演示账户无法使用 Deriv P2P。请转换到真实账户。"
 
 msgid "Deriv X account management is currently suspended."
-msgstr ""
+msgstr "Deriv X 账户管理当前已停用。"
 
 msgid "Do you wish to withdraw funds?"
-msgstr ""
+msgstr "要提款？"
 
 msgid "Document ID is required."
-msgstr ""
+msgstr "文件 ID 是必要的。"
 
 msgid "Document already uploaded."
-msgstr ""
+msgstr "文件已上传。"
 
 msgid "Document was rejected by the provider."
-msgstr ""
+msgstr "文件已被提供商拒绝。"
 
 msgid "Don't have a %1 account?"
-msgstr ""
+msgstr "没有%1账户？"
 
 msgid "Don’t have an account yet? %1Create a new account%2"
-msgstr ""
+msgstr "还未开立账户？%1开立新账户%2"
 
 msgid "Due to a network issue, we couldn't update your %1 password. Please check your email for more details"
-msgstr ""
+msgstr "由于网络问题，%1 密码不能更新。欲知详情，请查看电子邮件"
 
 msgid "Due to a network issue, we were only able to change your %1 password for these accounts:"
-msgstr ""
+msgstr "由于网络问题，只能为以下账户更改 %1密码："
 
 msgid "Due to a network issue, we were unable to change your %1 password for these accounts:"
-msgstr ""
+msgstr "由于网络问题，不能为以下账户更改%1密码："
 
 msgid "Due to a network issue, we're unable to update your investor password for the following account: %1. Please wait for a few minutes before attempting to change your investor password for the above account."
-msgstr ""
+msgstr "由于网络问题，不能为以下账户更新投资者密码：%1。请稍等数分钟，然后尝试更改此账户的投资者密码。"
 
 msgid "Due to regulatory requirements, you are required to authenticate your account in order to continue trading."
-msgstr ""
+msgstr "根据监管要求，必须在账户验证后才能继续交易。"
 
 msgid "Email"
-msgstr ""
+msgstr "电子邮件"
 
 msgid "Email is required."
-msgstr ""
+msgstr "电子邮件是必要的。"
 
 msgid "Enter the two-factor authentication (2FA) code from the authenticator app on your phone."
-msgstr ""
+msgstr "在手机的身份验证器应用中输入两因素身份验证（2FA）代码。"
 
 msgid "Error validating your transaction, please try again in a few minutes."
-msgstr ""
+msgstr "交易验证错误。请几分钟后重新尝试。"
 
 msgid "Exchange rates are not currently available."
 msgstr "目前没有可用的汇率。"
@@ -767,154 +767,154 @@ msgid "Manual Deriv X Adjustment"
 msgstr ""
 
 msgid "Max 30 tokens are allowed."
-msgstr ""
+msgstr "最多可拥有 30 个令牌。"
 
 msgid "Maximum ad amount is %1 %2. Please adjust the value."
-msgstr ""
+msgstr "最大广告金额为%1 %2。请更改数值。"
 
 msgid "Maximum ad limit is %1 %2. Please adjust the value."
-msgstr ""
+msgstr "最大广告限额为%1 %2。请更改数值。"
 
 msgid "Maximum ad limit is %1 %4, and %2 %4 has been used by existing orders, so the new amount will be %3 %4. Please adjust the value"
-msgstr ""
+msgstr "最大广告限额为 %1 %4，且 %2 %4 已被现有订单使用，因此新数额将为 %3 %4。 请调整数值"
 
 msgid "Maximum ad order amount is %1 %2. Please adjust the value."
-msgstr ""
+msgstr "最大广告订单金额为%1 %2。请更改数值。"
 
 msgid "Maximum daily profit limit exceeded for this contract."
-msgstr ""
+msgstr "此合约已超出每日最大收益限额。"
 
 msgid "Maximum file size reached. Maximum allowed is %1"
-msgstr ""
+msgstr "文件大小已达最大限额。允许最大限额是%1"
 
 msgid "Maximum order amount at this time is %1 %2. Please adjust the value or try after 00:00 GMT."
-msgstr ""
+msgstr "当前最大订单金额为%1 %2。请更改数值或 00:00 GMT后重试。"
 
 msgid "Maximum stake allowed is %1."
-msgstr ""
+msgstr "最高允许投注额为%1。"
 
 msgid "Maximum upload attempts per day reached. Maximum allowed is %1"
-msgstr ""
+msgstr "已达到每天最大上传尝试次数。允许最大限额为 %1"
 
 msgid "Migration is not in failed state."
-msgstr ""
+msgstr "迁移非处于失败状态。"
 
 msgid "Min trade stake should be lower than max trade stake."
-msgstr ""
+msgstr "最低交易投注额须低于最大交易投注额。"
 
 msgid "Minimum ad amount is %1 %2. Please adjust the value."
-msgstr ""
+msgstr "最小广告金额为%1 %2。请更改数值。"
 
 msgid "Minimum ad order amount is %1 %2. Please adjust the value."
-msgstr ""
+msgstr "最小广告订单金额为%1 %2。请更改数值。"
 
 msgid "Minimum order amount is %1. Please adjust the value."
-msgstr ""
+msgstr "最小订单金额为%1 。请更改数值。"
 
 msgid "Minor Pair"
-msgstr ""
+msgstr "次要货币对"
 
 msgid "Miss"
-msgstr ""
+msgstr "小姐"
 
 msgid "Missing or invalid required parameter."
-msgstr ""
+msgstr "缺少或无效的必填参数。"
 
 msgid "Missing required parameter."
-msgstr ""
+msgstr "缺少必填参数。"
 
 msgid "Mr"
-msgstr ""
+msgstr "先生"
 
 msgid "Mrs"
-msgstr ""
+msgstr "夫人"
 
 msgid "Ms"
-msgstr ""
+msgstr "女士"
 
 msgid "Need a new %1 investor password?"
-msgstr ""
+msgstr "需要新的 %1 投资者密码？"
 
 msgid "Need a new %1 password?"
-msgstr ""
+msgstr "需要新的 %1密码？"
 
 msgid "Need both secret question and secret answer."
-msgstr ""
+msgstr "需要机密问题和机密答案。"
 
 msgid "Need help? %1Contact us%2 via live chat."
-msgstr ""
+msgstr "需要帮助? 请通过实时聊天%1与我们联系%2。"
 
 msgid "New %1 investor password request"
-msgstr ""
+msgstr "新%1投资者密码请求"
 
 msgid "New %1 password request"
-msgstr ""
+msgstr "新%1密码请求"
 
 msgid "New device login"
-msgstr ""
+msgstr "新设备登录"
 
 msgid "No cTrader accounts found."
-msgstr ""
+msgstr "未发现 cTrader 账户。"
 
 msgid "No further trading is allowed for the current trading session."
-msgstr ""
+msgstr "当前交易时段不允许进一步交易。"
 
 msgid "No further trading is allowed on this contract type for the current trading session For more info, refer to our terms and conditions."
-msgstr ""
+msgstr "当前交易时段不允许此合约类型进一步交易。欲知详情，请参阅条款和条件。"
 
 msgid "No further trading is allowed on this growth rate and instrument. Please try again later or alternatively try on other instrument or growth rate."
-msgstr ""
+msgstr "不允许以此增长率和工具进一步交易。请稍后再试或尝试其他工具或增长率。"
 
 msgid "No information is available for this contract."
-msgstr ""
+msgstr "此合约无可用信息。"
 
 msgid "No such category or event. Please check the provided value."
-msgstr ""
+msgstr "无此类型或事件。请检查提供值。"
 
 msgid "No token found"
-msgstr ""
+msgstr "未找到令牌"
 
 msgid "No user found."
-msgstr ""
+msgstr "未找到用户。"
 
 msgid "None of the provided tokens are valid."
-msgstr ""
+msgstr "提供的所有令牌都无效。"
 
 msgid "Not Found"
-msgstr ""
+msgstr "无法找到"
 
 msgid "Note: This maybe different from your Deriv login password."
-msgstr ""
+msgstr "注意：这可能与 Deriv 登录密码不相同。"
 
 msgid "Notes must not exceed %1 characters."
-msgstr ""
+msgstr "备注不能超过 %1 个字符。"
 
 msgid "OTP verification failed"
-msgstr ""
+msgstr "OTP 验证失败"
 
 msgid "Old password cannot be empty."
-msgstr ""
+msgstr "旧密码不可为空。"
 
 msgid "Old password cannot be provided until a trading password has been set."
-msgstr ""
+msgstr "必须先设置交易密码后才能提供旧密码。"
 
 msgid "Once we’ve received your reply, we’ll verify the documents and unlock your cashier. If the payment method isn’t yours, check our %1supported payment options%2 and register for one."
-msgstr ""
+msgstr "收到答复后将验证文件并解锁收银台。如果所列的付款方式没使用，请查看％1支持的付款方式％2并注册一个。"
 
 msgid "Only %1 decimal places are allowed."
-msgstr ""
+msgstr "只允许%1个小数位。"
 
 msgid "Only a hash reference input is accepted."
-msgstr ""
+msgstr "仅接受输入一次散列参考值。"
 
 msgid "Only a maximum of two decimal points are allowed for the amount."
-msgstr ""
+msgstr "金额只允许至多 2 个小数位。"
 
 msgid "Only exchanges in your local currency are supported. Contact us via live chat to learn more."
-msgstr ""
+msgstr "只支持以当地货币兑换。通过实时聊天联系我们以了解详细信息。"
 
 msgid "Only one update per second is allowed."
-msgstr ""
+msgstr "每秒钟只允许一次更新。"
 
 msgid "Only ports 80 and 443 are allowed"
 msgstr ""
