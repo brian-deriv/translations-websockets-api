@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deriv-websocket-api\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-02-13 11:51\n"
+"PO-Revision-Date: 2024-02-14 00:17\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -617,154 +617,154 @@ msgid "Invalid Advertiser ID provided."
 msgstr "提供的广告商 ID 无效。"
 
 msgid "Invalid Deriv EZ account currency. Please check the details and try again."
-msgstr ""
+msgstr "Deriv EZ 账户货币无效。请仔细检查并重试。"
 
 msgid "Invalid URL"
-msgstr ""
+msgstr "无效网址"
 
 msgid "Invalid account."
-msgstr ""
+msgstr "无效账户。"
 
 msgid "Invalid amount."
-msgstr ""
+msgstr "无效金额。"
 
 msgid "Invalid amount. Amount provided can not have more than %1 decimal places."
-msgstr ""
+msgstr "无效金额。提供金额的小数点后不得超过%1位。"
 
 msgid "Invalid amount. Minimum is %1, maximum is %2."
-msgstr ""
+msgstr "无效金额。最小金额是%1，最大金额是%2。"
 
 msgid "Invalid currency provided."
-msgstr ""
+msgstr "提供了无效货币。"
 
 msgid "Invalid currency."
-msgstr ""
+msgstr "无效货币。"
 
 msgid "Invalid date format."
-msgstr ""
+msgstr "无效的日期格式。"
 
 msgid "Invalid expiration date"
-msgstr ""
+msgstr "无效的过期日期"
 
 msgid "Invalid landing company - %1"
-msgstr ""
+msgstr "无效的着陆公司 - %1"
 
 msgid "Invalid loginid"
-msgstr ""
+msgstr "无效登录 id"
 
 msgid "Invalid order expiry period provided."
-msgstr ""
+msgstr "提供的订单到期日无效。"
 
 msgid "Invalid payment method provided: %1."
-msgstr ""
+msgstr "提供的付款方法无效:%1。"
 
 msgid "Invalid payment methods provided."
-msgstr ""
+msgstr "提供的付款方式无效。"
 
 msgid "Invalid price. Price provided can not have more than %1 decimal places."
-msgstr ""
+msgstr "无效价格。提供价格的小数点后不得超过%1位。"
 
 msgid "Invalid request parameters."
-msgstr ""
+msgstr "无效请求参数。"
 
 msgid "Invalid request."
-msgstr ""
+msgstr "无效请求。"
 
 msgid "Invalid token"
-msgstr ""
+msgstr "无效令牌"
 
 msgid "Invalid trade type: %1."
-msgstr ""
+msgstr "无效交易类型:%1。"
 
 msgid "Invalid/duplicate token for a loginid provided."
-msgstr ""
+msgstr "提供的登录 id 无效/重复。"
 
 msgid "Is dated within the last %1 months"
-msgstr ""
+msgstr "日期在最近 %1 个月内"
 
 msgid "Issuing country is mandatory for proof of identity"
-msgstr ""
+msgstr "签发国家是身份证明的必填项"
 
 msgid "It is not possible to place an order on this advert. Please choose another advert."
-msgstr ""
+msgstr "此广告无法下订单。请选择别的广告。"
 
 msgid "It looks like the document details you entered are invalid. Please check and try again."
-msgstr ""
+msgstr "输入的文件详细信息似乎无效。请检查并重试。"
 
 msgid "It looks like the document number you entered is invalid. Please check and try again."
-msgstr ""
+msgstr "输入的文件编号似乎无效。请检查并重试。"
 
 msgid "It looks like you have already made the request. Please try again later."
-msgstr ""
+msgstr "此请求似乎已经提过了。请稍后重试。"
 
 msgid "It looks like you've made too many attempts to confirm this order. Please try again after %1 minutes."
-msgstr ""
+msgstr "似乎已多次尝试确认此订单。请%1分钟后重试。"
 
 msgid "It looks like your account is locked for MT5 transfers. Please contact us for more information."
-msgstr ""
+msgstr "账户似乎已被锁定，MT5 无法转账。欲知详情请跟我们联系。"
 
 msgid "It must be between %1 and %2."
-msgstr ""
+msgstr "须在%1 与 %2之间。"
 
 msgid "It seems you've not taken full advantage of our trading facilities with the deposit you've made. Before we can enable you to make a withdrawal via a payment agent, we need you to contact us by live chat to explain why you wish to withdraw funds."
-msgstr ""
+msgstr "存款时似乎没有充分利用交易设施。通过支付代理提款前，需使用实时聊天与我们联系，说明提取资金的原因。"
 
 msgid "It's not possible to give a review now. Reviews can only be placed within %1 hours of successfully completing the order."
-msgstr ""
+msgstr "现在无法评论。仅可在成功完成订单后%1 小时内评论。"
 
 msgid "Just hit the button below to upload a copy of your national ID, passport, or driving licence within 5 days."
-msgstr ""
+msgstr "只需于5天内单击下面的按钮，然后上传身份证、护照或驾照的影印本。"
 
 msgid "Kind Regards,"
-msgstr ""
+msgstr "谨致问候，"
 
 msgid "Legacy Contract"
-msgstr ""
+msgstr "遗留合约"
 
 msgid "Log in"
-msgstr ""
+msgstr "登录"
 
 msgid "Log in to Deriv"
-msgstr ""
+msgstr "登录 Deriv"
 
 msgid "Log in to continue."
-msgstr ""
+msgstr "登录以继续。"
 
 msgid "Log in using social account"
-msgstr ""
+msgstr "使用社交网站账户登录"
 
 msgid "Log in using your email address"
-msgstr ""
+msgstr "使用电子邮件地址登录"
 
 msgid "Login ID (%1) does not exist."
-msgstr ""
+msgstr "登录 ID (%1) 不存在。"
 
 msgid "Lookback open positions limit exceeded."
-msgstr ""
+msgstr "已超出未平仓 Lookback 头寸限额。"
 
 msgid "MT5 %1 account is not available in your country yet."
-msgstr ""
+msgstr "您的国家还不能使用 MT5 %1账户。"
 
 msgid "MT5 account management is currently suspended."
-msgstr ""
+msgstr "MT5 账户管理当前已停用。"
 
 msgid "MT5 is currently unavailable. Please try again later."
-msgstr ""
+msgstr "MT5 目前无法使用。请稍后重试。"
 
 msgid "MT5 swap-free %1 account is not available in your country yet."
-msgstr ""
+msgstr "您的国家还不能使用 MT5 无掉期%1账户。"
 
 msgid "MULTUP and MULTDOWN are not supported."
-msgstr ""
+msgstr "不支持 MULTUP 和 MULTDOWN。"
 
 msgid "Make withdrawals and transfers"
-msgstr ""
+msgstr "提款与转账"
 
 msgid "Manage your account settings"
-msgstr ""
+msgstr "账户设置管理"
 
 msgid "Manual Deriv X Adjustment"
-msgstr ""
+msgstr "Deriv X 手动调整"
 
 msgid "Max 30 tokens are allowed."
 msgstr "最多可拥有 30 个令牌。"
@@ -917,1201 +917,1201 @@ msgid "Only one update per second is allowed."
 msgstr "每秒钟只允许一次更新。"
 
 msgid "Only ports 80 and 443 are allowed"
-msgstr ""
+msgstr "只允许端口 80 与 443"
 
 msgid "Only real accounts are allowed to open %1 real accounts"
-msgstr ""
+msgstr "仅允许真实账户开立%1 真实账户"
 
 msgid "Only updates to these parameters are allowed %1."
-msgstr ""
+msgstr "只允许更新这些参数%1。"
 
 msgid "Opens late (at %1)"
-msgstr ""
+msgstr "开盘推迟（至%1）"
 
 msgid "Operate on accounts"
-msgstr ""
+msgstr "账户上操作"
 
 msgid "Option %1 value must be zero or positive number."
-msgstr ""
+msgstr "%1选项数值须为零或正数。"
 
 msgid "Or"
-msgstr ""
+msgstr "或"
 
 msgid "Or log in with"
-msgstr ""
+msgstr "或通过以下方式登录"
 
 msgid "Or you may submit a different proof of address, such as a utility bill or affidavit, with the following requirements:"
-msgstr ""
+msgstr "或者，可以提交具有以下要求的其他地址证明，例如水电煤费账单或宣誓书："
 
 msgid "Order is in progress. Changes are no longer allowed."
-msgstr ""
+msgstr "订单在进行中。不再允许更改。"
 
 msgid "Our services are not available for your country of residence. Please see our terms and conditions for more information."
-msgstr ""
+msgstr "您的居住国无法使用我们的服务。欲知详情请查看条款和条件。"
 
 msgid "P.O. Box is not accepted in address."
-msgstr ""
+msgstr "不接受邮政信箱作为地址。"
 
 msgid "P2P order %1 cancelled - seller funds released"
-msgstr ""
+msgstr "P2P 订单 %1 已取消 - 卖方资金已发放"
 
 msgid "P2P order %1 completed - funds received from %2 (%3)"
-msgstr ""
+msgstr "P2P 订单 %1 已完成 - 已收到来自%2 (%3) 的资金"
 
 msgid "P2P order %1 completed - funds transferred to %2 (%3)"
-msgstr ""
+msgstr "P2P 订单 %1 已完成 - 资金已转至%2 (%3)"
 
 msgid "P2P order %1 completed - seller funds released"
-msgstr ""
+msgstr "P2P 订单 %1 已完成 - 卖方资金已发放"
 
 msgid "P2P order %1 created - seller funds held"
-msgstr ""
+msgstr "P2P 订单 %1 已创建 - 已持有卖方资金"
 
 msgid "P2P order %1 created by %2 (%3) - seller funds held"
-msgstr ""
+msgstr "P2P 订单 %1 已由%2 (%3) 创建 - 已持有卖方资金"
 
 msgid "P2P order %1 refunded - seller funds released"
-msgstr ""
+msgstr "P2P 订单 %1 已退款 - 卖方资金已发放"
 
 msgid "POA document is already uploaded and pending for review"
-msgstr ""
+msgstr "POA 文件已上传，正在等待审核"
 
 msgid "POI documents are already uploaded and pending for review"
-msgstr ""
+msgstr "POI 文件已上传并等待审核"
 
 msgid "Password"
-msgstr ""
+msgstr "密码"
 
 msgid "Password is required."
-msgstr ""
+msgstr "密码是必需的。"
 
 msgid "Payment agent transfers are not allowed for the specified accounts."
-msgstr ""
+msgstr "指定账户不允许支付代理转账。"
 
 msgid "Payment agent transfers are not allowed within the same account."
-msgstr ""
+msgstr "同一账户内不允许支付代理转账。"
 
 msgid "Payment agent transfers are not allowed, as you have exceeded the maximum allowable transactions for today."
-msgstr ""
+msgstr "已超过今日允许的最大交易数，不允许支付代理转账。"
 
 msgid "Payment agent transfers are not allowed, as you have exceeded the maximum allowable transfer amount %1 %2 for today."
-msgstr ""
+msgstr "已超过今日允许的最大转账金额 %1 %2，不允许支付代理转账。"
 
 msgid "Payment agent transfers are temporarily unavailable in the client's country of residence."
-msgstr ""
+msgstr "客户居住国暂时不能用支付代理转账。"
 
 msgid "Payment agent withdrawals are not allowed for specified accounts."
-msgstr ""
+msgstr "指定账户不允许支付代理提款。"
 
 msgid "Payment agents are suspended in your residence country."
-msgstr ""
+msgstr "您的居住国禁止使用支付代理。"
 
 msgid "Payment currency %1 not client currency %2."
-msgstr ""
+msgstr "付款货币 %1不是客户的货币 %2。"
 
 msgid "Payment method field cannot be combined with other payment methods."
-msgstr ""
+msgstr "付款方法字段不可与其它的付款方法合并。"
 
 msgid "Payment method names cannot be provided for sell ads. Please provide saved payment methods."
-msgstr ""
+msgstr "销售广告不可提供付款方法名称。请提供保存的付款方式。"
 
 msgid "Payments"
-msgstr ""
+msgstr "支付"
 
 msgid "Payments are currently unavailable. Please try again later."
-msgstr ""
+msgstr "目前无法付款。请稍后重试。"
 
 msgid "Payments are suspended."
-msgstr ""
+msgstr "支付暂停。"
 
 msgid "Perhaps you signed up with a social account?"
-msgstr ""
+msgstr "也许您使用社交账户注册？"
 
 msgid "Permission denied, balances of all accounts require oauth token"
-msgstr ""
+msgstr "权限不足，所有账户余额需有 oauth 令牌"
 
 msgid "Permission denied, requires %1 scope(s)."
-msgstr ""
+msgstr "权限不足，范围需有%1。"
 
 msgid "Permission denied, requires %1 scope."
-msgstr ""
+msgstr "权限不足，范围需有%1。"
 
 msgid "Permission denied, requires read or %1 scopes."
-msgstr ""
+msgstr "权限不足，需读取或 %1范围。"
 
 msgid "Permission denied."
-msgstr ""
+msgstr "权限不足。"
 
 msgid "Please accept Funds Protection."
-msgstr ""
+msgstr "请接受资金保护。"
 
 msgid "Please add a payment method to this ad."
-msgstr ""
+msgstr "请为此广告添加付款方法。"
 
 msgid "Please apply to be an advertiser. If you've already applied, please contact our Customer Support team."
-msgstr ""
+msgstr "请申请成为广告商。如已经申请，请联系客服团队。"
 
 msgid "Please authenticate your %1 account to proceed with the fund transfer."
-msgstr ""
+msgstr "请验证 %1账户，以继续转汇基金。"
 
 msgid "Please authenticate your account to continue."
-msgstr ""
+msgstr "请验证账户，以继续操作。"
 
 msgid "Please authenticate your account to proceed with withdrawals."
-msgstr ""
+msgstr "请验证账户，以继续取款。"
 
 msgid "Please authenticate your account to trade on synthetic markets."
-msgstr ""
+msgstr "要在综合市场交易，请验证账户。"
 
 msgid "Please authenticate your account."
-msgstr ""
+msgstr "请验证账户。"
 
 msgid "Please be informed that there is already a withdrawal transaction pending for the provided address. Please wait the transaction to be confirmed."
-msgstr ""
+msgstr "请注意，所提供地址已经有待定的取款交易。请等待交易确认。"
 
 msgid "Please change the minimum and/or maximum order limit for this ad. The range between these limits must not overlap with another active ad you created for this currency pair and order type."
-msgstr ""
+msgstr "请更改此广告的最小和/或最大订单限额。限额范围须不与您为此货币对和订单类型创建的另一在用广告重叠。"
 
 msgid "Please close open positions and withdraw all funds from your %1 account(s). Also, notice if you have pending withdrawal requests, wait for those to be finalized first before proceeding."
-msgstr ""
+msgstr "请将持仓头寸平仓并提出%1账户的所有存款。还有注意是否有待定取款请求，继续操作前需等这些请求先完成。"
 
 msgid "Please complete the financial assessment form to lift your withdrawal and trading limits."
-msgstr ""
+msgstr "请完成财务评估表格，以便提升取款和交易限额 。"
 
 msgid "Please complete your financial assessment."
-msgstr ""
+msgstr "请完成财务评估。"
 
 msgid "Please cover all other details on your card."
-msgstr ""
+msgstr "请填写卡上的所有其他详细信息。"
 
 msgid "Please deposit to your account."
-msgstr ""
+msgstr "请存款入账户。"
 
 msgid "Please ensure your trading account currency is the same as your wallet account currency."
-msgstr ""
+msgstr "请确保交易账户货币与钱包账户货币相同。"
 
 msgid "Please ensure your trading account type is the same as your wallet account type."
-msgstr ""
+msgstr "请确保交易账户类型与钱包账户类型相同。"
 
 msgid "Please enter a limit value that's greater than 0."
-msgstr ""
+msgstr "请输入大于 0 的限值。"
 
 msgid "Please enter a number between %1 and %2."
-msgstr ""
+msgstr "请输入%1和%2之间的数字。"
 
 msgid "Please enter a number or a null value."
-msgstr ""
+msgstr "请输入数字或空值。"
 
 msgid "Please enter a valid amount to transfer."
-msgstr ""
+msgstr "请输入有效的转账金额。"
 
 msgid "Please enter a valid payment agent ID."
-msgstr ""
+msgstr "请输入有效的付款代理 ID。"
 
 msgid "Please enter a valid phone number, including the country code (e.g. +15417541234)."
-msgstr ""
+msgstr "请输入有效的电话号码，包括国家代码（例如+15417541234）。"
 
 msgid "Please enter a valid place of birth."
-msgstr ""
+msgstr "请输入有效的出生地。"
 
 msgid "Please enter end date."
-msgstr ""
+msgstr "请输入结束日期。"
 
 msgid "Please enter start date."
-msgstr ""
+msgstr "请输入开始日期。"
 
 msgid "Please enter the amount you want to transfer."
-msgstr ""
+msgstr "请输入想要转账的金额。"
 
 msgid "Please go to your profile and ensure your details are accurate. Then, verify/authenticate your account by submitting a proof of identity, such as a passport, driving licence, or national identity card, with the following requirements:"
-msgstr ""
+msgstr "请前往个人资料页面，并确保详细信息准确无误。然后，通过提交符合以下要求的身份证明（例如护照、驾驶执照或国民身份证）来验证/认证账户："
 
 msgid "Please go to your profile to update your residential address. Then, verify/authenticate your account by submitting a clear and readable document, such as a bank statement, utility bill, or affidavit, with the following requirements:"
-msgstr ""
+msgstr "请前往个人资料页面以更新居住地址。 然后，提交具有以下要求的、清晰易读的文件（例如银行月结单，水电煤费账单或宣誓书），以验证/认证账户："
 
 msgid "Please input a valid number."
-msgstr ""
+msgstr "请输入有效号码。"
 
 msgid "Please log in to continue."
-msgstr ""
+msgstr "请登录以继续。"
 
 msgid "Please log in."
-msgstr ""
+msgstr "请登录。"
 
 msgid "Please make the full payment"
-msgstr ""
+msgstr "请支付全额款项"
 
 msgid "Please note that you are limited to one fiat currency account."
-msgstr ""
+msgstr "请注意，仅限于使用一个法定货币的账户。"
 
 msgid "Please note that you are limited to only one %1 account."
-msgstr ""
+msgstr "请注意，仅限于使用一个%1账户。"
 
 msgid "Please provide a currency for the Deriv X account."
-msgstr ""
+msgstr "请提供 Deriv X 账户的货币。"
 
 msgid "Please provide a rate for this order."
-msgstr ""
+msgstr "请为此订单提供汇率。"
 
 msgid "Please provide a valid email address."
-msgstr ""
+msgstr "请提供有效的电邮地址。"
 
 msgid "Please provide an underlying symbol."
-msgstr ""
+msgstr "请提供基本符号。"
 
 msgid "Please provide at least one self-exclusion setting."
-msgstr ""
+msgstr "请提供一个以上的自我禁止设置。"
 
 msgid "Please provide complete details for your account."
-msgstr ""
+msgstr "请提供完整的账户信息。"
 
 msgid "Please provide redirect url."
-msgstr ""
+msgstr "请提供重定向网址。"
 
 msgid "Please provide valid amount."
-msgstr ""
+msgstr "请提供有效金额。"
 
 msgid "Please provide valid currency."
-msgstr ""
+msgstr "请提供有效的货币。"
 
 msgid "Please provide your contact details."
-msgstr ""
+msgstr "请提供联系信息。"
 
 msgid "Please provide your name."
-msgstr ""
+msgstr "请提供姓名。"
 
 msgid "Please provide your payment details."
-msgstr ""
+msgstr "请提供付款详细信息。"
 
 msgid "Please remove password-protection from the documents and resubmit them."
-msgstr ""
+msgstr "请删除文档中的密码保护，然后重新提交。"
 
 msgid "Please reply to this email and attach your birth certificate or submit a different proof of identity that shows your date of birth."
-msgstr ""
+msgstr "请回复此电子邮件，并附上出生证明或提交其他显示出生日期的身份证明。"
 
 msgid "Please reset your password to continue."
-msgstr ""
+msgstr "请重置密码，以继续操作。"
 
 msgid "Please return the excess funds"
-msgstr ""
+msgstr "请退还多付的金额"
 
 msgid "Please select"
-msgstr ""
+msgstr "请选择"
 
 msgid "Please select an ad that matches your currency."
-msgstr ""
+msgstr "请选择与币种相匹配的广告。"
 
 msgid "Please select your account currency first."
-msgstr ""
+msgstr "首先请选择账户货币。"
 
 msgid "Please set the currency for your existing account %1, in order to create more accounts."
-msgstr ""
+msgstr "请设置当前账户%1的货币，以开立更多账户。"
 
 msgid "Please set the currency for your existing account %1."
-msgstr ""
+msgstr "请设置当前账户%1的货币。"
 
 msgid "Please set the currency for your existing account."
-msgstr ""
+msgstr "请设置当前账户的货币。"
 
 msgid "Please set the currency of your account."
-msgstr ""
+msgstr "请设置账户的币种。"
 
 msgid "Please set the currency."
-msgstr ""
+msgstr "请设置货币。"
 
 msgid "Please set your 30-day turnover limit in our self-exclusion facilities to access the cashier."
-msgstr ""
+msgstr "请到自我禁止工具设置30天交易限额，以访问收银台。"
 
 msgid "Please set your MT5 password using the %1 API."
-msgstr ""
+msgstr "请使用%1 API设置MT5密码。"
 
 msgid "Please set your account currency."
-msgstr ""
+msgstr "请设置账户货币。"
 
 msgid "Please set your country of residence."
-msgstr ""
+msgstr "请设置居住国。"
 
 msgid "Please specify the reasons for closing your accounts."
-msgstr ""
+msgstr "请注明关闭账户的原因。"
 
 msgid "Please switch accounts to trade this contract."
-msgstr ""
+msgstr "请换账户进行此合约交易。"
 
 msgid "Please switch accounts to trade this market."
-msgstr ""
+msgstr "请换账户在此市场交易。"
 
 msgid "Please use Deriv P2P to make a withdrawal."
-msgstr ""
+msgstr "请使用 Deriv P2P 取款。"
 
 msgid "Please use Deriv P2P to make a withdrawal. Transfers aren't possible for your account at the moment."
-msgstr ""
+msgstr "请使用 Deriv P2P 取款。账户现时不可转汇。"
 
 msgid "Please use an e-wallet that you have used for deposits previously or create a new e-wallet if you don't have one. Ensure the e-wallet supports withdrawal. See the list of e-wallets that support withdrawals here: https://deriv.com/payment-methods"
-msgstr ""
+msgstr "请使用之前用于存款的电子钱包。如果没有，请创建新的电子钱包。确保电子钱包支持提款。在此处查看支持提款的电子钱包列表：https://deriv.com/payment-methods"
 
 msgid "Please use different passwords for your investor and main accounts."
-msgstr ""
+msgstr "投资者和主账户请使用不同的密码。"
 
 msgid "Please use the token below to create your new password."
-msgstr ""
+msgstr "请用以下令牌创建新密码。"
 
 msgid "Please verify your %1 account to proceed with account creation."
-msgstr ""
+msgstr "请验证 %1账户，以继续开立账户。"
 
 msgid "Please verify your identity."
-msgstr ""
+msgstr "请验证身份证明。"
 
 msgid "Please visit your profile to verify/authenticate your account. Submit a clear and readable document, such as a bank statement, utility bill, or affidavit, with the following requirements:"
-msgstr ""
+msgstr "请前往个人资料页面以验证/认证账户。提交具有以下要求、清晰可读的文件，例如银行月结单，水电煤费账单或宣誓书："
 
 msgid "Please visit your profile to verify/authenticate your account. Submit a different proof of identity, such as a passport, driving licence, or national identity card, with the following requirements:"
-msgstr ""
+msgstr "请前往个人资料页面以验证/认证账户。 提交具有以下要求的其他身份证明，例如护照、驾驶执照或国民身份证："
 
 msgid "Please visit your profile to verify/authenticate your account. Submit a document, such as a passport, driving licence, or national identity card, with the following requirements:"
-msgstr ""
+msgstr "请前往个人资料页面以验证/认证账户。 提交具有以下要求的文件，例如护照、驾驶执照或国民身份证："
 
 msgid "Please visit your profile to verify/authenticate your account. Submit a full document, such as a bank statement, utility bill, or affidavit, with the following requirements:"
-msgstr ""
+msgstr "请前往个人资料页面以验证/认证账户。提交具有以下要求的完整文件，例如银行月结单、水电煤费账单或宣誓书："
 
 msgid "Please visit your profile to verify/authenticate your account. Submit a full document, such as a passport, driving licence, or national identity card, with the following requirements:"
-msgstr ""
+msgstr "请前往个人资料页面以验证/认证账户。 提交符合以下要求的完整文件，例如护照、驾驶执照或国民身份证："
 
 msgid "Please visit your profile to verify/authenticate your account. Submit a high-resolution, clear, and readable document, such as a passport, driving licence, or national identity card, with the following requirements:"
-msgstr ""
+msgstr "请前往个人资料页面以验证/认证账户。 提交具有以下要求、具高分辨率、清晰易读的文件，例如护照、驾驶执照或国民身份证："
 
 msgid "Please visit your profile to verify/authenticate your account. Submit a selfie with a clear image of your face which we can verify against the picture in your proof of identity."
-msgstr ""
+msgstr "请前往个人资料页面以验证/认证账户。提交清晰面部图像的自拍照，以便根据身份证上的照片进行验证。"
 
 msgid "Please visit your profile to verify/authenticate your account. Submit a signed and stamped bank statement which clearly shows the account number you used to fund your Deriv account."
-msgstr ""
+msgstr "请前往个人资料页面以验证/认证账户。提交具签名并盖章的银行月结单，其中须清楚显示用于为 Deriv 账户注资的账号。"
 
 msgid "Please visit your profile to verify/authenticate your account. Submit a valid document such as a bank statement, utility bill, or affidavit, in JPG, JPEG, PNG, or PDF formats, with the following requirements:"
-msgstr ""
+msgstr "请前往个人资料页面以验证/认证账户。以 JPG、JPEG、PNG 或 PDF 格式提交具有以下要求的有效文档，例如银行月结单、水电煤费账单或宣誓书："
 
 msgid "Please visit your profile to verify/authenticate your account. Submit a valid document, such as a bank statement, utility bill, or affidavit, with the following requirements"
-msgstr ""
+msgstr "请前往个人资料页面以验证/认证账户。提交符合以下要求的有效文件，例如银行月结单、水电煤费账单或宣誓书"
 
 msgid "Please visit your profile to verify/authenticate your account. Submit a valid document, such as a bank statement, utility bill, or affidavit, with the following requirements:"
-msgstr ""
+msgstr "请前往个人资料页面以验证/认证账户。提交符合以下要求的有效文件，例如银行月结单、水电煤费账单或宣誓书："
 
 msgid "Please visit your profile to verify/authenticate your account. Submit a valid document, such as a passport, driving licence, or national identity card, with the following requirements:"
-msgstr ""
+msgstr "请前往个人资料页面以验证/认证账户。提交具有以下要求的有效文件，例如护照、驾驶执照或国民身份证："
 
 msgid "Please visit your profile to verify/authenticate your account. Submit a valid proof of identity, such as a passport, driving licence, or national identity card, with the following requirements:"
-msgstr ""
+msgstr "请前往个人资料页面以验证/认证账户。提交具有以下要求的有效身份证明，例如护照、驾驶执照或国民身份证："
 
 msgid "Please visit your profile to verify/authenticate your account. Submit your complete proof of identity, such as a passport, driving licence, or national identity card, with the following requirements:"
-msgstr ""
+msgstr "请前往个人资料页面以验证/认证账户。提交具有以下要求的完整身份证明，例如护照、驾驶执照或国民身份证："
 
 msgid "Please wait for %1 seconds before requesting another email."
-msgstr ""
+msgstr "要求另一封电子邮件前请先等待 %1秒。"
 
 msgid "Please wait for a few minutes before attempting to change your password for the above account."
-msgstr ""
+msgstr "请等待数分钟后才尝试更改以上账户的密码。"
 
 msgid "Please wait for the buyer to confirm the order."
-msgstr ""
+msgstr "请等待买者确认订单。"
 
 msgid "Please wait until the order expires to raise a dispute."
-msgstr ""
+msgstr "投诉前请先等待订单到期。"
 
 msgid "Please withdraw your account balance and close all your open positions before revoking MT5 account manager permissions."
-msgstr ""
+msgstr "撤消 MT5 账户管理员权限前，请提取账户余款并对所有持仓头寸平仓。"
 
 msgid "Postcode is required for UK residents."
-msgstr ""
+msgstr "英国居民需提供邮政编码。"
 
 msgid "Proceed"
-msgstr ""
+msgstr "执行"
 
 msgid "Professional status is not applicable to your account."
-msgstr ""
+msgstr "专业身份不适用于您的账户。"
 
 msgid "Proof of Address verification failed. Withdrawal operation suspended."
-msgstr ""
+msgstr "地址证明验证失败。提款操作暂停。"
 
 msgid "Proof of Identity or Address requirements not met. Operation rejected."
-msgstr ""
+msgstr "未符合身份或地址证明需求。操作已被拒。"
 
 msgid "Provided amount is not within permissible limits."
-msgstr ""
+msgstr "输入的数目已超出允许范围。"
 
 msgid "Provided amount is not within permissible limits. Maximum transfer amount for %1 currency is %2."
-msgstr ""
+msgstr "输入的数目已超出允许范围。%1货币的最大转账金额是%2。"
 
 msgid "Provided amount is not within permissible limits. Minimum transfer amount for %1 currency is %2."
-msgstr ""
+msgstr "输入的数目已超出允许范围。%1货币的最小转账金额是%2。"
 
 msgid "Purchasing this contract will cause you to exceed your 30-day turnover limit of %1 %2."
-msgstr ""
+msgstr "买入此合约将导致超出%1 %2的30天期交易限额。"
 
 msgid "Purchasing this contract will cause you to exceed your 7-day turnover limit of %1 %2."
-msgstr ""
+msgstr "买入此合约将导致超出%1 %2的7天期交易限额。"
 
 msgid "Purchasing this contract will cause you to exceed your daily turnover limit of %1 %2."
-msgstr ""
+msgstr "买入此合约将导致超出%1 %2的每日交易限额。"
 
 msgid "Rate Limit Exceeded."
-msgstr ""
+msgstr "已超出汇率限额。"
 
 msgid "Read user profile"
-msgstr ""
+msgstr "阅读用户个人资料"
 
 msgid "Read your trading information"
-msgstr ""
+msgstr "阅读交易信息"
 
 msgid "Read your user profile"
-msgstr ""
+msgstr "阅读用户个人资料"
 
 msgid "Realtime quotes not available for %1."
-msgstr ""
+msgstr "%1不提供实时报价。"
 
 msgid "Region added"
-msgstr ""
+msgstr "区域已添加"
 
 msgid "Reply to this email and attach any of the following."
-msgstr ""
+msgstr "回复此电子邮件，并附上以下任何一项。"
 
 msgid "Request too frequent. Please try again later."
-msgstr ""
+msgstr "请求过于频繁。请稍后重试。"
 
 msgid "Requested estimated fee is invalid. Please try submitting the withdrawal again."
-msgstr ""
+msgstr "所请求估计费用无效。请重新提交取款。"
 
 msgid "Resale not available during rollover time."
-msgstr ""
+msgstr "展期期间不可转售。"
 
 msgid "Reset Password"
-msgstr ""
+msgstr "重置密码"
 
 msgid "Reset my password"
-msgstr ""
+msgstr "重置密码"
 
 msgid "Reset to default demo account balance."
-msgstr ""
+msgstr "重置为默认演示账户余额。"
 
 msgid "Reversal of %1 trace ID %2"
-msgstr ""
+msgstr "撤销 %1 跟踪 ID %2"
 
 msgid "Reversal of fee for %1 trace ID %2"
-msgstr ""
+msgstr "撤销 %1 跟踪 ID %2 费用"
 
 msgid "Review Permissions"
-msgstr ""
+msgstr "评估权限"
 
 msgid "Rise/Fall"
-msgstr ""
+msgstr "Rise/Fall"
 
 msgid "Saved payment methods cannot be provided for buy ads. Please provide payment method names."
-msgstr ""
+msgstr "采购广告不可提供保存的付款方法。请提供付款方法名称。"
 
 msgid "Security and privacy"
-msgstr ""
+msgstr "安全隐私"
 
 msgid "Sell failed because contract was updated."
-msgstr ""
+msgstr "卖出失败，因为合约已更新。"
 
 msgid "Server must be provided for Deriv X service token."
-msgstr ""
+msgstr "必须为 Deriv X 服务令牌提供服务器。"
 
 msgid "Session duration limit cannot be more than 6 weeks."
-msgstr ""
+msgstr "交易期持续时间限制不能大于 6周。"
 
 msgid "Should you have any questions, please reach out to us through the live chat on our website."
-msgstr ""
+msgstr "如有任何疑问，请通过网站的实时聊天与我们联系。"
 
 msgid "Shows a residential address that matches your Deriv profile"
-msgstr ""
+msgstr "显示与 Deriv 账户个人资料匹配的居住地址"
 
 msgid "Some accounts are currently unavailable. Please try again later."
-msgstr ""
+msgstr "一些账户目前无法使用。请稍后重试。"
 
 msgid "Some details in your document appear to be invalid, missing, or unclear."
-msgstr ""
+msgstr "文件中有一些细节似乎无效、短缺或模糊不清。"
 
 msgid "Some details on your document appear to be invalid, missing, or unclear."
-msgstr ""
+msgstr "文件上有一些细节似乎无效、短缺或模糊不清。"
 
 msgid "Sorry, a virtual wallet account already exists. Only one virtual wallet account is allowed."
-msgstr ""
+msgstr "很抱歉，已经有虚拟钱包账户存在。只允许一个虚拟钱包账户。"
 
 msgid "Sorry, a wallet already exists with those details."
-msgstr ""
+msgstr "很抱歉，另一个钱包已经用了这些资料。"
 
 msgid "Sorry, account opening is unavailable in your region."
-msgstr ""
+msgstr "对不起，您所在的区域不可开立账户。"
 
 msgid "Sorry, account opening is unavailable."
-msgstr ""
+msgstr "对不起，不可开立账户。"
 
 msgid "Sorry, an account already exists with those details. Only one real money account is allowed per client."
-msgstr ""
+msgstr "很抱歉，另一个账户已经拥有这些资料。每个客户只允许开立一个真实资金账户。"
 
 msgid "Sorry, an error occurred while processing your request."
-msgstr ""
+msgstr "对不起，请求处理发生错误。"
 
 msgid "Sorry, an error occurred whilst processing your request. Please try again in one minute."
-msgstr ""
+msgstr "对不起，处理请求时出现错误。请一分钟后重试。"
 
 msgid "Sorry, an error occurred."
-msgstr ""
+msgstr "对不起，出错了。"
 
 msgid "Sorry, an error occurred. Please try accessing our cashier again."
-msgstr ""
+msgstr "对不起，出现错误。请重新尝试访问收银台。"
 
 msgid "Sorry, an error occurred. Please try again later."
-msgstr ""
+msgstr "对不起，出现错误。请稍后重试。"
 
 msgid "Sorry, but setting your maximum deposit limit is unavailable in your country."
-msgstr ""
+msgstr "对不起，您所在的国家不可设置最大存款限额。"
 
 msgid "Sorry, cashier is temporarily unavailable due to system maintenance."
-msgstr ""
+msgstr "对不起，由于系统维护，收银台暂停使用。"
 
 msgid "Sorry, cashier is temporarily unavailable. Please try again later."
-msgstr ""
+msgstr "对不起，收银台暂时不可用。请稍后重试。"
 
 msgid "Sorry, crypto cashier is temporarily unavailable due to system maintenance."
-msgstr ""
+msgstr "对不起，由于系统维护，加密货币收银台暂停使用。"
 
 msgid "Sorry, deposits for this currency are currently disabled."
-msgstr ""
+msgstr "对不起，目前不能用此币种存款。"
 
 msgid "Sorry, it looks like you already have a real money account with us. Only one real money account is allowed for each client."
-msgstr ""
+msgstr "很抱歉，看来您已经有了真实资金账户。每个客户只能开立一个真实资金账户。"
 
 msgid "Sorry, our service is not available for your country of citizenship."
-msgstr ""
+msgstr "对不起，不向您所属的国家提供服务。"
 
 msgid "Sorry, our service is not available for your country of residence."
-msgstr ""
+msgstr "对不起，不向您所在的国家提供服务。"
 
 msgid "Sorry, the aggregate payouts of contracts on your account cannot exceed %1 %2."
-msgstr ""
+msgstr "对不起，账户的累计赔付额不能大于 %1 %2 。"
 
 msgid "Sorry, the provided state is not valid for your country of residence."
-msgstr ""
+msgstr "对不起，所提供的州/省/市/自治区不在您的居住国内。"
 
 msgid "Sorry, there is an internal error."
-msgstr ""
+msgstr "对不起，出现内部错误。"
 
 msgid "Sorry, there was a problem validating your personal information with our payment processor. Please check your details and try again."
-msgstr ""
+msgstr "对不起，支付处理器在验证个人信息时出现了问题。请检查个人资料并重试。"
 
 msgid "Sorry, there was a problem validating your personal information with our payment processor. Please verify that your date of birth was input correctly in your account settings."
-msgstr ""
+msgstr "对不起，支付处理器在验证个人信息时出现了问题。请确认在账户设置时输入正确的出生日期。"
 
 msgid "Sorry, this facility is temporarily disabled due to system maintenance."
-msgstr ""
+msgstr "对不起，由于系统维护，此设施暂停使用。"
 
 msgid "Sorry, this feature is available to demo accounts only"
-msgstr ""
+msgstr "对不起，此功能仅适用于演示账户"
 
 msgid "Sorry, transfers are currently unavailable. Please try again later."
-msgstr ""
+msgstr "对不起，目前无法转账。请稍后重试。"
 
 msgid "Sorry, we couldn't find your DXTrader account."
-msgstr ""
+msgstr "很抱歉，无法找到 DXTrader 账户。"
 
 msgid "Sorry, we couldn't find your MT5 account."
-msgstr ""
+msgstr "很抱歉，无法找到 MT5 账户。"
 
 msgid "Sorry, we couldn't find your trading account."
-msgstr ""
+msgstr "很抱歉，无法找到交易账户。"
 
 msgid "Sorry, we couldn't find your wallet account."
-msgstr ""
+msgstr "很抱歉，无法找到钱包账户。"
 
 msgid "Sorry, we couldn't link your trading account to this wallet."
-msgstr ""
+msgstr "很抱歉，无法将交易账户与此钱包链接。"
 
 msgid "Sorry, withdrawals for this currency are currently disabled."
-msgstr ""
+msgstr "对不起，目前不能用此币种提款。"
 
 msgid "Sorry, you are too young to open an account."
-msgstr ""
+msgstr "对不起，年龄太小，不能开户。"
 
 msgid "Sorry, you cannot hold more than %1 contracts at a given time. Please wait until some contracts have closed and try again."
-msgstr ""
+msgstr "对不起，在既定时间内持有的合约不可超过 %1 。请等到一些合约终止后才重试。"
 
 msgid "Sorry, you cannot withdraw. Your account balance is %3 %2."
-msgstr ""
+msgstr "对不起，不能提款。账户余额为%3 %2。"
 
 msgid "Sorry, your account cash balance is too high (%1). Your maximum account balance is %2."
-msgstr ""
+msgstr "对不起，账户现金余额太高(%1)。最高余额为%2。"
 
 msgid "Sorry, your account does not allow passwords because you use social media to log in."
-msgstr ""
+msgstr "对不起，由于使用社交媒体登录，账户不允许输入密码。"
 
 msgid "Sorry, your account is not authorised for any further contract purchases."
-msgstr ""
+msgstr "对不起，账户无权进一步买入任何合约。"
 
 msgid "Sorry, your trading account is already linked to a wallet."
-msgstr ""
+msgstr "对不起，交易账户已与钱包链接。"
 
 msgid "Sorry, your withdrawal transaction for id: %1 is under processing or has been rejected."
-msgstr ""
+msgstr "抱歉，Id：%1的取款交易在处理中或已被拒。"
 
 msgid "Start time %1 must be before end time %2"
-msgstr ""
+msgstr "开始时间 %1 必须早于到期时间%2"
 
 msgid "Start time is in the past."
-msgstr ""
+msgstr "开始时间在过去。"
 
 msgid "Start trading"
-msgstr ""
+msgstr "开始交易"
 
 msgid "Stop loss"
-msgstr ""
+msgstr "止损"
 
 msgid "Streaming for this symbol is not available due to license restrictions."
-msgstr ""
+msgstr "由于许可证限制，无法串流此符号。"
 
 msgid "Style %1 invalid"
-msgstr ""
+msgstr "样式 %1 无效"
 
 msgid "Submit your proof of address and identity before signing up for Deriv P2P."
-msgstr ""
+msgstr "Deriv P2P 注册前请提交地址和身份证明。"
 
 msgid "Symbol %1 invalid."
-msgstr ""
+msgstr "%1 符号无效。"
 
 msgid "Symbol %1 is invalid."
-msgstr ""
+msgstr "%1 符号无效。"
 
 msgid "TOTP based 2FA is already disabled."
-msgstr ""
+msgstr "基于 TOTP 的 2FA 已禁用。"
 
 msgid "TOTP based 2FA is already enabled."
-msgstr ""
+msgstr "基于 TOTP 的 2FA 已启用。"
 
 msgid "TURBOSLONG and TURBOSPUT are not supported."
-msgstr ""
+msgstr "不支持 TURBOSLONG 和 TURBOSPUT。"
 
 msgid "Take profit"
-msgstr ""
+msgstr "止盈"
 
 msgid "Target currency is required."
-msgstr ""
+msgstr "目标货币是必填项。"
 
 msgid "Tax information cannot be removed once it has been set."
-msgstr ""
+msgstr "税务信息一旦设置后无法移除。"
 
 msgid "Tax-related information is mandatory for legal and regulatory requirements. Please provide your latest tax information."
-msgstr ""
+msgstr "与税务相关的信息是法律和法规强制要求的。 请提供最新的税务信息。"
 
 msgid "Temporarily unavailable"
-msgstr ""
+msgstr "暂时不可用"
 
 msgid "Terms and conditions"
-msgstr ""
+msgstr "条款和条件"
 
 msgid "Terms and conditions approval is required."
-msgstr ""
+msgstr "需要批准条款和条件。"
 
 msgid "That doesn't look like an email address."
-msgstr ""
+msgstr "这似乎不是电子邮件地址。"
 
 msgid "That nickname is taken. Pick another."
-msgstr ""
+msgstr "该昵称已被使用。请选择另一个。"
 
 msgid "That password is incorrect. Please try again."
-msgstr ""
+msgstr "密码不正确。请重试。"
 
 msgid "The %1 team."
-msgstr ""
+msgstr "%1 团队。"
 
 msgid "The IDV result is missing."
-msgstr ""
+msgstr "IDV 结果缺失。"
 
 msgid "The address is in use for a deposit transaction. Please use a different address for this withdrawal."
-msgstr ""
+msgstr "该地址正在用于存款交易。请用其他地址提款。"
 
 msgid "The address you entered appears to be the same as the account you are withdrawing from. Please enter a different account address."
-msgstr ""
+msgstr "输入的地址像是与提款账户地址相同。请输入不同的账户地址。"
 
 msgid "The address you provided does not accept withdrawals. Please enter a different address."
-msgstr ""
+msgstr "提供的地址不接受提款。请输入不同的地址。"
 
 msgid "The allowed range for floating rate is -%1% to +%1%."
-msgstr ""
+msgstr "浮动汇率的允许范围为 -%1% 至 +%1%。"
 
 msgid "The amount of the order exceeds your funds available in Deriv P2P."
-msgstr ""
+msgstr "订单金额超出了 Deriv P2P 可用资金。"
 
 msgid "The amount you entered exceeds your commission balance. You may withdraw up to %1 %2."
-msgstr ""
+msgstr "输入的金额超出了佣金余额。可取款额至多为 %1 %2。"
 
 msgid "The authorized account cannot be used to perform transfers."
-msgstr ""
+msgstr "授权账户不能用于转账。"
 
 msgid "The back of your document appears to be missing. Please include both sides of your identity document."
-msgstr ""
+msgstr "似乎忘了提供文件的背面。请提供身份证件的正反两面。"
 
 msgid "The buyer hasn’t made the full payment"
-msgstr ""
+msgstr "买方尚未支付全额款项"
 
 msgid "The client is missing, please provide a valid client."
-msgstr ""
+msgstr "客户缺失，请提供有效客户。"
 
 msgid "The contract %4 has changed from %2 %1 to %3 %1."
-msgstr ""
+msgstr "合约 %4 已从 %2 %1变为%3 %1。"
 
 msgid "The contract has expired"
-msgstr ""
+msgstr "合约已到期"
 
 msgid "The country you selected isn't supported."
-msgstr ""
+msgstr "选择的国家（地区）不受支持。"
 
 msgid "The credit to your Deriv account did not complete. Please contact our Customer Support team."
-msgstr ""
+msgstr "Deriv 账户无法完成进账。请联系客服团队。"
 
 msgid "The date of birth on your document doesn't match your profile."
-msgstr ""
+msgstr "文件中的出生日期与个人资料不匹配。"
 
 msgid "The date of birth retrieved from your document doesn't match your profile."
-msgstr ""
+msgstr "文件检索的出生日期与个人资料不匹配。"
 
 msgid "The date you entered is not allowed. Please enter a date between %1 and %2."
-msgstr ""
+msgstr "输入的日期不允许。请输入介于%1 和 %2之间的日期。"
 
 msgid "The deposit to your Deriv X account did not complete. Please contact our Customer Support team."
-msgstr ""
+msgstr "无法存款到 Deriv X 账户。请联系客服团队。"
 
 msgid "The deposit to your cTrader account did not complete. Please contact our Customer Support team."
-msgstr ""
+msgstr "无法存款到 cTrader 账户。请联系客服团队。"
 
 msgid "The details in the proof of address don't match your profile."
-msgstr ""
+msgstr "地址证明中的详细信息与个人资料不匹配。"
 
 msgid "The document is missing."
-msgstr ""
+msgstr "文件缺失。"
 
 msgid "The document type you entered isn't supported for the country you selected."
-msgstr ""
+msgstr "选择的国家（地区）不支持输入的文件类型。"
 
 msgid "The document was rejected by the Provider."
-msgstr ""
+msgstr "文件已被提供商拒绝。"
 
 msgid "The document you provided appears to be two different types. Please try again or provide another document."
-msgstr ""
+msgstr "提供的文件似乎是两种不同的类型。请重试或提供其他文件。"
 
 msgid "The document you provided is not supported for your country. Please provide a supported document for your country."
-msgstr ""
+msgstr "所在的国家/地区不支持提供的文件。请提供受所在国家/地区支持的文件。"
 
 msgid "The document you used appears to be expired. Please use a valid document."
-msgstr ""
+msgstr "使用的文件似乎已过期。请用有效的文件。"
 
 msgid "The document you used appears to be from an underage individual. Please use a valid document."
-msgstr ""
+msgstr "使用的文件似乎来自未成年人。请用有效的文件。"
 
 msgid "The document's owner is deceased."
-msgstr ""
+msgstr "文件拥有者已故。"
 
 msgid "The document's validity has been expired."
-msgstr ""
+msgstr "文件已到期。"
 
 msgid "The document's verification has started."
-msgstr ""
+msgstr "文件验证已开始。"
 
 msgid "The documents you submitted as proof of address are password-protected."
-msgstr ""
+msgstr "提交的地址证明文件受密码保护。"
 
 msgid "The documents you submitted as proof of address could not be opened as they are either in an unsupported format or are corrupted."
-msgstr ""
+msgstr "提交的地址证明文件格式不受支持或已损坏，因此无法打开。"
 
 msgid "The field document number is required."
-msgstr ""
+msgstr "文件号是必填项。"
 
 msgid "The field document type is required."
-msgstr ""
+msgstr "文件类型是必填项。"
 
 msgid "The field issuing country is required."
-msgstr ""
+msgstr "发件国是必填项。"
 
 msgid "The financial assessment is not complete"
-msgstr ""
+msgstr "未完成财务评估"
 
 msgid "The first 6 digits and last 4 digits of your card number."
-msgstr ""
+msgstr "卡号的前 6 位数字和后 4 位数字。"
 
 msgid "The following MT5 account(s) are temporarily inaccessible: %1. Please try again later."
-msgstr ""
+msgstr "以下 MT5 账户暂时无法访问：％1。请稍后重试。"
 
 msgid "The following parameters are missing: %1"
-msgstr ""
+msgstr "以下参数丢失：%1"
 
 msgid "The front of your document appears to be missing. Please provide both sides of your identity document."
-msgstr ""
+msgstr "似乎忘了提供文件的正面。请提供身份证件的正反两面。"
 
 msgid "The given URL scheme is not valid"
-msgstr ""
+msgstr "提供网址方案无效"
 
 msgid "The image quality of your document is too low. Please provide a hi-res photo of your identity document."
-msgstr ""
+msgstr "文件的图像质量太低。请提供高分辨率的身份证件照片。"
 
 msgid "The link that you used appears to be invalid. Please check and try again."
-msgstr ""
+msgstr "使用的链接似乎无效。请检查并重试。"
 
 msgid "The maximum amount for deposits is %1 %2. Please adjust your amount."
-msgstr ""
+msgstr "最大存款金额为%1 %2。请更改金额。"
 
 msgid "The maximum amount of transfers is %1 %2 per day. Please try again tomorrow."
-msgstr ""
+msgstr "每天最大转账金额为%1 %2。明天请重试。"
 
 msgid "The maximum amount you may transfer is: %1."
-msgstr ""
+msgstr "可转汇的最大金额为：%1。"
 
 msgid "The maximum you can transfer is %1 %3. You can withdraw the balance (%2 %3) through Deriv P2P."
-msgstr ""
+msgstr "可转汇最大金额为%1 %3。可通过 Deriv P2P 提取余额 (%2 %3)。"
 
 msgid "The minimum amount for transfers is %1 %2 after conversion fees are deducted. Please adjust the amount."
-msgstr ""
+msgstr "扣除兑换费后最小转账金额为%1 %2。请更改金额。"
 
 msgid "The minimum amount for transfers is %1 %2. Please adjust your amount."
-msgstr ""
+msgstr "最小转账金额为%1 %2。请更改金额。"
 
 msgid "The minimum order amount should be less than or equal to the maximum order amount. Please adjust the value."
-msgstr ""
+msgstr "最小订单金额须小于或等于最大订单金额。请更改数值。"
 
 msgid "The minimum withdrawal amount allowed is %1 %2."
-msgstr ""
+msgstr "最低允许取款限额是%1%2。"
 
 msgid "The name is taken."
-msgstr ""
+msgstr "此名已被注册。"
 
 msgid "The name on the proof of address doesn't match your Deriv profile."
-msgstr ""
+msgstr "地址证明上的姓名与 Deriv/Binary 账戶个人资料不匹配。"
 
 msgid "The name on your document doesn't match your profile."
-msgstr ""
+msgstr "文件上的姓名与个人资料不匹配。"
 
 msgid "The name retrieved from your document doesn't match your profile."
-msgstr ""
+msgstr "文件检索的姓名与个人资料不匹配。"
 
 msgid "The names on your proof of identity and Deriv profile don't match."
-msgstr ""
+msgstr "身份证明文件和 Deriv 账户个人资料中的姓名不匹配。"
 
 msgid "The new password is the same as your investor password. Please take a different password."
-msgstr ""
+msgstr "新密码与投资者密码相同。请用别的密码。"
 
 msgid "The new password is the same as your main password. Please take a different password."
-msgstr ""
+msgstr "新密码与主密码相同。请用别的密码。"
 
 msgid "The numeric value is invalid."
-msgstr ""
+msgstr "此数值无效。"
 
 msgid "The offset value cannot be negative. Please enter 0 or higher."
-msgstr ""
+msgstr "抵销数值不可为负。请输入 0 或更大数值。"
 
 msgid "The payment agent facility is not available for this account."
-msgstr ""
+msgstr "此账户无可用支付代理设施。"
 
 msgid "The payment method ID does not exist."
-msgstr ""
+msgstr "付款方法 ID 不存在。"
 
 msgid "The payment method feature is not available on P2P yet. Please check back later."
-msgstr ""
+msgstr "P2P 目前无法使用此付款方法功能。请稍后再查看。"
 
 msgid "The proof of ownership id provided is not valid"
-msgstr ""
+msgstr "所提供的所有权 id 证明无效"
 
 msgid "The provided Deriv account ID is not valid."
-msgstr ""
+msgstr "所提供的 Deriv 账户 ID 无效。"
 
 msgid "The provided Tax Identification Number is invalid. Please try again."
-msgstr ""
+msgstr "提供的税务识别号无效。 请再试一次。"
 
 msgid "The provided address is invalid."
-msgstr ""
+msgstr "所提供的地址无效。"
 
 msgid "The provided amount is invalid."
-msgstr ""
+msgstr "所提供的金额无效。"
 
 msgid "The provided currency %1 is invalid."
-msgstr ""
+msgstr "所提供的货币 %1无效。"
 
 msgid "The provided currency %1 is not a valid cryptocurrency."
-msgstr ""
+msgstr "所提供的货币 %1不是有效的加密货币。"
 
 msgid "The provided currency %1 is not applicable for this account."
-msgstr ""
+msgstr "所提供的货币 %1不可在此账户使用。"
 
 msgid "The provided currency %1 is not selectable at the moment."
-msgstr ""
+msgstr "所提供的货币 %1目前不可选用。"
 
 msgid "The provided currency %1 is not the default currency"
-msgstr ""
+msgstr "所提供的货币 %1不是默认货币"
 
 msgid "The rate of the advert has changed. Please try creating your order again."
-msgstr ""
+msgstr "广告费已更改。请重新创建订单。"
 
 msgid "The requested maximum amount must be greater than minimum amount."
-msgstr ""
+msgstr "请求的最大金额须大于最小金额。"
 
 msgid "The requested minimum amount must be greater than zero."
-msgstr ""
+msgstr "请求的最小金额必须大于零。"
 
 msgid "The requested service is unavailable at the moment."
-msgstr ""
+msgstr "要求的服务目前不可用。"
 
 msgid "The required funds could not be deposited to your cTrader account. Please try a different account."
-msgstr ""
+msgstr "无法将所需款项存入 cTrader 账户。请试用别的账户。"
 
 msgid "The required funds could not be withdrawn from your Deriv X account. Please try later or use a different account."
-msgstr ""
+msgstr "无法从 Deriv X 账户取出所需款项。请稍后再试或使用别的账户。"
 
 msgid "The required funds could not be withdrawn from your Deriv account. Please try a different account."
-msgstr ""
+msgstr "无法从 Deriv 账户取出所需款项。请试用别的账户。"
 
 msgid "The required funds could not be withdrawn from your cTrader account. Please try later or use a different account."
-msgstr ""
+msgstr "无法从 cTrader 账户取出所需款项。请稍后再试或使用别的账户。"
 
 msgid "The security hash used in your request appears to be invalid."
-msgstr ""
+msgstr "请求中使用的安全哈希似乎无效。"
 
 msgid "The selfie submitted does not show a clear image of your face."
-msgstr ""
+msgstr "提交的自拍照未显示清晰的脸部图像。"
 
 msgid "The serial number of your document couldn't be verified."
-msgstr ""
+msgstr "文件系列号无法验证。"
 
 msgid "The system is currently under heavy load, and this call has been suspended temporarily. Please try again in a few minutes."
-msgstr ""
+msgstr "当前系统载入量大，此呼叫已暂停。 请几分钟后再试一次。"
 
 msgid "The token is invalid, requires 'admin' scope."
-msgstr ""
+msgstr "令牌无效，须‘管理员’权限。"
 
 msgid "The token is invalid."
-msgstr ""
+msgstr "令牌无效。"
 
 msgid "The token you used is invalid in this session. Please get a new token and try again."
-msgstr ""
+msgstr "使用的令牌在此会话中无效。请获取新令牌并重试。"
 
 msgid "The transfer completed successfully, but an error occured when getting account details."
-msgstr ""
+msgstr "转账已成功完成，但在获取账户详细时出错。"
 
 msgid "The transfer could not be completed: %1"
-msgstr ""
+msgstr "转账无法完成: %1"
 
 msgid "The type of document you submitted as proof of identity can't be accepted."
-msgstr ""
+msgstr "提交的身份证明文件类型无法接受。"
 
 msgid "The underlying market has moved too much since you priced the contract."
-msgstr ""
+msgstr "自从为交易定价后，标的市场已发生太大变化。"
 
 msgid "The verification is passed but the personal info is not available to compare."
-msgstr ""
+msgstr "验证已通过，但没有个人信息供比较。"
 
 msgid "The verification status is not available, There is no response from provider."
-msgstr ""
+msgstr "没有验证状态的信息，提供商没有回应。"
 
 msgid "The verification status is not available, provider says:  Microservice unavailable."
-msgstr ""
+msgstr "没有验证状态的信息，提供商说：微服务不可用。"
 
 msgid "The verification status is not available, provider says: Invalid webhook request."
-msgstr ""
+msgstr "没有验证状态的信息，提供商说：webhook 请求无效。"
 
 msgid "The verification status is not available, provider says: Issuer Unavailable."
-msgstr ""
+msgstr "没有验证状态的信息，提供商说：无发件者信息。"
 
 msgid "The verification status is not available, provider says: Malformed JSON."
-msgstr ""
+msgstr "没有验证状态的信息，提供商说：JSON 格式错误。"
 
 msgid "The verification status is not available, provider says: N/A."
-msgstr ""
+msgstr "没有验证状态的信息，提供商说：不适用。"
 
 msgid "The verification status is not available, provider says: Needs Technical Investigation."
-msgstr ""
+msgstr "没有验证状态的信息，提供商说：需技术检查。"
 
 msgid "The verification status is not available, provider says: Provider Unavailable."
-msgstr ""
+msgstr "没有验证状态的信息，提供商说：提供商不可用。"
 
 msgid "The verification status is not available, provider says: Timeout."
-msgstr ""
+msgstr "没有验证状态的信息，提供商说：超时。"
 
 msgid "The verification status is not available, provider says: Undesired HTTP code."
-msgstr ""
+msgstr "没有验证状态的信息，提供商说：不需要的 HTTP 代码。"
 
 msgid "The verification status is not available, provider says: Unexpected Error."
-msgstr ""
+msgstr "没有验证状态的信息，提供商说：意外错误。"
 
 msgid "The verification status was empty, rejected for lack of information."
-msgstr ""
+msgstr "验证状态为空白，因缺少信息被拒。"
 
 msgid "There are no items during this period"
-msgstr ""
+msgstr "此期间内无项目"
 
 msgid "There are no items here."
-msgstr ""
+msgstr "此处无项目。"
 
 msgid "There is no open contract for the client!"
-msgstr ""
+msgstr "客户无未结合约！"
 
 msgid "There is no sold contract during this period!"
-msgstr ""
+msgstr "此期间内没有售出合约！"
 
 msgid "There was a problem in placing this order. %1"
-msgstr ""
+msgstr "下此订单时发生问题。%1"
 
 msgid "There was a problem in upgrading your limit. Please try again later or contact our Customer Support team for more information."
-msgstr ""
+msgstr "升级限额时出现问题。请稍后重试或联系客户支持团队以获取更多信息。"
 
 msgid "There was a problem validating your personal details."
-msgstr ""
+msgstr "个人资料验证出了问题。"
 
 msgid "There was an error creating cTrader account. Please try again later."
-msgstr ""
+msgstr "开立 cTrader 账户时出错。请稍后重新尝试。"
 
 msgid "There was an error linking created cTrader account. Please try again later."
-msgstr ""
+msgstr "链接已开立的 cTrader 账户时出错。请稍后重新尝试。"
 
 msgid "There was an error processing the request."
-msgstr ""
+msgstr "处理请求时出错。"
 
 msgid "There was an error while creating your account. Please try again later."
-msgstr ""
+msgstr "开立账户时出错。请稍后重新尝试。"
 
 msgid "There was an issue with changing your %1 password"
-msgstr ""
+msgstr "更改 %1密码时发生问题"
 
 msgid "This %1 account is not available for your account."
-msgstr ""
+msgstr "账户不能使用 %1账户。"
 
 msgid "This API is deprecated."
-msgstr ""
+msgstr "此 API 已被弃用。"
 
 msgid "This Deriv EZ account has an invalid Landing Company."
-msgstr ""
+msgstr "此 Deriv EZ 账户含无效的登陆公司。"
 
 msgid "This MT5 account has an invalid Landing Company."
-msgstr ""
+msgstr "此 MT5 账户含无效的登陆公司。"
 
 msgid "This account does not allow MT5 trading. Please log in to the correct account."
-msgstr ""
+msgstr "此账户不允许 MT5 交易。请到正确的账户登录。"
 
 msgid "This account is not registered as a Deriv P2P advertiser."
-msgstr ""
+msgstr "此账户还未注册为 Deriv P2P 广告商。"
 
 msgid "This account is unavailable."
-msgstr ""
+msgstr "此账户不可用。"
 
 msgid "This ad is currently unavailable. Please choose another ad or check back later."
-msgstr ""
+msgstr "此广告目前无法使用。请选择其他广告或稍后再查看。"
 
 msgid "This address has been blocked for use on our platform. Please enter another address to proceed."
-msgstr ""
+msgstr "此地址已被禁止在平台使用。请输入另一地址以继续操作。"
 
 msgid "This advert has no payment methods. Please add at least one before activating it."
-msgstr ""
+msgstr "此广告无付款方法。启用前请提供至少一种方法。"
 
 msgid "This advertiser has not been approved yet. Please choose another advertiser."
-msgstr ""
+msgstr "此广告商还未被批准。请选择别的广告商。"
 
 msgid "This advertiser is currently inactive. Please check again later or choose another advertiser."
-msgstr ""
+msgstr "此广告商目前未启用。请稍后再查看或选择别的广告商。"
 
 msgid "This amount is too low. Please enter a minimum of %2 %1."
-msgstr ""
+msgstr "此数额过低，请输入至少%2 %1。"
 
 msgid "This contract cannot be properly validated at this time."
-msgstr ""
+msgstr "目前该交易无法正确验证。"
 
 msgid "This contract cannot be updated once you've made your purchase. This feature is not available for this contract type."
-msgstr ""
+msgstr "购买后，此合约无法更新。此功能不适用于此合约类型。"
 
 msgid "This contract is currently unavailable due to market conditions"
-msgstr ""
+msgstr "由于市场条件，此合约当前不可交易"
 
 msgid "This contract is limited to %1 payout on this account."
-msgstr ""
+msgstr "此账户合约的赔付额限为 %1。"
 
 msgid "This contract is unavailable on this account."
-msgstr ""
+msgstr "账户无法使用此合约。"
 
 msgid "This contract was not found among your open positions."
-msgstr ""
+msgstr "未平仓头寸中未找到该合约。"
 
 msgid "This contract's price is %2 %1. Contracts purchased from %3 must have a purchase price above %4 %1. Please accordingly increase the contract amount to meet this minimum stake."
-msgstr ""
+msgstr "此合约价格为%2 %1。从%3购入的合约价格必须高于%4 %1。请增加合约金额以达到最低投注额。"
 
 msgid "This currency is not available."
-msgstr ""
+msgstr "此币种不可用。"
 
 msgid "This currency is temporarily suspended. Please select another currency to proceed."
-msgstr ""
+msgstr "此币种已暂停使用。请选择另一币种继续。"
 
 msgid "This deposit will cause your account balance to exceed your account limit of %1 %2."
-msgstr ""
+msgstr "此存款将导致账户余额超出%1 %2账户限额。"
 
 msgid "This deposit will cause your account balance to exceed your limit of %1 %2. To proceed with this deposit, please adjust your self exclusion settings."
-msgstr ""
+msgstr "此存款将导致账户余额超出%1 %2限额。请调整自我禁止设置以继续存款。"
 
 msgid "This document number was already submitted for a different account. It seems you have an account with us that doesn't need further verification. Please contact us via live chat if you need help."
-msgstr ""
+msgstr "另一账户已提交了此文档编号。看来您已拥有不需要进一步验证的账户。如果需要帮助，请通过实时聊天与我们联系。"
 
 msgid "This email address is invalid."
-msgstr ""
+msgstr "此电子邮件地址无效。"
 
 msgid "This email is already in use. Please use a different email."
-msgstr ""
+msgstr "此电子邮件地址已被取用。请用别的邮箱号。"
 
 msgid "This feature is not allowed for internal clients."
-msgstr ""
+msgstr "内部客户不可使用此功能。"
 
 msgid "This feature is not available for virtual accounts."
-msgstr ""
+msgstr "此功能不适用于虚拟账户。"
 
 msgid "This feature is only available for accounts with crypto as currency."
-msgstr ""
+msgstr "此功能仅适用于采用加密货币的账户。"
 
 msgid "This feature is only available for wallet accounts."
-msgstr ""
+msgstr "此功能仅适用于钱包账户。"
 
 msgid "This feature is suspended for system maintenance. Please try later."
-msgstr ""
+msgstr "由于系统维护，此功能已暂停使用。请稍后重试。"
 
 msgid "This field is required."
-msgstr ""
+msgstr "此为必填字段。"
 
 msgid "This field must contain at least one alphabetic character."
-msgstr ""
+msgstr "此字段需包含至少一个字母。"
 
 msgid "This is a virtual-money account. Please switch to a real-money account to access cashier."
-msgstr ""
+msgstr "这是虚拟货币账户。要访问收银台请转换到真实资金账户。"
 
 msgid "This market is presently closed."
-msgstr ""
+msgstr "此市场目前已收市。"
 
 msgid "This method of verification is not allowed. Please try another method."
-msgstr ""
+msgstr "此验证方法不允许。请试用别的方法。"
 
 msgid "This order can only be reviewed after it has been successfully completed."
-msgstr ""
+msgstr "成功完成订单后才能评价。"
 
 msgid "This order cannot be reviewed. It was not successfully completed."
-msgstr ""
+msgstr "此订单无法评价。尚未成功完成。"
 
 msgid "This order does not exist."
-msgstr ""
+msgstr "此订单 不存在。"
 
 msgid "This order has already been cancelled."
-msgstr ""
+msgstr "此订单已取消。"
 
 msgid "This order has already been completed."
-msgstr ""
+msgstr "此订单已完成。"
 
 msgid "This order has expired and cannot be changed."
-msgstr ""
+msgstr "此订单已过期且无法修改。"
 
 msgid "This order is complete and can no longer be disputed."
-msgstr ""
+msgstr "此订单已完成，因此无法提交投诉。"
 
 msgid "This order is under dispute."
-msgstr ""
+msgstr "此订单有争议。"
 
 msgid "This payment method is in use by multiple ads and/or orders, and cannot be deleted or deactivated."
-msgstr ""
+msgstr "此付款方法有多个广告和/或订单在使用，不可删除或停用。"
 
 msgid "This payment method is in use by the following order(s): %1. Please wait until it completes."
 msgstr ""
