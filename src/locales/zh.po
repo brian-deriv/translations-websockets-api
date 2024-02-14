@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deriv-websocket-api\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-02-14 12:33\n"
+"PO-Revision-Date: 2024-02-14 14:50\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -3050,1165 +3050,1165 @@ msgid "Your account balance (%1 %2) is insufficient to buy this contract (%3 %2)
 msgstr "账户余额(%1 %2) 不足以买入该合约 (%3 %2)。"
 
 msgid "Your account balance is insufficient for this transaction."
-msgstr ""
+msgstr "账户余额不足，无法交易。"
 
 msgid "Your account cashier is locked. Please contact us for more information."
-msgstr ""
+msgstr "账户收银台已被锁定，欲知详情请跟我们联系。"
 
 msgid "Your account currencies need to be the same. Please choose accounts with matching currencies and try again."
-msgstr ""
+msgstr "账户币种必须相同。 请选择币种匹配的账户，然后重试。"
 
 msgid "Your account currency and trader currency must be same."
-msgstr ""
+msgstr "账户货币必须与交易者货币相符。"
 
 msgid "Your account does not meet the deposit requirement of %1 %2. Note that deposits from credit cards and certain e-wallets do not count towards the deposit requirement."
-msgstr ""
+msgstr "账户不符合%1 %2的存款需求。请注意，来自信用卡和某些电子钱包的存款不计入存款要求。"
 
 msgid "Your account has exceeded the trading limit with free promo code, please deposit if you wish to continue trading."
-msgstr ""
+msgstr "账户已超过免费推广代码的交易限额，如果要继续交易，请存入资金。"
 
 msgid "Your account has no country of residence."
-msgstr ""
+msgstr "账户无居住国信息。"
 
 msgid "Your account is disabled."
-msgstr ""
+msgstr "账户已被禁用。"
 
 msgid "Your account is locked for withdrawals."
-msgstr ""
+msgstr "账户取款功能已被锁。"
 
 msgid "Your account is not ready for wallet migration."
-msgstr ""
+msgstr "账户尚未准备好进行钱包迁移。"
 
 msgid "Your account is restricted to deposits only."
-msgstr ""
+msgstr "账户只限于存款。"
 
 msgid "Your account is restricted to withdrawals only."
-msgstr ""
+msgstr "账户只限于取款。"
 
 msgid "Your account needs to be authenticated to perform payment agent transfers."
-msgstr ""
+msgstr "账户需要先认证才能执行付款代理转账。"
 
 msgid "Your account opening reason cannot be changed."
-msgstr ""
+msgstr "开立账户原因无法修改。"
 
 msgid "Your address cannot be changed."
-msgstr ""
+msgstr "地址无法修改。"
 
 msgid "Your affiliate account needs an update"
-msgstr ""
+msgstr "联盟账户需更新"
 
 msgid "Your age already been verified."
-msgstr ""
+msgstr "年龄已经验证。"
 
 msgid "Your age in the document you provided appears to be below 18 years. We're only allowed to offer our services to clients above 18 years old, so we'll need to close your account. If you have a balance in your account, contact us via live chat and we'll help to withdraw your funds before your account is closed."
-msgstr ""
+msgstr "提供的文件显示年龄似乎未满18岁。我们只能为18岁以上的客户提供服务，因此必须关闭账户。如果账户中有余额，请通过实时聊天与我们联系，我们将帮助您在关闭账户前提取资金。"
 
 msgid "Your cTrader account balance is insufficient for this withdrawal."
-msgstr ""
+msgstr "cTrader 账户余额不足，无法提款。"
 
 msgid "Your cTrader demo account could not be topped up at this time. Please try later."
-msgstr ""
+msgstr "cTrader 演示账户此时不能充值。请稍后重试。"
 
 msgid "Your cashier is locked."
-msgstr ""
+msgstr "收银台已被锁定。"
 
 msgid "Your citizenship cannot be changed."
-msgstr ""
+msgstr "国籍无法修改。"
 
 msgid "Your date of birth cannot be changed."
-msgstr ""
+msgstr "出生日期无法修改。"
 
 msgid "Your deposit is successful."
-msgstr ""
+msgstr "存款已成功完成。"
 
 msgid "Your deposit is unsuccessful due to an error. Please contact your crypto wallet service provider for more info."
-msgstr ""
+msgstr "由于出现了错误，存款已失败。欲知详情，请联系加密钱包服务提供商。"
 
 msgid "Your document appears to be a digital document."
-msgstr ""
+msgstr "文件似乎是数字文件。"
 
 msgid "Your document appears to be a photo of a device screen."
-msgstr ""
+msgstr "文件似乎是设备屏幕相片。"
 
 msgid "Your document appears to be a printed copy."
-msgstr ""
+msgstr "文件似乎是打印件。"
 
 msgid "Your document appears to be a scanned copy that contains markings or text that shouldn't be on your document."
-msgstr ""
+msgstr "文件似乎是含不应该有的标记或文本的扫描件。"
 
 msgid "Your document appears to be a screenshot."
-msgstr ""
+msgstr "文件似乎是屏幕截图。"
 
 msgid "Your document appears to be damaged or cropped."
-msgstr ""
+msgstr "文件似乎已破损或经过修剪。"
 
 msgid "Your document appears to be in black and white. Please upload a colour photo of your document."
-msgstr ""
+msgstr "文件似乎是黑白的。请上传文件的彩色照片。"
 
 msgid "Your document appears to be invalid."
-msgstr ""
+msgstr "文件似乎无效。"
 
 msgid "Your document contains markings or text that should not be on your document."
-msgstr ""
+msgstr "文件含不应该有的标记或文本。"
 
 msgid "Your document failed our verification checks."
-msgstr ""
+msgstr "文件不通过验证检查。"
 
 msgid "Your document has expired."
-msgstr ""
+msgstr "文件已到期。"
 
 msgid "Your email address is unverified."
-msgstr ""
+msgstr "电子邮件未通过验证。"
 
 msgid "Your email address looks familiar"
-msgstr ""
+msgstr "电子邮件看起来很熟悉"
 
 msgid "Your existing account does not allow %1 trading. To open a %1 account, please upgrade to a financial account."
-msgstr ""
+msgstr "当前账户无法进行%1 交易。请升级为金融账户，以开设%1 账户。"
 
 msgid "Your existing account does not allow %1 trading. To open a %1 account, please upgrade to a gaming account."
-msgstr ""
+msgstr "当前账户无法进行%1交易。请升级为博彩账户，以开设%1账户。"
 
 msgid "Your existing account does not allow MT5 trading. To open an MT5 account, please upgrade to a financial account."
-msgstr ""
+msgstr "当前账户无法进行MT5交易。请升级为金融账户，以开设 MT5 账户。"
 
 msgid "Your existing account does not allow MT5 trading. To open an MT5 account, please upgrade to a gaming account."
-msgstr ""
+msgstr "当前账户无法进行 MT5 交易。请升级为博彩账户，以开设 MT5 账户。"
 
 msgid "Your first name cannot be changed."
-msgstr ""
+msgstr "名字无法修改。"
 
 msgid "Your identity documents have expired. Visit your account profile to submit your valid documents and create your Deriv EZ account."
-msgstr ""
+msgstr "身份证件已过期。请前往账户个人资料提交有效的证件并开立 Deriv EZ 账户。"
 
 msgid "Your identity documents have expired. Visit your account profile to submit your valid documents and create your MT5 Financial STP account."
-msgstr ""
+msgstr "身份证件已过期。请前往账户个人资料提交有效的证件并开立 MT5 金融 STP 账户。"
 
 msgid "Your identity documents have expired. Visit your account profile to submit your valid documents and unlock your cashier."
-msgstr ""
+msgstr "身份证件已过期。请前往账户个人资料提交有效的证件并解锁收银台。"
 
 msgid "Your last name cannot be changed."
-msgstr ""
+msgstr "姓氏无法修改。"
 
 msgid "Your login ID is missing. Please check the details and try again."
-msgstr ""
+msgstr "缺少登录 ID。请仔细检查并重试。"
 
 msgid "Your name."
-msgstr ""
+msgstr "您的姓名。"
 
 msgid "Your new %1 investor password"
-msgstr ""
+msgstr "新%1投资者密码"
 
 msgid "Your new %1 password"
-msgstr ""
+msgstr "新%1密码"
 
 msgid "Your new trading password request"
-msgstr ""
+msgstr "新交易密码请求"
 
 msgid "Your password must be 8 to 25 characters long. It must include lowercase and uppercase letters, and numbers."
-msgstr ""
+msgstr "密码必须介于8至25个字符。必须由大小写字母和数字组成。"
 
 msgid "Your place of birth cannot be changed."
-msgstr ""
+msgstr "出生地无法修改。"
 
 msgid "Your postal code is invalid."
-msgstr ""
+msgstr "邮编无效。"
 
 msgid "Your profile appears to be incomplete. Please update your personal details to continue."
-msgstr ""
+msgstr "个人资料像是不完整。请更新个人资料以便继续操作。"
 
 msgid "Your proof of address document is outdated. Visit your account profile to submit your valid documents and unlock your cashier."
-msgstr ""
+msgstr "地址证明文件已过期。请前往账户个人资料，提交有效文件并解锁收银员。"
 
 msgid "Your proof of address does not meet our verification standards."
-msgstr ""
+msgstr "地址证明不符合验证标准。"
 
 msgid "Your proof of address is blurred."
-msgstr ""
+msgstr "住址证明模糊不清。"
 
 msgid "Your proof of address is cropped or doesn't show complete details."
-msgstr ""
+msgstr "地址证明被裁剪或没有显示完整的详细信息。"
 
 msgid "Your proof of address is outdated."
-msgstr ""
+msgstr "地址证明已过期。"
 
 msgid "Your proof of identity does not meet our verification standards."
-msgstr ""
+msgstr "身份证明不符合验证标准。"
 
 msgid "Your proof of identity doesn't show your date of birth."
-msgstr ""
+msgstr "身份证明没有显示出生日期。"
 
 msgid "Your proof of identity is blurred."
-msgstr ""
+msgstr "身份证明模糊不清。"
 
 msgid "Your proof of identity is cropped."
-msgstr ""
+msgstr "身份证明经过裁剪。"
 
 msgid "Your proof of identity is expired."
-msgstr ""
+msgstr "身份证明已过期。"
 
 msgid "Your proof of identity is missing a front/back section."
-msgstr ""
+msgstr "身份证明缺少前/后部分。"
 
 msgid "Your provided email address is already in use by another Login ID. According to our terms and conditions, you may only register once through our site."
-msgstr ""
+msgstr "电邮地址已被注册。根据使用条款和条件，只能在本网站注册一次。"
 
 msgid "Your salutation cannot be changed."
-msgstr ""
+msgstr "称呼无法修改。"
 
 msgid "Your secret answer cannot be changed."
-msgstr ""
+msgstr "机密问题答案无法修改。"
 
 msgid "Your secret question cannot be changed."
-msgstr ""
+msgstr "机密问题无法修改。"
 
 msgid "Your tax identification number cannot be changed."
-msgstr ""
+msgstr "税务识别号无法修改。"
 
 msgid "Your tax residence cannot be changed."
-msgstr ""
+msgstr "税收居民身份无法修改。"
 
 msgid "Your token has expired or is invalid."
-msgstr ""
+msgstr "令牌已经过期或无效。"
 
 msgid "Your username: %1"
-msgstr ""
+msgstr "用户名：%1"
 
 msgid "Your withdrawal is successful."
-msgstr ""
+msgstr "取款已成功完成。"
 
 msgid "Your withdrawal is unsuccessful due to an error. Please contact us via live chat for more info."
-msgstr ""
+msgstr "由于出现错误，取款已失败。欲知详情，请通过即时聊天跟我们联系。"
 
 msgid "Your withdrawal is unsuccessful. Please make sure you have enough funds in your account."
-msgstr ""
+msgstr "取款失败。请确认账户有足够资金。"
 
 msgid "Your withdrawal is unsuccessful. We've sent you an email with more information."
-msgstr ""
+msgstr "取款失败。有关详情，已给您发送了电子邮件。"
 
 msgid "Your withdrawal request has been pending for too long. We're returning the funds to your account."
-msgstr ""
+msgstr "提款请求等待太久。资金将退还至账户。"
 
 msgid "Your withdrawal request has been pending for too long. We've returned the funds to your account. Please try again later."
-msgstr ""
+msgstr "提款请求等待太久。资金将退还至账户。请稍后重试。"
 
 msgid "You’ve paid more than the order amount"
-msgstr ""
+msgstr "付款超出了订单金额"
 
 msgid "alphanumeric with space and dash, 2-32 characters"
-msgstr ""
+msgstr "允许输入字母数字组合、空格和划线，2-32个字符"
 
 msgid "barrier2 is not allowed for reset contract."
-msgstr ""
+msgstr "barrier2 不可重置合约。"
 
 msgid "bears your name that matches your Deriv profile"
-msgstr ""
+msgstr "具与 Deriv 账户个人资料相匹配的名字"
 
 msgid "cTrader account management is currently suspended."
-msgstr ""
+msgstr "cTrader 账户管理当前已停用。"
 
 msgid "cTrader account or landing company is not available in your country yet."
-msgstr ""
+msgstr "您的国家还不能使用 cTrader 账户或登陆公司。"
 
 msgid "cTrader deposit is currently suspended."
-msgstr ""
+msgstr "cTrader 存款目前已暂停。"
 
 msgid "cTrader invalid group provided."
-msgstr ""
+msgstr "提供了无效的 cTrader 组。"
 
 msgid "cTrader unsupported country code."
-msgstr ""
+msgstr "不受 cTrader 支持的国家/地区代码。"
 
 msgid "cTrader withdrawal is currently suspended."
-msgstr ""
+msgstr "cTrader 提款目前已暂停。"
 
 msgid "example@email.com"
-msgstr ""
+msgstr "example@email.com"
 
 msgid "shows the date of issue and/or expiry (if applicable)"
-msgstr ""
+msgstr "显示签发日期和/或有效期限（如果适用）"
 
 msgid "shows your full date of birth"
-msgstr ""
+msgstr "显示完整出生日期"
 
 msgid "shows your photo"
-msgstr ""
+msgstr "显示照片"
 
 msgid "ticks"
-msgstr ""
+msgstr "跳动点"
 
 msgid "today"
-msgstr ""
+msgstr "今天"
 
 msgid "3M Company"
-msgstr ""
+msgstr "3M 公司"
 
 msgid "ADA/USD"
-msgstr ""
+msgstr "艾达币/美元"
 
 msgid "ALG/USD"
-msgstr ""
+msgstr "ALG/美元"
 
 msgid "AP Ordinary"
-msgstr ""
+msgstr "AP 普通股票指数"
 
 msgid "ARK Innovation ETF CFD"
-msgstr ""
+msgstr "ARK Innovation 交易所买卖基金差价合约"
 
 msgid "AUD Basket"
-msgstr ""
+msgstr "澳元篮子"
 
 msgid "AUD/AED"
-msgstr ""
+msgstr "澳元/阿联酋迪拉姆"
 
 msgid "AUD/CAD"
-msgstr ""
+msgstr "澳元/加元"
 
 msgid "AUD/CHF"
-msgstr ""
+msgstr "澳元/瑞士法郎"
 
 msgid "AUD/HKD"
-msgstr ""
+msgstr "澳元/港元"
 
 msgid "AUD/IDR"
-msgstr ""
+msgstr "澳元/印度尼西亚卢比"
 
 msgid "AUD/INR"
-msgstr ""
+msgstr "澳元/印度卢比"
 
 msgid "AUD/MXN"
-msgstr ""
+msgstr "澳元/墨西哥比索"
 
 msgid "AUD/NOK"
-msgstr ""
+msgstr "澳元/挪威克朗"
 
 msgid "AUD/NZD"
-msgstr ""
+msgstr "澳元/纽元"
 
 msgid "AUD/PLN"
-msgstr ""
+msgstr "澳元/波兰兹罗提"
 
 msgid "AUD/SEK"
-msgstr ""
+msgstr "澳元/瑞典克朗"
 
 msgid "AUD/SGD"
-msgstr ""
+msgstr "澳元/新加坡元"
 
 msgid "AUD/TRY"
-msgstr ""
+msgstr "澳元/土耳其里拉"
 
 msgid "AUD/USD DFX10 Index"
-msgstr ""
+msgstr "澳元/美元 DFX10 指数"
 
 msgid "AUD/USD DFX100 Index"
-msgstr ""
+msgstr "澳元/美元 DFX100 指数"
 
 msgid "AUD/USD DFX20 Index"
-msgstr ""
+msgstr "澳元/美元 DFX20 指数"
 
 msgid "AUDZAR"
-msgstr ""
+msgstr "澳元兑南非兰特"
 
 msgid "AVA/USD"
-msgstr ""
+msgstr "AVA/美元"
 
 msgid "Abu Dhabi Index"
-msgstr ""
+msgstr "阿布达比指数"
 
 msgid "Adidas"
-msgstr ""
+msgstr "Adidas"
 
 msgid "Advanced Micro Devices Inc"
-msgstr ""
+msgstr "超微半导体公司"
 
 msgid "Air France KLM SA"
-msgstr ""
+msgstr "法荷航集团"
 
 msgid "Airbnb Inc."
-msgstr ""
+msgstr "Airbnb 公司"
 
 msgid "Airbus SE"
-msgstr ""
+msgstr "空中巴士欧洲股份公司"
 
 msgid "Alibaba"
-msgstr ""
+msgstr "阿里巴巴"
 
 msgid "Alphabet"
-msgstr ""
+msgstr "Alphabet 公司"
 
 msgid "Amazon.com"
-msgstr ""
+msgstr "Amazon.com 网站"
 
 msgid "American Airlines Group Inc."
-msgstr ""
+msgstr "美国航空公司"
 
 msgid "American Express"
-msgstr ""
+msgstr "美国运通"
 
 msgid "American International Group Inc."
-msgstr ""
+msgstr "美国国际集团"
 
 msgid "Apple"
-msgstr ""
+msgstr "苹果"
 
 msgid "Australia 200"
-msgstr ""
+msgstr "澳大利亚 200"
 
 msgid "BAT/USD"
-msgstr ""
+msgstr "注意力币/美元"
 
 msgid "BCH/USD"
-msgstr ""
+msgstr "比特币现金/美元"
 
 msgid "BMW"
-msgstr ""
+msgstr "宝马集团"
 
 msgid "BNB/USD"
-msgstr ""
+msgstr "币安币/美元"
 
 msgid "BTC/AUD"
-msgstr ""
+msgstr "比特币/澳元"
 
 msgid "BTC/BCH"
-msgstr ""
+msgstr "比特币/比特币现金"
 
 msgid "BTC/CAD"
-msgstr ""
+msgstr "比特币/加元"
 
 msgid "BTC/CHF"
-msgstr ""
+msgstr "比特币/瑞士法郎"
 
 msgid "BTC/ETH"
-msgstr ""
+msgstr "比特币/以太币"
 
 msgid "BTC/EUR"
-msgstr ""
+msgstr "比特币/欧元"
 
 msgid "BTC/GBP"
-msgstr ""
+msgstr "比特币/英镑"
 
 msgid "BTC/JPY"
-msgstr ""
+msgstr "比特币/日元"
 
 msgid "BTC/LTC"
-msgstr ""
+msgstr "比特币/莱特币"
 
 msgid "BTC/NZD"
-msgstr ""
+msgstr "比特币/新西兰元"
 
 msgid "BTC/RUB"
-msgstr ""
+msgstr "比特币/俄罗斯卢布"
 
 msgid "BTC/USD"
-msgstr ""
+msgstr "比特币/美元"
 
 msgid "BTC/XAG"
-msgstr ""
+msgstr "比特币/白银（盎司）"
 
 msgid "BTC/XAU"
-msgstr ""
+msgstr "比特币/黄金（盎司）"
 
 msgid "BTC/XRP"
-msgstr ""
+msgstr "比特币/瑞波币"
 
 msgid "BUSD/USD"
-msgstr ""
+msgstr "BUSD/美元"
 
 msgid "Bank of America Corporation"
-msgstr ""
+msgstr "美国银行公司"
 
 msgid "Bayer AG"
-msgstr ""
+msgstr "拜耳公司"
 
 msgid "Bear Market Index"
-msgstr ""
+msgstr "Bear Market 指数"
 
 msgid "Belgian Index"
-msgstr ""
+msgstr "比利时指数"
 
 msgid "Biogen Biogen Inc"
-msgstr ""
+msgstr "Biogen Biogen 公司"
 
 msgid "Boeing"
-msgstr ""
+msgstr "波音"
 
 msgid "Bombay Index"
-msgstr ""
+msgstr "孟买指数"
 
 msgid "Boom 1000 Index"
-msgstr ""
+msgstr "Boom 1000 指数"
 
 msgid "Boom 300 Index"
-msgstr ""
+msgstr "Boom 300 指数"
 
 msgid "Boom 500 Index"
-msgstr ""
+msgstr "Boom 500 指数"
 
 msgid "Boom 600 Index"
-msgstr ""
+msgstr "Boom 600 指数"
 
 msgid "Boom 900 Index"
-msgstr ""
+msgstr "Boom 900 指数"
 
 msgid "Brazilian Index"
-msgstr ""
+msgstr "巴西指数"
 
 msgid "Brent Crude Oil"
-msgstr ""
+msgstr "布伦特原油"
 
 msgid "Bull Market Index"
-msgstr ""
+msgstr "Bull Market 指数"
 
 msgid "CAD/CHF"
-msgstr ""
+msgstr "加元/瑞士法郎"
 
 msgid "CAD/JPY"
-msgstr ""
+msgstr "加元/日元"
 
 msgid "CHF/JPY"
-msgstr ""
+msgstr "瑞士法郎/日元"
 
 msgid "Canadian Index"
-msgstr ""
+msgstr "加拿大指数"
 
 msgid "Chevron Co."
-msgstr ""
+msgstr "雪佛兰公司"
 
 msgid "Cisco Systems Inc."
-msgstr ""
+msgstr "思科系统公司"
 
 msgid "Citigroup"
-msgstr ""
+msgstr "花旗集团"
 
 msgid "Citigroup Inc"
-msgstr ""
+msgstr "花旗集团公司"
 
 msgid "Coca-Cola Co"
-msgstr ""
+msgstr "可口可乐"
 
 msgid "Continental AG"
-msgstr ""
+msgstr "大陸集團"
 
 msgid "Crash 1000 Index"
-msgstr ""
+msgstr "Crash 1000 指数"
 
 msgid "Crash 300 Index"
-msgstr ""
+msgstr "Crash 300 指数"
 
 msgid "Crash 500 Index"
-msgstr ""
+msgstr "Crash 500 指数"
 
 msgid "Crash 600 Index"
-msgstr ""
+msgstr "Crash 600 指数"
 
 msgid "Crash 900 Index"
-msgstr ""
+msgstr "Crash 900 指数"
 
 msgid "DAI/USD"
-msgstr ""
+msgstr "DAI/美元"
 
 msgid "DEX 1500DN"
-msgstr ""
+msgstr "DEX 1500DN"
 
 msgid "DEX 1500UP"
-msgstr ""
+msgstr "DEX 1500UP"
 
 msgid "DEX 600DN"
-msgstr ""
+msgstr "DEX 600DN"
 
 msgid "DEX 600UP"
-msgstr ""
+msgstr "DEX 600UP"
 
 msgid "DEX 900DN"
-msgstr ""
+msgstr "DEX 900DN"
 
 msgid "DEX 900UP"
-msgstr ""
+msgstr "DEX 900UP"
 
 msgid "DOG/USD"
-msgstr ""
+msgstr "多吉币/美元"
 
 msgid "DOT/USD"
-msgstr ""
+msgstr "波卡币/美元"
 
 msgid "DSH/USD"
-msgstr ""
+msgstr "DSH/美元"
 
 msgid "DSI10"
-msgstr ""
+msgstr "DSI10"
 
 msgid "DSI20"
-msgstr ""
+msgstr "DSI20"
 
 msgid "DSI30"
-msgstr ""
+msgstr "DSI30"
 
 msgid "Dell Technologies Inc"
-msgstr ""
+msgstr "戴尔科技有限公司"
 
 msgid "Delta Air Lines Inc."
-msgstr ""
+msgstr "达美航空公司"
 
 msgid "Deutsche Bank"
-msgstr ""
+msgstr "德意志银行"
 
 msgid "Direxion Daily Energy Bull 2x Shares CFD"
-msgstr ""
+msgstr "Direxion Daily Energy Bull 2x Shares 差价合约"
 
 msgid "Direxion Daily S&P 500 Bear 3X Shares ETF CFD"
-msgstr ""
+msgstr "Direxion Daily S&P 500 Bear 3X Shares 交易所买卖基金差价合约"
 
 msgid "Dubai Index"
-msgstr ""
+msgstr "迪拜指数"
 
 msgid "EOS/USD"
-msgstr ""
+msgstr "柚子币/美元"
 
 msgid "ETC/USD"
-msgstr ""
+msgstr "以太经典/美元"
 
 msgid "ETH/EUR"
-msgstr ""
+msgstr "以太币/欧元"
 
 msgid "ETH/USD"
-msgstr ""
+msgstr "以太币/美元"
 
 msgid "EUR Basket"
-msgstr ""
+msgstr "欧元篮子"
 
 msgid "EUR/AED"
-msgstr ""
+msgstr "欧元/阿联酋迪拉姆"
 
 msgid "EUR/AUD"
-msgstr ""
+msgstr "欧元/澳元"
 
 msgid "EUR/CAD"
-msgstr ""
+msgstr "欧元/加元"
 
 msgid "EUR/CHF"
-msgstr ""
+msgstr "欧元/瑞士法郎"
 
 msgid "EUR/GBP"
-msgstr ""
+msgstr "欧元/英镑"
 
 msgid "EUR/HKD"
-msgstr ""
+msgstr "欧元/港元"
 
 msgid "EUR/IDR"
-msgstr ""
+msgstr "欧元/印度尼西亚卢比"
 
 msgid "EUR/ILS"
-msgstr ""
+msgstr "欧元/以色列新谢克尔"
 
 msgid "EUR/INR"
-msgstr ""
+msgstr "欧元/印度卢比"
 
 msgid "EUR/JPY"
-msgstr ""
+msgstr "欧元/日元"
 
 msgid "EUR/MXN"
-msgstr ""
+msgstr "欧元/墨西哥比索"
 
 msgid "EUR/NOK"
-msgstr ""
+msgstr "欧元/挪威克朗"
 
 msgid "EUR/NZD"
-msgstr ""
+msgstr "欧元/新西兰元"
 
 msgid "EUR/PLN"
-msgstr ""
+msgstr "欧元/波兰兹罗提"
 
 msgid "EUR/SEK"
-msgstr ""
+msgstr "欧元/瑞典克朗"
 
 msgid "EUR/SGD"
-msgstr ""
+msgstr "欧元/新加坡元"
 
 msgid "EUR/TRY"
-msgstr ""
+msgstr "欧元/土耳其里拉"
 
 msgid "EUR/USD"
-msgstr ""
+msgstr "欧元/美元"
 
 msgid "EUR/USD DFX10 Index"
-msgstr ""
+msgstr "欧元/美元 DFX10 指数"
 
 msgid "EUR/USD DFX100 Index"
-msgstr ""
+msgstr "欧元/美元 DFX100 指数"
 
 msgid "EUR/USD DFX20 Index"
-msgstr ""
+msgstr "欧元/美元 DFX20 指数"
 
 msgid "EUR/ZAR"
-msgstr ""
+msgstr "欧元/南非兰特"
 
 msgid "EURS/USD"
-msgstr ""
+msgstr "EURS/美元"
 
 msgid "Egypt Index"
-msgstr ""
+msgstr "埃及指数"
 
 msgid "Energy Select Sector SPDR Fund ETF CFD"
-msgstr ""
+msgstr "Energy Select Sector SPDR Fund 交易所买卖基金差价合约"
 
 msgid "Euro 100 Index"
-msgstr ""
+msgstr "欧洲 100 指数"
 
 msgid "Euro 150 Index"
-msgstr ""
+msgstr "欧洲 150 指数"
 
 msgid "Euro 50"
-msgstr ""
+msgstr "欧元 50"
 
 msgid "FIL/USD"
-msgstr ""
+msgstr "菲乐币/美元"
 
 msgid "FKP/USD"
-msgstr ""
+msgstr "福克兰群岛镑/美元"
 
 msgid "Facebook"
-msgstr ""
+msgstr "脸书"
 
 msgid "FedEx"
-msgstr ""
+msgstr "FedEx"
 
 msgid "Financial Select Sector SPDR ETF CFD"
-msgstr ""
+msgstr "Financial Select Sector SPDR 交易所买卖基金差价合约"
 
 msgid "Fox Corporation B"
-msgstr ""
+msgstr "福克斯公司 B"
 
 msgid "France 40"
-msgstr ""
+msgstr "法国 40"
 
 msgid "GBP Basket"
-msgstr ""
+msgstr "英镑篮子"
 
 msgid "GBP/AED"
-msgstr ""
+msgstr "英镑/阿联酋迪拉姆"
 
 msgid "GBP/AUD"
-msgstr ""
+msgstr "英镑/澳元"
 
 msgid "GBP/CAD"
-msgstr ""
+msgstr "英镑/加元"
 
 msgid "GBP/CHF"
-msgstr ""
+msgstr "英镑/瑞士法郎"
 
 msgid "GBP/HKD"
-msgstr ""
+msgstr "英镑/港元"
 
 msgid "GBP/IDR"
-msgstr ""
+msgstr "英镑/印度尼西亚卢比"
 
 msgid "GBP/INR"
-msgstr ""
+msgstr "英镑/印度卢比"
 
 msgid "GBP/JPY"
-msgstr ""
+msgstr "英镑/日元"
 
 msgid "GBP/MXN"
-msgstr ""
+msgstr "英镑/墨西哥比索"
 
 msgid "GBP/NOK"
-msgstr ""
+msgstr "英镑/挪威克朗"
 
 msgid "GBP/NZD"
-msgstr ""
+msgstr "英镑/新西兰元"
 
 msgid "GBP/PLN"
-msgstr ""
+msgstr "英镑/波兰兹罗提"
 
 msgid "GBP/SEK"
-msgstr ""
+msgstr "英镑/瑞典克朗"
 
 msgid "GBP/SGD"
-msgstr ""
+msgstr "英镑/新加坡元"
 
 msgid "GBP/TRY"
-msgstr ""
+msgstr "英镑/土耳其里拉"
 
 msgid "GBP/USD"
-msgstr ""
+msgstr "英镑/美元"
 
 msgid "GBP/USD DFX10 Index"
-msgstr ""
+msgstr "英镑/美元 DFX10 指数"
 
 msgid "GBP/USD DFX100 Index"
-msgstr ""
+msgstr "英镑/美元 DFX100 指数"
 
 msgid "GBP/USD DFX20 Index"
-msgstr ""
+msgstr "英镑/美元 DFX20 指数"
 
 msgid "GBP/ZAR"
-msgstr ""
+msgstr "英镑/南非兰特"
 
 msgid "GIP/USD"
-msgstr ""
+msgstr "直布罗陀镑/美元"
 
 msgid "General Motors Company"
-msgstr ""
+msgstr "通用汽车公司"
 
 msgid "Germany 40"
-msgstr ""
+msgstr "德国 40"
 
 msgid "Gold Basket"
-msgstr ""
+msgstr "黄金篮子"
 
 msgid "Gold/AUD"
-msgstr ""
+msgstr "黄金/澳元"
 
 msgid "Gold/EUR"
-msgstr ""
+msgstr "黄金/欧元"
 
 msgid "Gold/GBP"
-msgstr ""
+msgstr "黄金/英镑"
 
 msgid "Gold/USD"
-msgstr ""
+msgstr "黄金/美元"
 
 msgid "Goldman Sachs"
-msgstr ""
+msgstr "高盛"
 
 msgid "HKD/JPY"
-msgstr ""
+msgstr "港元/日元"
 
 msgid "HP Inc"
-msgstr ""
+msgstr "惠普公司"
 
 msgid "Hang Seng China"
-msgstr ""
+msgstr "恒生中国指数"
 
 msgid "Home Depot Inc"
-msgstr ""
+msgstr "家得宝公司"
 
 msgid "Hong Kong 50"
-msgstr ""
+msgstr "香港 50"
 
 msgid "Hugo Boss AG"
-msgstr ""
+msgstr "雨果博斯股份有限公司"
 
 msgid "IBM"
-msgstr ""
+msgstr "IBM 公司"
 
 msgid "IDK/USD"
-msgstr ""
+msgstr "IDK/美元"
 
 msgid "IOT/USD"
-msgstr ""
+msgstr "IOT/美元"
 
 msgid "Intel"
-msgstr ""
+msgstr "英特尔公司"
 
 msgid "Irish Index"
-msgstr ""
+msgstr "爱尔兰指数"
 
 msgid "Istanbul Index"
-msgstr ""
+msgstr "伊斯坦堡指数"
 
 msgid "Italian 30 Index"
-msgstr ""
+msgstr "意大利 30 指数"
 
 msgid "Italian Index"
-msgstr ""
+msgstr "意大利指数"
 
 msgid "JP Morgan Chase & Co."
-msgstr ""
+msgstr "摩根大通公司"
 
 msgid "Jakarta Index"
-msgstr ""
+msgstr "雅加达指数"
 
 msgid "Japan 225"
-msgstr ""
+msgstr "日本 225"
 
 msgid "Johnson & Johnson"
-msgstr ""
+msgstr "强生"
 
 msgid "Jump 10 Index"
-msgstr ""
+msgstr "Jump 10 指数"
 
 msgid "Jump 100 Index"
-msgstr ""
+msgstr "Jump 100 指数"
 
 msgid "Jump 25 Index"
-msgstr ""
+msgstr "Jump 25 指数"
 
 msgid "Jump 50 Index"
-msgstr ""
+msgstr "Jump 50 指数"
 
 msgid "Jump 75 Index"
-msgstr ""
+msgstr "Jump 75 指数"
 
 msgid "Korean Index"
-msgstr ""
+msgstr "韩国指数"
 
 msgid "LNK/USD"
-msgstr ""
+msgstr "LNK/美元"
 
 msgid "LTC/EUR"
-msgstr ""
+msgstr "莱特币/欧元"
 
 msgid "LTC/USD"
-msgstr ""
+msgstr "莱特币/美元"
 
 msgid "Lufthansa AG"
-msgstr ""
+msgstr "汉莎航空公司"
 
 msgid "MKR/USD"
-msgstr ""
+msgstr "MKR/美元"
 
 msgid "MTC/USD"
-msgstr ""
+msgstr "猴宝币/美元"
 
 msgid "Market Vectors Gold Miners ETF CFD"
-msgstr ""
+msgstr "Market Vectors Gold Miners 交易所买卖基金差价合约"
 
 msgid "MasterCard"
-msgstr ""
+msgstr "万事达"
 
 msgid "McDonald's"
-msgstr ""
+msgstr "麦当劳"
 
 msgid "Microsoft"
-msgstr ""
+msgstr "微软"
 
 msgid "Moderna Inc"
-msgstr ""
+msgstr "莫德纳公司"
 
 msgid "NEO/USD"
-msgstr ""
+msgstr "小蚁币/美元"
 
 msgid "NZD/CAD"
-msgstr ""
+msgstr "新西兰元/加元"
 
 msgid "NZD/JPY"
-msgstr ""
+msgstr "新西兰元/日元"
 
 msgid "NZD/SGD"
-msgstr ""
+msgstr "新西兰元/新元"
 
 msgid "NZD/USD"
-msgstr ""
+msgstr "新西兰元/美元"
 
 msgid "NZDCHF"
-msgstr ""
+msgstr "新西兰元/瑞士法郎"
 
 msgid "Nestle SA"
-msgstr ""
+msgstr "雀巢公司"
 
 msgid "Netflix Inc."
-msgstr ""
+msgstr "网飞公司"
 
 msgid "Netherlands 25"
-msgstr ""
+msgstr "荷兰 25"
 
 msgid "Nike Inc."
-msgstr ""
+msgstr "耐克公司"
 
 msgid "Nikola Corporation"
-msgstr ""
+msgstr "尼古拉公司"
 
 msgid "Norwegian Index"
-msgstr ""
+msgstr "挪威指数"
 
 msgid "Novartis AG"
-msgstr ""
+msgstr "瑞士诺华公司"
 
 msgid "Nvidia"
-msgstr ""
+msgstr "英伟达"
 
 msgid "OMG/USD"
-msgstr ""
+msgstr "嫩模币/美元"
 
 msgid "Oil/AUD"
-msgstr ""
+msgstr "原油/澳元"
 
 msgid "Oil/EUR"
-msgstr ""
+msgstr "原油/欧元"
 
 msgid "Oil/GBP"
-msgstr ""
+msgstr "原油/英镑"
 
 msgid "Oil/USD"
-msgstr ""
+msgstr "原油/美元"
 
 msgid "PAX/USD"
-msgstr ""
+msgstr "PAX/美元"
 
 msgid "Palladium/USD"
-msgstr ""
+msgstr "钯金/美元"
 
 msgid "PayPal"
-msgstr ""
+msgstr "PayPal"
 
 msgid "PepsiCo Inc"
-msgstr ""
+msgstr "百事公司"
 
 msgid "Pfizer Inc"
-msgstr ""
+msgstr "Pfizer 公司"
 
 msgid "Platinum/USD"
-msgstr ""
+msgstr "铂金/美元"
 
 msgid "Porsche Automobil Holding SE Stock"
-msgstr ""
+msgstr "保时捷汽车控股公司"
 
 msgid "Portuguese Index"
-msgstr ""
+msgstr "葡萄牙指数"
 
 msgid "ProShares UltraPro QQQ ETF CFD"
-msgstr ""
+msgstr "ProShares UltraPro QQQ 交易所买卖基金差价合约"
 
 msgid "ProShares UltraShort 20+ Year Treasury CFD"
-msgstr ""
+msgstr "ProShares UltraShort 20+ Year Treasury 差价合约"
 
 msgid "ProShares UltraShort QQQ ETF CFD"
-msgstr ""
+msgstr "ProShares UltraShort QQQ 交易所买卖基金差价合约"
 
 msgid "ProShares UltraShort S&P500 CFD"
-msgstr ""
+msgstr "ProShares UltraShort S&P500 差价合约"
 
 msgid "Procter & Gamble"
-msgstr ""
+msgstr "宝洁"
 
 msgid "Puma SE"
-msgstr ""
+msgstr "彪马公司"
 
 msgid "Range Break 100 Index"
-msgstr ""
+msgstr "Range Break 100 指数"
 
 msgid "Range Break 200 Index"
-msgstr ""
+msgstr "Range Break 200 指数"
 
 msgid "Russian Regular Index"
-msgstr ""
+msgstr "俄罗斯普通指数"
 
 msgid "SGD/JPY"
-msgstr ""
+msgstr "新元/日元"
 
 msgid "SHP/USD"
-msgstr ""
+msgstr "圣赫勒拿镑/美元"
 
 msgid "SOL/USD"
-msgstr ""
+msgstr "索尔币/美元"
 
 msgid "SPDR Dow Jones Industrial Average ETF Trust CFD"
-msgstr ""
+msgstr "SPDR Dow Jones Industrial Average 交易所买卖基金信托差价合约"
 
 msgid "SPDR Gold Trust CFD"
-msgstr ""
+msgstr "SPDR 黄金信托差价合约"
 
 msgid "Salesforce"
-msgstr ""
+msgstr "Salesforce"
 
 msgid "Saudi Arabia Index"
-msgstr ""
+msgstr "沙特阿拉伯指数"
 
 msgid "Shanghai Index"
-msgstr ""
+msgstr "上海指数"
 
 msgid "Shenzhen Index"
-msgstr ""
+msgstr "深圳指数"
 
 msgid "Silver/USD"
-msgstr ""
+msgstr "白银/美元"
 
 msgid "Singapore Index"
-msgstr ""
+msgstr "新加坡指数"
 
 msgid "Sony Corporation"
-msgstr ""
+msgstr "索尼公司"
 
 msgid "South African Index"
-msgstr ""
+msgstr "南非指数"
 
 msgid "Spanish Index"
-msgstr ""
+msgstr "西班牙指数"
 
 msgid "Spdr S&P 500 ETF CFD"
-msgstr ""
+msgstr "Spdr S&P 500 交易所买卖基金差价合约"
 
 msgid "Step Index"
-msgstr ""
+msgstr "Step 指数"
 
 msgid "Swedish Index"
-msgstr ""
+msgstr "瑞典指数"
 
 msgid "Swiss 20"
-msgstr ""
+msgstr "瑞士 20"
 
 msgid "TER/USD"
-msgstr ""
+msgstr "TER/美元"
 
 msgid "TRX/USD"
-msgstr ""
+msgstr "波场币/美元"
 
 msgid "TUSD/USD"
-msgstr ""
+msgstr "TUSD/美元"
 
 msgid "Technology Select Sector SPDR ETF CFD"
-msgstr ""
+msgstr "Technology Select Sector SPDR 交易所买卖基金差价合约"
 
 msgid "Tesla Motors Inc."
-msgstr ""
+msgstr "特斯拉汽车公司"
 
 msgid "Teva Pharmaceutical Industries Limited"
-msgstr ""
+msgstr "梯瓦制药工业有限公司"
 
 msgid "The Walt Disney Company"
-msgstr ""
+msgstr "华特迪士尼公司"
 
 msgid "Twitter Inc."
-msgstr ""
+msgstr "推特公司"
 
 msgid "UK 100"
-msgstr ""
+msgstr "英国 100"
 
 msgid "UNI/USD"
-msgstr ""
+msgstr "UNI/美元"
 
 msgid "US 500"
-msgstr ""
+msgstr "美国 500"
 
 msgid "US Tech 100"
-msgstr ""
+msgstr "美国科技 100"
 
 msgid "US Tech Composite Index"
-msgstr ""
+msgstr "美国科技综合指数"
 
 msgid "USD Basket"
-msgstr ""
+msgstr "美元篮子"
 
 msgid "USD/AED"
-msgstr ""
+msgstr "美元/阿联酋迪拉姆"
 
 msgid "USD/AFN"
-msgstr ""
+msgstr "美元/阿富汗尼"
 
 msgid "USD/ALL"
-msgstr ""
+msgstr "美元/阿尔巴尼列克"
 
 msgid "USD/AMD"
-msgstr ""
+msgstr "美元/亚美尼亚德拉姆"
 
 msgid "USD/AOA"
-msgstr ""
+msgstr "美元/安哥拉宽扎"
 
 msgid "USD/ARS"
-msgstr ""
+msgstr "美元/阿根廷比索"
 
 msgid "USD/AWG"
-msgstr ""
+msgstr "美元/阿鲁巴弗罗林"
 
 msgid "USD/AZM"
-msgstr ""
+msgstr "美元/阿塞拜疆马纳特"
 
 msgid "USD/BAM"
-msgstr ""
+msgstr "美元/波黑马克"
 
 msgid "USD/BBD"
-msgstr ""
+msgstr "美元/巴巴多斯元"
 
 msgid "USD/BDT"
 msgstr ""
