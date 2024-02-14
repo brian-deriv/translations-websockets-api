@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deriv-websocket-api\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-02-14 00:17\n"
+"PO-Revision-Date: 2024-02-14 01:16\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -2114,7 +2114,7 @@ msgid "This payment method is in use by multiple ads and/or orders, and cannot b
 msgstr "此付款方法有多个广告和/或订单在使用，不可删除或停用。"
 
 msgid "This payment method is in use by the following order(s): %1. Please wait until it completes."
-msgstr ""
+msgstr "此付款方法正被以下订单使用: %1。请等待订单完成。"
 
 msgid "This reason doesn't apply to your case. Please choose another reason."
 msgstr ""
