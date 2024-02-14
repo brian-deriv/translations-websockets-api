@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deriv-websocket-api\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-02-14 01:16\n"
+"PO-Revision-Date: 2024-02-14 10:47\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -2117,337 +2117,337 @@ msgid "This payment method is in use by the following order(s): %1. Please wait 
 msgstr "此付款方法正被以下订单使用: %1。请等待订单完成。"
 
 msgid "This reason doesn't apply to your case. Please choose another reason."
-msgstr ""
+msgstr "此原因不适用于您的案例。请选择别的原因。"
 
 msgid "This request must be made using a connection authorized by the Deriv account involved in the transfer."
-msgstr ""
+msgstr "必须使用转账时 Deriv 账户授权的连接提出此请求。"
 
 msgid "This resource cannot be accessed by this account type."
-msgstr ""
+msgstr "此账户类型无法访问此资源。"
 
 msgid "This service is currently unavailable. Please try again later."
-msgstr ""
+msgstr "此服务目前无法使用。请稍后重试。"
 
 msgid "This service is not available for payment agents."
-msgstr ""
+msgstr "支付代理不可用此服务。"
 
 msgid "This trading platform account is not available in your country yet."
-msgstr ""
+msgstr "您的国家还不能使用此交易平台账户。"
 
 msgid "This transaction cannot be done because your %1 account has zero balance."
-msgstr ""
+msgstr "此交易无法完成，因为 %1 账户余额为零。"
 
 msgid "This verification method is currently unavailable."
-msgstr ""
+msgstr "此验证方法当前不可用。"
 
 msgid "Timeout time cannot be more than 6 weeks."
-msgstr ""
+msgstr "暂停时间不能超过 6 周。"
 
 msgid "Timeout time must be greater than current time."
-msgstr ""
+msgstr "暂停时间必须大于当前时间。"
 
 msgid "To change your %1 password, please use the %2 API."
-msgstr ""
+msgstr "要更改 %1 密码，请使用%2 API。"
 
 msgid "To continue withdrawals, please select the same payment method you used to deposit."
-msgstr ""
+msgstr "要继续提款，请选择存款时使用的相同付款方式。"
 
 msgid "To keep your account secure, this link will expire in %3 minutes. If the link expires before you have a chance to use it, you can request another one by clicking the 'Manage investor account password' button on the %1Deriv MT5 dashboard%2."
-msgstr ""
+msgstr "为了保障账户安全，此链接将于%3 分钟后失效。如链接在使用前失效，可点击%1Deriv MT5 仪表板%2上的‘管理投资者账户密码’按钮请求新的链接。"
 
 msgid "To keep your account secure, this link will expire in %3 minutes. If the link expires before you have a chance to use it, you can request another one in %1your account settings%2."
-msgstr ""
+msgstr "为了保障账户安全，此链接将于%3 分钟后失效。如链接在使用前失效，可到 %1账户设置%2 请求新的链接。"
 
 msgid "To reset your %1 password, please use the %2 API."
-msgstr ""
+msgstr "要重置 %1 密码，请使用%2 API。"
 
 msgid "To unlock the cashier, please follow these steps:"
-msgstr ""
+msgstr "要解锁收银台，请按照以下步骤操作："
 
 msgid "To unlock the cashier, please reply to this email and attach any of the following:"
-msgstr ""
+msgstr "要解锁收银台，请回复此电子邮件并附上以下任何一项："
 
 msgid "To withdraw more than %1 %3, please use Deriv P2P."
-msgstr ""
+msgstr "要提取大于 %1 %3 的金额，请使用 Deriv P2P。"
 
 msgid "Token generation failed. Please try later."
-msgstr ""
+msgstr "令牌生成失败。请稍后重试。"
 
 msgid "Token is not valid for current app ID."
-msgstr ""
+msgstr "令牌对当前应用 ID 无效。"
 
 msgid "Token is not valid for current ip address."
-msgstr ""
+msgstr "令牌对当前 ip 地址无效。"
 
 msgid "Token is not valid for current user."
-msgstr ""
+msgstr "令牌对当前用户无效。"
 
 msgid "Trade"
-msgstr ""
+msgstr "交易"
 
 msgid "Trader and copier must have the same landing company."
-msgstr ""
+msgstr "交易者和跟单者必须拥有相同的登陆公司。"
 
 msgid "Trader does not allow copy trading."
-msgstr ""
+msgstr "交易者不允许跟单交易。"
 
 msgid "Traders are not allowed to copy trades."
-msgstr ""
+msgstr "交易者不可跟单交易。"
 
 msgid "Trading"
-msgstr ""
+msgstr "交易"
 
 msgid "Trading Information"
-msgstr ""
+msgstr "交易信息"
 
 msgid "Trading is suspended for this instrument."
-msgstr ""
+msgstr "此工具已暂停交易。"
 
 msgid "Trading is unavailable until further notice due to an unexpected error. We're working hard to resolve this. Please try again later."
-msgstr ""
+msgstr "由于意外的错误，暂时无法交易，直至另行通知。我们正在努力解决问题。请稍后重试。"
 
 msgid "Trading multiplier options on %1 is disabled. Please choose another market."
-msgstr ""
+msgstr "%1的 multiplier 期权交易已禁用。请选择另一个市场。"
 
 msgid "Transfer between real and virtual accounts is not allowed."
-msgstr ""
+msgstr "真实和虚拟账户之间不允许转账。"
 
 msgid "Transfer between two Deriv X accounts is not allowed."
-msgstr ""
+msgstr "不允许两个 Deriv X 账户之间转账。"
 
 msgid "Transfer between two MT5 accounts is not allowed."
-msgstr ""
+msgstr "两个 MT5 账户之间不可转账。"
 
 msgid "Transfer between wallet accounts is not allowed."
-msgstr ""
+msgstr "钱包账户之间不允许转账。"
 
 msgid "Transfer from Deriv X account %1"
-msgstr ""
+msgstr "转账自 Deriv X 账户 %1"
 
 msgid "Transfer from Deriv X account %1. %2."
-msgstr ""
+msgstr "转账自 Deriv X 账户 %1. %2."
 
 msgid "Transfer from MT5 account %1"
-msgstr ""
+msgstr "转账自 MT5 账户 %1"
 
 msgid "Transfer from MT5 account %1. %2."
-msgstr ""
+msgstr "转账自 MT5 账户 %1. %2."
 
 msgid "Transfer to Deriv X account %1"
-msgstr ""
+msgstr "转账至 Deriv X 账户 %1"
 
 msgid "Transfer to Deriv X account %1. %2."
-msgstr ""
+msgstr "转账至 Deriv X 账户 %1. %2."
 
 msgid "Transfer to MT5 account %1"
-msgstr ""
+msgstr "转账至 MT5 账户 %1"
 
 msgid "Transfer to MT5 account %1. %2."
-msgstr ""
+msgstr "转账至 MT5 账户 %1. %2."
 
 msgid "Transfer validation failed on %1."
-msgstr ""
+msgstr "%1转账验证失败。"
 
 msgid "Transfers are currently unavailable between %1 and %2. Please use a different currency or try again later."
-msgstr ""
+msgstr "%1 和 %2 之间目前无法转账。请用别的货币或稍后重试。"
 
 msgid "Transfers are not allowed for these accounts."
-msgstr ""
+msgstr "这些账户不允许转账。"
 
 msgid "Transfers are suspended for system maintenance. Please try later."
-msgstr ""
+msgstr "由于系统维护，转账暂停使用。请稍后重试。"
 
 msgid "Transfers are unavailable on weekends. Please try again anytime from Monday to Friday."
-msgstr ""
+msgstr "周末无法转账。周一至周五期间请重试。"
 
 msgid "Transfers between %1 and %2 are currently unavailable. Please try again later."
-msgstr ""
+msgstr "%1 和 %2 之间当前不可转账。请稍后重试。"
 
 msgid "Transfers between EU and non-EU accounts aren't allowed. You can only transfer funds between accounts under the same regulator."
-msgstr ""
+msgstr "不允许欧盟和非欧盟账户间转账。只能在同一监管机构下的账户之间转账。"
 
 msgid "Transfers between accounts are currently unavailable. Please try again later."
-msgstr ""
+msgstr "当前不允许账户转账。请稍后重试。"
 
 msgid "Transfers between accounts are not available for your account."
-msgstr ""
+msgstr "您的账户不可进行账户间转账。"
 
 msgid "Transfers between fiat and crypto accounts are currently unavailable. Please try again later."
-msgstr ""
+msgstr "法定货币和加密货币账户间当前不可转账。请稍后重试。"
 
 msgid "Transfers between these accounts are temporarily unavailable. Please try later."
-msgstr ""
+msgstr "这些账户间暂时不可转账。请稍后重试。"
 
 msgid "Transfers have been blocked on this account."
-msgstr ""
+msgstr "此账户已被禁止转账。"
 
 msgid "Typical processing time is %1 to %2 business days."
-msgstr ""
+msgstr "典型处理时间是%1 到 %2 个工作日。"
 
 msgid "URL should not have fragment"
-msgstr ""
+msgstr "网址不可含片段"
 
 msgid "URL should not have query"
-msgstr ""
+msgstr "网址不可含查询信息"
 
 msgid "URL should not have user info"
-msgstr ""
+msgstr "网址不可含用户信息"
 
 msgid "Unable to price the contract."
-msgstr ""
+msgstr "无法提供合约售价。"
 
 msgid "Unable to update email, password required for social login."
-msgstr ""
+msgstr "无法更新电子邮件，社交登录需要密码。"
 
 msgid "Unfortunately your answers to the questions above indicate that you do not have sufficient financial resources or trading experience to be eligible to open a trading account at this time."
-msgstr ""
+msgstr "很遗憾，您的回答显示您缺乏足够的财务资源或交易经验，还不具备开户资格。"
 
 msgid "Unicode is not allowed in URL"
-msgstr ""
+msgstr "网址不可含Unicode"
 
 msgid "Unknown contract proposal"
-msgstr ""
+msgstr "未知合约建议"
 
 msgid "Unknown contract sell proposal"
-msgstr ""
+msgstr "未知合约出售建议"
 
 msgid "Unknown country code."
-msgstr ""
+msgstr "未知国家代码。"
 
 msgid "Unknown landing company."
-msgstr ""
+msgstr "未知登陆公司."
 
 msgid "Unsuccessful %1 password change"
-msgstr ""
+msgstr "更改%1密码失败"
 
 msgid "Unsupported bet class %1."
-msgstr ""
+msgstr "不支持的投注级别%1。"
 
 msgid "Up to 100 tokens are allowed."
-msgstr ""
+msgstr "可拥有多达100个令牌。"
 
 msgid "Update of stop loss and take profit is not available at the moment."
-msgstr ""
+msgstr "止损和止盈目前不可更新。"
 
 msgid "Update your personal details."
-msgstr ""
+msgstr "更新个人资料。"
 
 msgid "Upload my documents"
-msgstr ""
+msgstr "上传文件"
 
 msgid "User is already email verified."
-msgstr ""
+msgstr "用户的电子邮件已经验证。"
 
 msgid "Valid array was expected."
-msgstr ""
+msgstr "需要有效的数组。"
 
 msgid "Value of date of birth is below the minimum age required."
-msgstr ""
+msgstr "出生日期显示岁数低于最小岁数限制。"
 
 msgid "Verification Code"
-msgstr ""
+msgstr "验证码"
 
 msgid "Verify your email"
-msgstr ""
+msgstr "电子邮件验证"
 
 msgid "Verify your withdraw request."
-msgstr ""
+msgstr "验证提款请求。"
 
 msgid "Virtual accounts don't require document uploads."
-msgstr ""
+msgstr "虚拟账户不需要上载文件。"
 
 msgid "Virtual money credit to account"
-msgstr ""
+msgstr "虚拟资金进入账户"
 
 msgid "Wallet account creation is currently suspended."
-msgstr ""
+msgstr "钱包账户创建当前已停用。"
 
 msgid "Wallet migration is already finished."
-msgstr ""
+msgstr "钱包迁移已完成。"
 
 msgid "Wallet migration is already in progress."
-msgstr ""
+msgstr "钱包迁移已在进行中。"
 
 msgid "Wallet migration is not available."
-msgstr ""
+msgstr "钱包迁移不可用。"
 
 msgid "Want to start trading on Binary again?"
-msgstr ""
+msgstr "要在 Binary 重新开始交易？"
 
 msgid "Want to start trading on Deriv again?"
-msgstr ""
+msgstr "要在 Deriv 重新开始交易？"
 
 msgid "We are completing your request. Please give us a few more seconds."
-msgstr ""
+msgstr "请求即将处理完毕。请再给数秒钟时间。"
 
 msgid "We are processing your top-up request. Please wait for your virtual funds to be credited."
-msgstr ""
+msgstr "充值请求正在处理中。请稍等，虚拟资金将存入账户。"
 
 msgid "We are retrieving your Deriv EZ details. Please give us a few more seconds."
-msgstr ""
+msgstr "正在恢复 Deriv EZ 资料。请再等数秒钟时间。"
 
 msgid "We are retrieving your MT5 details. Please give us a few more seconds."
-msgstr ""
+msgstr "正在恢复 MT5 资料。请再给数秒钟时间。"
 
 msgid "We are still processing your deposit. Please try again later"
-msgstr ""
+msgstr "存款还在处理中。请稍后重试"
 
 msgid "We are unable to do that because your account has been restricted. If you need help, let us know."
-msgstr ""
+msgstr "由于账户已被限制，我们无法那样做。如需要帮助，请通知我们。"
 
 msgid "We are unable to transfer to %1 because that account has been restricted."
-msgstr ""
+msgstr "由于账户已被限制，不能转账至 %1。"
 
 msgid "We can't find the ad. Please review the details or try another ad."
-msgstr ""
+msgstr "找不到此广告。请检查信息或试别的广告。"
 
 msgid "We can't find the advertiser. Please review the details and try again."
-msgstr ""
+msgstr "找不到此广告商。请检查信息并重试。"
 
 msgid "We can't find this account market type. Please check the details and try again."
-msgstr ""
+msgstr "找不到此账户市场类型。请仔细检查并重试。"
 
 msgid "We can't find this account platform. Please check the details and try again."
-msgstr ""
+msgstr "找不到此账户平台。请仔细检查并重试。"
 
 msgid "We can't find this account. Please check the details and try again."
-msgstr ""
+msgstr "找不到此账户。请仔细检查并重试。"
 
 msgid "We can't find this login ID in our database. Please check the details and try again."
-msgstr ""
+msgstr "数据库里找不到此登录 ID。请详细检查并重试。"
 
 msgid "We can't take you to your account right now due to system maintenance. Please try again later."
-msgstr ""
+msgstr "由于系统维护，现在无法转到账户。请稍后重试。"
 
 msgid "We cannot complete your request. You can only ask for additional virtual funds if your demo account balance falls below %1 %2."
-msgstr ""
+msgstr "请求无法完成。演示账户余额必须低于％1％2才能请求额外虚拟资金。"
 
 msgid "We cannot complete your request. You can only top up your Deriv X demo account when the balance falls below %1 %2."
-msgstr ""
+msgstr "请求无法完成。Deriv X 演示账户余额必须低于％1％2才能充值。"
 
 msgid "We cannot complete your request. You can only top up your cTrader demo account when the balance falls below %1 %2."
-msgstr ""
+msgstr "请求无法完成。cTrader 演示账户余额必须低于％1％2才能充值。"
 
 msgid "We cannot recognise your local currency. Please contact our Customer Support team."
-msgstr ""
+msgstr "无法辨识本地币种。请联系客服团队。"
 
 msgid "We cannot transfer to account %1. Please select another payment agent."
-msgstr ""
+msgstr "不能转账至账户 %1。请另选付款代理。"
 
 msgid "We couldn't verify your account"
-msgstr ""
+msgstr "无法验证账户"
 
 msgid "We don't accept addresses on envelopes as proof of address. We also don't accept screenshots."
-msgstr ""
+msgstr "不接受信封上的地址作为地址证明。也不接受屏幕截图。"
 
 msgid "We don't accept screenshots as proof of address. We also don't accept addresses on envelopes."
-msgstr ""
+msgstr "不接受屏幕截图作为地址证明。也不接受信封上的地址。"
 
 msgid "We have deducted %1 %2 from your account. Your funds may be temporarily unavailable until the transaction is complete."
-msgstr ""
+msgstr "已经从账户中扣除了 %1 %2 。在交易完成之前，资金可能暂时不可用。"
 
 msgid "We need your account details"
-msgstr ""
+msgstr "需要账户详细"
 
 msgid "We noticed that you previously logged in to Deriv using either <strong>Google</strong> or <strong>Facebook</strong>. If you reset your password now, you will need to login with your email and password in the future."
 msgstr ""
