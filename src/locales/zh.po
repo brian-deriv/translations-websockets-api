@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deriv-websocket-api\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-02-14 14:50\n"
+"PO-Revision-Date: 2024-02-14 15:48\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -4211,1069 +4211,1069 @@ msgid "USD/BBD"
 msgstr "美元/巴巴多斯元"
 
 msgid "USD/BDT"
-msgstr ""
+msgstr "美元/孟加拉国塔卡"
 
 msgid "USD/BHD"
-msgstr ""
+msgstr "美元/巴林第纳尔"
 
 msgid "USD/BIF"
-msgstr ""
+msgstr "美元/布隆迪法郎"
 
 msgid "USD/BMD"
-msgstr ""
+msgstr "美元/百慕大元"
 
 msgid "USD/BND"
-msgstr ""
+msgstr "美元/汶莱元"
 
 msgid "USD/BOB"
-msgstr ""
+msgstr "美元/玻利维亚诺"
 
 msgid "USD/BRL"
-msgstr ""
+msgstr "美元/巴西雷亚尔"
 
 msgid "USD/BSD"
-msgstr ""
+msgstr "美元/巴哈马元"
 
 msgid "USD/BTN"
-msgstr ""
+msgstr "美元/不丹努尔特鲁姆"
 
 msgid "USD/BWP"
-msgstr ""
+msgstr "美元/博茨瓦纳普拉"
 
 msgid "USD/BYR"
-msgstr ""
+msgstr "美元/马白俄罗斯卢布"
 
 msgid "USD/BZD"
-msgstr ""
+msgstr "美元/伯利兹元"
 
 msgid "USD/CAD"
-msgstr ""
+msgstr "美元/加元"
 
 msgid "USD/CDF"
-msgstr ""
+msgstr "美元/刚果法郎"
 
 msgid "USD/CHF"
-msgstr ""
+msgstr "美元/瑞士法郎"
 
 msgid "USD/CHF DFX10 Index"
-msgstr ""
+msgstr "美元/瑞士法郎 DFX10 指数"
 
 msgid "USD/CHF DFX100 Index"
-msgstr ""
+msgstr "美元/瑞士法郎 DFX100 指数"
 
 msgid "USD/CHF DFX20 Index"
-msgstr ""
+msgstr "美元/瑞士法郎 DFX20 指数"
 
 msgid "USD/CLP"
-msgstr ""
+msgstr "美元/智利比索"
 
 msgid "USD/CNH"
-msgstr ""
+msgstr "美元/离岸人民币"
 
 msgid "USD/CNY"
-msgstr ""
+msgstr "美元/人民币"
 
 msgid "USD/COP"
-msgstr ""
+msgstr "美元/哥伦比亚比索"
 
 msgid "USD/CRC"
-msgstr ""
+msgstr "美元/哥斯达黎加科朗"
 
 msgid "USD/CUP"
-msgstr ""
+msgstr "美元/古巴比索"
 
 msgid "USD/CVE"
-msgstr ""
+msgstr "美元/佛得角埃斯库多"
 
 msgid "USD/DJF"
-msgstr ""
+msgstr "美元/吉布提法郎"
 
 msgid "USD/DKK"
-msgstr ""
+msgstr "美元/丹麦克朗"
 
 msgid "USD/DOP"
-msgstr ""
+msgstr "美元/多米尼加比索"
 
 msgid "USD/DZD"
-msgstr ""
+msgstr "美元/阿尔及利亚第纳尔"
 
 msgid "USD/ECS"
-msgstr ""
+msgstr "美元/苏克雷"
 
 msgid "USD/EGP"
-msgstr ""
+msgstr "美元/埃及镑"
 
 msgid "USD/ERN"
-msgstr ""
+msgstr "美元/厄立特里亚纳克法"
 
 msgid "USD/ETB"
-msgstr ""
+msgstr "美元/埃塞俄比亚比尔"
 
 msgid "USD/FJD"
-msgstr ""
+msgstr "美元/斐济元"
 
 msgid "USD/GEL"
-msgstr ""
+msgstr "美元/格鲁吉亚拉里"
 
 msgid "USD/GHC"
-msgstr ""
+msgstr "美元/加纳币"
 
 msgid "USD/GMD"
-msgstr ""
+msgstr "美元/冈比亚达拉西"
 
 msgid "USD/GNF"
-msgstr ""
+msgstr "美元/几内亚法郎"
 
 msgid "USD/GQE"
-msgstr ""
+msgstr "美元/赤道几内亚埃奎勒"
 
 msgid "USD/GTQ"
-msgstr ""
+msgstr "美元/危地马拉格查尔"
 
 msgid "USD/GYD"
-msgstr ""
+msgstr "美元/圭亚那元"
 
 msgid "USD/HKD"
-msgstr ""
+msgstr "美元/港元"
 
 msgid "USD/HNL"
-msgstr ""
+msgstr "美元/洪都拉斯伦皮拉"
 
 msgid "USD/HTG"
-msgstr ""
+msgstr "美元/海地古德"
 
 msgid "USD/IDR"
-msgstr ""
+msgstr "美元/印度尼西亚卢比"
 
 msgid "USD/ILS"
-msgstr ""
+msgstr "美元/以色列新谢克尔"
 
 msgid "USD/INR"
-msgstr ""
+msgstr "美元/印度卢比"
 
 msgid "USD/IQD"
-msgstr ""
+msgstr "美元/伊拉克第纳尔"
 
 msgid "USD/ISK"
-msgstr ""
+msgstr "美元/冰岛克朗"
 
 msgid "USD/JMD"
-msgstr ""
+msgstr "美元/牙买加元"
 
 msgid "USD/JOD"
-msgstr ""
+msgstr "美元/约旦丁那"
 
 msgid "USD/JPY"
-msgstr ""
+msgstr "美元/日元"
 
 msgid "USD/JPY DFX10 Index"
-msgstr ""
+msgstr "美元/日元 DFX10 指数"
 
 msgid "USD/JPY DFX100 Index"
-msgstr ""
+msgstr "美元/日元 DFX100 指数"
 
 msgid "USD/JPY DFX20 Index"
-msgstr ""
+msgstr "美元/日元 DFX20 指数"
 
 msgid "USD/KES"
-msgstr ""
+msgstr "美元/肯尼亚先令"
 
 msgid "USD/KGS"
-msgstr ""
+msgstr "美元/吉尔吉斯斯坦索姆"
 
 msgid "USD/KHR"
-msgstr ""
+msgstr "美元/柬埔寨瑞尔"
 
 msgid "USD/KMF"
-msgstr ""
+msgstr "美元/科摩罗法郎"
 
 msgid "USD/KRW"
-msgstr ""
+msgstr "美元/韩元"
 
 msgid "USD/KWD"
-msgstr ""
+msgstr "美元/科威特第纳尔"
 
 msgid "USD/KYD"
-msgstr ""
+msgstr "美元/开曼群岛元"
 
 msgid "USD/KZT"
-msgstr ""
+msgstr "美元/哈萨克斯坦坚戈"
 
 msgid "USD/LAK"
-msgstr ""
+msgstr "美元/老挝基普"
 
 msgid "USD/LBP"
-msgstr ""
+msgstr "美元/黎巴嫩镑"
 
 msgid "USD/LKR"
-msgstr ""
+msgstr "美元/斯里兰卡卢比"
 
 msgid "USD/LRD"
-msgstr ""
+msgstr "美元/利比里亚元"
 
 msgid "USD/LSL"
-msgstr ""
+msgstr "美元/莱索托洛蒂"
 
 msgid "USD/LYD"
-msgstr ""
+msgstr "美元/利比亚第纳尔"
 
 msgid "USD/MAD"
-msgstr ""
+msgstr "美元/摩洛哥迪拉姆"
 
 msgid "USD/MDL"
-msgstr ""
+msgstr "美元/摩尔多瓦列伊"
 
 msgid "USD/MGA"
-msgstr ""
+msgstr "美元/马尔加什阿里亚"
 
 msgid "USD/MGF"
-msgstr ""
+msgstr "美元/马达加斯加法郎"
 
 msgid "USD/MKD"
-msgstr ""
+msgstr "美元/北马其顿代纳尔"
 
 msgid "USD/MMK"
-msgstr ""
+msgstr "美元/缅甸元"
 
 msgid "USD/MNT"
-msgstr ""
+msgstr "美元/蒙古图格里克"
 
 msgid "USD/MOP"
-msgstr ""
+msgstr "美元/澳门元"
 
 msgid "USD/MUR"
-msgstr ""
+msgstr "美元/毛里求斯卢比"
 
 msgid "USD/MVR"
-msgstr ""
+msgstr "美元/马尔代夫拉菲亚"
 
 msgid "USD/MWK"
-msgstr ""
+msgstr "美元/馬拉威克瓦查"
 
 msgid "USD/MXN"
-msgstr ""
+msgstr "美元/墨西哥比索"
 
 msgid "USD/MZM"
-msgstr ""
+msgstr "美元/莫桑比克梅蒂卡尔"
 
 msgid "USD/NAD"
-msgstr ""
+msgstr "美元/纳米比亚元"
 
 msgid "USD/NGN"
-msgstr ""
+msgstr "美元/尼日利亚奈拉"
 
 msgid "USD/NIO"
-msgstr ""
+msgstr "美元/尼加拉瓜科多巴"
 
 msgid "USD/NOK"
-msgstr ""
+msgstr "美元/挪威克朗"
 
 msgid "USD/NPR"
-msgstr ""
+msgstr "美元/尼泊尔卢比"
 
 msgid "USD/OMR"
-msgstr ""
+msgstr "美元/阿曼里亚尔"
 
 msgid "USD/PAB"
-msgstr ""
+msgstr "美元/巴拿马巴波亚"
 
 msgid "USD/PEN"
-msgstr ""
+msgstr "美元/秘鲁索尔"
 
 msgid "USD/PGK"
-msgstr ""
+msgstr "美元/巴布亚新几内亚基那"
 
 msgid "USD/PHP"
-msgstr ""
+msgstr "美元/菲律宾比索"
 
 msgid "USD/PKR"
-msgstr ""
+msgstr "美元/巴基斯坦卢比"
 
 msgid "USD/PLN"
-msgstr ""
+msgstr "美元/波兰兹罗提"
 
 msgid "USD/QAR"
-msgstr ""
+msgstr "美元/卡塔尔里亚尔"
 
 msgid "USD/RUB"
-msgstr ""
+msgstr "美元/俄罗斯卢布"
 
 msgid "USD/RWF"
-msgstr ""
+msgstr "美元/卢旺达法郎"
 
 msgid "USD/SAR"
-msgstr ""
+msgstr "美元/沙特阿拉伯里亚尔"
 
 msgid "USD/SBD"
-msgstr ""
+msgstr "美元/所罗门群岛元"
 
 msgid "USD/SCR"
-msgstr ""
+msgstr "美元/塞舌尔卢比"
 
 msgid "USD/SDG"
-msgstr ""
+msgstr "美元/苏丹镑"
 
 msgid "USD/SEK"
-msgstr ""
+msgstr "美元/瑞典克朗"
 
 msgid "USD/SGD"
-msgstr ""
+msgstr "美元/新加坡元"
 
 msgid "USD/SLL"
-msgstr ""
+msgstr "美元/ 塞拉利昂利昂"
 
 msgid "USD/SOS"
-msgstr ""
+msgstr "美元/索马里先令"
 
 msgid "USD/SRD"
-msgstr ""
+msgstr "美元/苏里南元"
 
 msgid "USD/STD"
-msgstr ""
+msgstr "美元/圣多美和普林西比多布拉"
 
 msgid "USD/SVC"
-msgstr ""
+msgstr "美元/萨尔瓦多科朗"
 
 msgid "USD/SZL"
-msgstr ""
+msgstr "美元/斯威士里兰吉尼"
 
 msgid "USD/THB"
-msgstr ""
+msgstr "美元/泰铢"
 
 msgid "USD/TJS"
-msgstr ""
+msgstr "美元/塔吉克斯坦索莫尼"
 
 msgid "USD/TMT"
-msgstr ""
+msgstr "美元/土库曼斯坦马纳特"
 
 msgid "USD/TND"
-msgstr ""
+msgstr "美元/突尼斯第纳尔"
 
 msgid "USD/TOP"
-msgstr ""
+msgstr "美元/汤加潘加"
 
 msgid "USD/TRL"
-msgstr ""
+msgstr "美元/土耳其里拉"
 
 msgid "USD/TRY"
-msgstr ""
+msgstr "美元/土耳其里拉"
 
 msgid "USD/TTD"
-msgstr ""
+msgstr "美元/特立尼达和多巴哥元"
 
 msgid "USD/TWD"
-msgstr ""
+msgstr "美元/新台币"
 
 msgid "USD/TZS"
-msgstr ""
+msgstr "美元/坦桑尼亚先令"
 
 msgid "USD/UAH"
-msgstr ""
+msgstr "美元/乌克兰格里夫纳"
 
 msgid "USD/UGX"
-msgstr ""
+msgstr "美元/乌干达先令"
 
 msgid "USD/UYU"
-msgstr ""
+msgstr "美元/乌拉圭比索"
 
 msgid "USD/UZS"
-msgstr ""
+msgstr "美元/乌兹别克斯坦索姆"
 
 msgid "USD/VEB"
-msgstr ""
+msgstr "美元/委内瑞拉玻利瓦尔"
 
 msgid "USD/VND"
-msgstr ""
+msgstr "美元/越南盾"
 
 msgid "USD/WST"
-msgstr ""
+msgstr "美元/萨摩亚塔拉"
 
 msgid "USD/XAF"
-msgstr ""
+msgstr "美元/中非共同体法郎"
 
 msgid "USD/XCD"
-msgstr ""
+msgstr "美元/东加勒比元"
 
 msgid "USD/XOF"
-msgstr ""
+msgstr "美元/西非法郎"
 
 msgid "USD/XPF"
-msgstr ""
+msgstr "美元/太平洋法郎"
 
 msgid "USD/YER"
-msgstr ""
+msgstr "美元/也门里亚尔"
 
 msgid "USD/YUM"
-msgstr ""
+msgstr "美元/南斯拉夫丁那"
 
 msgid "USD/ZMK"
-msgstr ""
+msgstr "美元/尚比亚克瓦查"
 
 msgid "USD/ZWD"
-msgstr ""
+msgstr "美元/津巴布韦元"
 
 msgid "USDC/USD"
-msgstr ""
+msgstr "USDC/美元"
 
 msgid "USDK/USD"
-msgstr ""
+msgstr "USDK/美元"
 
 msgid "USDZAR"
-msgstr ""
+msgstr "美元兑南非兰特"
 
 msgid "UST/USD"
-msgstr ""
+msgstr "UST/美元"
 
 msgid "Uber Technologies Inc"
-msgstr ""
+msgstr "优步科技有限公司"
 
 msgid "United States Natural Gas ETF CFD"
-msgstr ""
+msgstr "美国天然气基金差价合约"
 
 msgid "VISA Inc."
-msgstr ""
+msgstr "威士卡公司"
 
 msgid "Vanguard 500 Index Fund ETF CFD"
-msgstr ""
+msgstr "Vanguard 500 Index Fund 交易所买卖基金差价合约"
 
 msgid "Vanguard Developed Markets Index Fund ETF CFD"
-msgstr ""
+msgstr "Vanguard Developed Markets Index Fund 交易所买卖基金差价合约"
 
 msgid "Vanguard Emerging Markets Stock Index Fund ETF CFD"
-msgstr ""
+msgstr "Vanguard Emerging Markets Stock Index Fund 交易所买卖基金差价合约"
 
 msgid "Vanguard Total Stock Market Index Fund ETF CFD"
-msgstr ""
+msgstr "Vanguard Total Stock Market Index Fund 交易所买卖基金差价合约"
 
 msgid "Virgin Galactic"
-msgstr ""
+msgstr "维珍银河"
 
 msgid "Volatility 10 (1s) Index"
-msgstr ""
+msgstr "Volatility 10 (1s) 指数"
 
 msgid "Volatility 10 Index"
-msgstr ""
+msgstr "波动率 10 指数"
 
 msgid "Volatility 100 (1s) Index"
-msgstr ""
+msgstr "Volatility 100 (1s) 指数"
 
 msgid "Volatility 100 Index"
-msgstr ""
+msgstr "波动率 100 指数"
 
 msgid "Volatility 15 (1s) Index"
-msgstr ""
+msgstr "Volatility 15 (1s) 指数"
 
 msgid "Volatility 150 (1s) Index"
-msgstr ""
+msgstr "Volatility 150 (1s) 指数"
 
 msgid "Volatility 200 (1s) Index"
-msgstr ""
+msgstr "Volatility 200 (1s) 指数"
 
 msgid "Volatility 25 (1s) Index"
-msgstr ""
+msgstr "Volatility 25 (1s) 指数"
 
 msgid "Volatility 25 Index"
-msgstr ""
+msgstr "波动率 25 指数"
 
 msgid "Volatility 250 (1s) Index"
-msgstr ""
+msgstr "Volatility 250 (1s) 指数"
 
 msgid "Volatility 30 (1s) Index"
-msgstr ""
+msgstr "Volatility 30 (1s) 指数"
 
 msgid "Volatility 300 (1s) Index"
-msgstr ""
+msgstr "Volatility 300 (1s) 指数"
 
 msgid "Volatility 50 (1s) Index"
-msgstr ""
+msgstr "Volatility 50 (1s) 指数"
 
 msgid "Volatility 50 Index"
-msgstr ""
+msgstr "Volatility 50 指数"
 
 msgid "Volatility 75 (1s) Index"
-msgstr ""
+msgstr "Volatility 75 (1s) 指数"
 
 msgid "Volatility 75 Index"
-msgstr ""
+msgstr "Volatility 75 指数"
 
 msgid "Volatility 90 (1s) Index"
-msgstr ""
+msgstr "Volatility 90 (1s) 指数"
 
 msgid "WTI Crude Oil"
-msgstr ""
+msgstr "西德克萨斯轻质中间基原油"
 
 msgid "Wal-Mart Stores Inc."
-msgstr ""
+msgstr "沃尔玛百货有限公司"
 
 msgid "Wall Street 30"
-msgstr ""
+msgstr "华尔街 30"
 
 msgid "XAG/AUD"
-msgstr ""
+msgstr "银价盎司/澳元"
 
 msgid "XAG/EUR"
-msgstr ""
+msgstr "银价盎司/欧元"
 
 msgid "XAG/GBP"
-msgstr ""
+msgstr "银价盎司/英镑"
 
 msgid "XAL/USD"
-msgstr ""
+msgstr "盎司铝/美元"
 
 msgid "XCU/USD"
-msgstr ""
+msgstr "碳汇链/美元"
 
 msgid "XLM/USD"
-msgstr ""
+msgstr "恒星币/美元"
 
 msgid "XML/USD"
-msgstr ""
+msgstr "XML/美元"
 
 msgid "XMR/USD"
-msgstr ""
+msgstr "门罗币/美元"
 
 msgid "XNI/USD"
-msgstr ""
+msgstr "XNI/美元"
 
 msgid "XPB/USD"
-msgstr ""
+msgstr "XPB/美元"
 
 msgid "XPD/AUD"
-msgstr ""
+msgstr "钯价盎司/澳元"
 
 msgid "XPD/EUR"
-msgstr ""
+msgstr "钯价盎司/欧元"
 
 msgid "XPD/GBP"
-msgstr ""
+msgstr "钯价盎司/英镑"
 
 msgid "XPT/AUD"
-msgstr ""
+msgstr "铂价盎司/澳元"
 
 msgid "XPT/EUR"
-msgstr ""
+msgstr "铂价盎司/欧元"
 
 msgid "XPT/GBP"
-msgstr ""
+msgstr "铂价盎司/英镑"
 
 msgid "XRP/EUR"
-msgstr ""
+msgstr "瑞波币/欧元"
 
 msgid "XRP/USD"
-msgstr ""
+msgstr "瑞波币/美元"
 
 msgid "XTZ/USD"
-msgstr ""
+msgstr "XTZ/美元"
 
 msgid "XZN/USD"
-msgstr ""
+msgstr "XZN/美元"
 
 msgid "ZEC/USD"
-msgstr ""
+msgstr "大零币/美元"
 
 msgid "Zoom Video Communications"
-msgstr ""
+msgstr "Zoom 视频通讯"
 
 msgid "eBay Inc."
-msgstr ""
+msgstr "电子海湾公司"
 
 msgid "eUSDT/USD"
-msgstr ""
+msgstr "eUSDT/美元"
 
 msgid "iShares Core MSCI Emerging Markets ETF CFD"
-msgstr ""
+msgstr "iShares Core MSCI Emerging Markets 交易所买卖基金差价合约"
 
 msgid "iShares Core S&P 500 ETF CFD"
-msgstr ""
+msgstr "iShares Core S&P 500 交易所买卖基金差价合约"
 
 msgid "iShares Core S&P Small-Cap ETF CFD"
-msgstr ""
+msgstr "iShares Core S&P Small-Cap 交易所买卖基金差价合约"
 
 msgid "iShares Core US Aggregate Bond ETF CFD"
-msgstr ""
+msgstr "iShares Core US Aggregate Bond 交易所买卖基金差价合约"
 
 msgid "iShares MSCI EAFE ETF CFD"
-msgstr ""
+msgstr "iShares MSCI EAFE 交易所买卖基金差价合约"
 
 msgid "iShares MSCI Emerging Index Fund ETF CFD"
-msgstr ""
+msgstr "iShares MSCI Emerging Index Fund 交易所买卖基金差价合约"
 
 msgid "iShares Russell 2000 ETF CFD"
-msgstr ""
+msgstr "iShares Russell 2000 交易所买卖基金差价合约"
 
 msgid "iShares S&P 500 Growth ETF CFD"
-msgstr ""
+msgstr "iShares S&P 500 Growth 交易所买卖基金差价合约"
 
 msgid "iShares Silver Trust CFD"
-msgstr ""
+msgstr "iShares Silver Trust 差价合约"
 
 msgid "iShares core S&P Small-Cap ETF CFD"
-msgstr ""
+msgstr "iShares core S&P Small-Cap 交易所买卖基金差价合约"
 
 msgid "iShares iBoxx $ High Yield Corporate Bond ETF CFD"
-msgstr ""
+msgstr "iShares iBoxx $ High Yield Corporate Bond 交易所买卖基金差价合约"
 
 msgid "iShares iBoxx $ Inv Grade Corporate Bond ETF CFD"
-msgstr ""
+msgstr "iShares iBoxx $ Inv Grade Corporate Bond 交易所买卖基金差价合约"
 
 msgid "tUSDT/USD"
-msgstr ""
+msgstr "tUSDT/美元"
 
 msgid "Commodities"
-msgstr ""
+msgstr "大宗商品"
 
 msgid "Cryptocurrencies"
-msgstr ""
+msgstr "加密货币"
 
 msgid "Derived"
-msgstr ""
+msgstr "衍生品"
 
 msgid "OTC Stocks"
-msgstr ""
+msgstr "场外交易股票"
 
 msgid "Stock Indices"
-msgstr ""
+msgstr "股票指数"
 
 msgid "Commodities are traded items with directly usable qualities."
-msgstr ""
+msgstr "大宗商品是指可直接使用的交易品。"
 
 msgid "Cryptocurrency represents the value of a digital asset in fiat currency."
-msgstr ""
+msgstr "加密货币代表以法定货币为单位的数字资产价值。"
 
 msgid "Forex (or foreign exchange) represents the ratio between the values of two currencies."
-msgstr ""
+msgstr "外汇指两种货币价值之间的比率。"
 
 msgid "Indices represent the weighted value of a basket of companies, typically traded on the same exchange."
-msgstr ""
+msgstr "指数是指一篮子公司的加权价值，这些公司通常在同一交易所上市交易。"
 
 msgid "Stocks (or shares) represent the value of partial ownership in a single company."
-msgstr ""
+msgstr "股票代表单个公司中部分所有权的价值。"
 
 msgid "The volatility indices simulate various real market situations and provide an ideal platform for getting used to trading and testing strategies under various market conditions."
-msgstr ""
+msgstr "波动率指数模拟各种真实的市场情况，并根据不同的市场情况提供理想的平台交易实践和测试策略。"
 
 msgid "American indices"
-msgstr ""
+msgstr "美国指数"
 
 msgid "Americas"
-msgstr ""
+msgstr "美洲"
 
 msgid "Asia/Oceania"
-msgstr ""
+msgstr "亚洲/大洋洲"
 
 msgid "Asian indices"
-msgstr ""
+msgstr "Asian 指数"
 
 msgid "Commodities Basket"
-msgstr ""
+msgstr "大宗商品篮子"
 
 msgid "Continuous Indices"
-msgstr ""
+msgstr "连续指数"
 
 msgid "Crash/Boom Indices"
-msgstr ""
+msgstr "Crash/Boom 指数"
 
 msgid "Daily Reset Indices"
-msgstr ""
+msgstr "每日重置指数"
 
 msgid "Energy"
-msgstr ""
+msgstr "能源"
 
 msgid "Europe"
-msgstr ""
+msgstr "欧洲"
 
 msgid "European indices"
-msgstr ""
+msgstr "欧洲指数"
 
 msgid "Forex Basket"
-msgstr ""
+msgstr "外汇篮子"
 
 msgid "Forex Synthetic Indices"
-msgstr ""
+msgstr "外汇综合指数"
 
 msgid "France"
-msgstr ""
+msgstr "法国"
 
 msgid "Germany"
-msgstr ""
+msgstr "德国"
 
 msgid "Jump Indices"
-msgstr ""
+msgstr "Jump 指数"
 
 msgid "Major Pairs"
-msgstr ""
+msgstr "主要货币对"
 
 msgid "Metals"
-msgstr ""
+msgstr "金属"
 
 msgid "Middle East"
-msgstr ""
+msgstr "中东"
 
 msgid "Minor Pairs"
-msgstr ""
+msgstr "次要货币对"
 
 msgid "Range Break Indices"
-msgstr ""
+msgstr "Range Break 指数"
 
 msgid "Step Indices"
-msgstr ""
+msgstr "Step 指数"
 
 msgid "Switzerland"
-msgstr ""
+msgstr "瑞士"
 
 msgid "Three Ways DSI"
-msgstr ""
+msgstr "Three Ways DSI"
 
 msgid "US"
-msgstr ""
+msgstr "美国"
 
 msgid "config-only"
-msgstr ""
+msgstr "仅配置"
 
 msgid "3 Ways DSI Index (Contrarian DSI) allows clients to trade in the opposite direction of a trend switch."
-msgstr ""
+msgstr "3 Ways DSI 指数 (Contrarian DSI)) 允许客户在趋势切换的相反方向交易。"
 
 msgid "Associated with a number that represents the relative volatility of the market. For example, the Volatility 100 Index is twice as volatile as the Volatility 50 Index."
-msgstr ""
+msgstr "与代表市场相对 Volatility 的数字相关联。比如，Volatility 100 指数的 Volatility 是 Volatility 50 指数的两倍。"
 
 msgid "Cryptocurrency"
-msgstr ""
+msgstr "加密货币"
 
 msgid "Forex Synthetic Indices follows price direction of forex pairs but with different volatility levels"
-msgstr ""
+msgstr "外汇综合指数遵循外汇对的价格走势，但波动水平不同"
 
 msgid "Forex pairs of interest, but with less liquid international markets."
-msgstr ""
+msgstr "外汇和利润相对应，但国际市场流动性较差。"
 
 msgid "France OTC Stocks"
-msgstr ""
+msgstr "法国场外交易股票"
 
 msgid "Germany OTC Stocks"
-msgstr ""
+msgstr "德国场外交易股票"
 
 msgid "Indices derived from actual financial instruments or pure randomness."
-msgstr ""
+msgstr "从真实金融工具或纯随机得来的指数。"
 
 msgid "Indices derived from pure randomness."
-msgstr ""
+msgstr "从纯随机性得来的指数。"
 
 msgid "JD index follows normal distribution just as our R_* with a jump in both directions"
-msgstr ""
+msgstr "JD 指数与 R_* 一样，根据正常方式分布，并向两个方向跳动"
 
 msgid "Represent a single day of trading with different market factors. They are reset at the start of each trading day (00:00GMT)."
-msgstr ""
+msgstr "指不同市场因素下进行的一整天交易。它们在每个交易日开始时重设（格林威治标准时间00:00点）。"
 
 msgid "Switzerland OTC Stocks"
-msgstr ""
+msgstr "瑞士场外交易股票"
 
 msgid "The most widely traded and liquid forex pairs."
-msgstr ""
+msgstr "交易最活跃、流动性最高的货币对。"
 
 msgid "US OTC Stocks"
-msgstr ""
+msgstr "美国场外交易股票"
 
 msgid "USD pegged coins"
-msgstr ""
+msgstr "美元挂钩币种"
 
 msgid "basket indices"
-msgstr ""
+msgstr "篮子指数"
 
 msgid "Baskets"
-msgstr ""
+msgstr "篮子"
 
 msgid "None"
-msgstr ""
+msgstr "没有"
 
 msgid "Synthetics"
-msgstr ""
+msgstr "综合资产"
 
 msgid "Accumulator"
-msgstr ""
+msgstr "Accumulator"
 
 msgid "Asians"
-msgstr ""
+msgstr "Asians"
 
 msgid "Call Spread/Put Spread"
-msgstr ""
+msgstr "Call Spread/Put Spread"
 
 msgid "Digits"
-msgstr ""
+msgstr "Digits"
 
 msgid "Ends Between/Ends Outside"
-msgstr ""
+msgstr "Ends Between/Ends Outside"
 
 msgid "High/Low Ticks"
-msgstr ""
+msgstr "High/Low Ticks"
 
 msgid "Lookbacks"
-msgstr ""
+msgstr "Lookbacks"
 
 msgid "Multiply Up/Multiply Down"
-msgstr ""
+msgstr "Multiply Up/Multiply Down"
 
 msgid "Only Ups/Only Downs"
-msgstr ""
+msgstr "Only Ups/Only Downs"
 
 msgid "Reset Call/Reset Put"
-msgstr ""
+msgstr "Reset Call/Reset Put"
 
 msgid "Rise/Fall Equal"
-msgstr ""
+msgstr "Rise/Fall Equal"
 
 msgid "Stays Between/Goes Outside"
-msgstr ""
+msgstr "Stays Between/Goes Outside"
 
 msgid "Touch/No Touch"
-msgstr ""
+msgstr "Touch/No Touch"
 
 msgid "Turbos Options"
-msgstr ""
+msgstr "Turbos 期权"
 
 msgid "Up/Down"
-msgstr ""
+msgstr "Up/Down"
 
 msgid "Vanilla Options"
-msgstr ""
+msgstr "Vanilla 期权"
 
 msgid "Choose a barrier level which makes the contract worthless if being crossed by the spot market"
-msgstr ""
+msgstr "选择一旦被现货市场突破即会使合约变得一文不值的障碍水平"
 
 msgid "Continuous payout growth if loss event hasn't happened and zero payout if loss event happens"
-msgstr ""
+msgstr "如果没有发生亏损事件，赔付将持续增长，但如果发生亏损事件，则赔付为零"
 
 msgid "Predict the ending market level relative to 2 chosen barriers."
-msgstr ""
+msgstr "预测相对于2个设定的障碍市场收盘价格的位置。"
 
 msgid "Predict the ending market level relative to a chosen barrier."
-msgstr ""
+msgstr "预测市场收盘价格相对于选定障碍的位置。"
 
 msgid "Predict the ending market level relative to a chosen strike price"
-msgstr ""
+msgstr "预测市场收盘价格相对于选定履约价的位置"
 
 msgid "Predict the ending market level relative to the average market prices throughout the course of the contract"
-msgstr ""
+msgstr "预测整个合约期限内市场收盘价格相对于平均市场价格的表现"
 
 msgid "Predict the last digit of the market price at expiration."
-msgstr ""
+msgstr "预测到期时市场价格的最后一个数字。"
 
 msgid "Predict whether or not the market will touch a chosen level before expiration."
-msgstr ""
+msgstr "预测市场是否会在到期之前触及所选择的价格水平。"
 
 msgid "Predict whether or not the market will touch either of 2 chosen levels before expiration."
-msgstr ""
+msgstr "预测市场是否会在到期前触及2个选定价格水平中的任意一个。"
 
 msgid "Predict which tick is the highest/lowest at expiration."
-msgstr ""
+msgstr "预测到期时市场价格的最高/最低跳动点。"
 
 msgid "Predicts if the market is going to up or down."
-msgstr ""
+msgstr "预测市场价格将会上涨或下跌。"
 
 msgid "Predicts if the next n ticks will be consecutively higher or lower than the previous tick."
-msgstr ""
+msgstr "预测接下来n个价格变动点是否连续高于或低于前个价格变动点。"
 
 msgid "Reset the barrier if contract is out of the money at half the option lifetime."
-msgstr ""
+msgstr "重置障碍市场合约是否居于永久期权一半资金范围之外。"
 
 msgid "Accumulator Up"
-msgstr ""
+msgstr "Accumulator Up"
 
 msgid "Asian Down"
-msgstr ""
+msgstr "Asian Down"
 
 msgid "Asian Up"
-msgstr ""
+msgstr "Asian Up"
 
 msgid "Higher"
-msgstr ""
+msgstr "Higher"
 
 msgid "Call Spread"
-msgstr ""
+msgstr "Call Spread"
 
 msgid "Digit Differs"
-msgstr ""
+msgstr "Digit Differs"
 
 msgid "Digit Even"
-msgstr ""
+msgstr "Digit Even"
 
 msgid "Digit Matches"
-msgstr ""
+msgstr "Digit Matches"
 
 msgid "Digit Odd"
-msgstr ""
+msgstr "Digit Odd"
 
 msgid "Digit Over"
-msgstr ""
+msgstr "Digit Over"
 
 msgid "Digit Under"
-msgstr ""
+msgstr "Digit Under"
 
 msgid "Ends Outside"
-msgstr ""
+msgstr "Ends Outside"
 
 msgid "Ends Outside or equal"
-msgstr ""
+msgstr "Ends Outside 或 equal"
 
 msgid "Ends Between"
-msgstr ""
+msgstr "Ends Between"
 
 msgid "Ends Between or equal"
-msgstr ""
+msgstr "Ends Between 或 equal"
 
 msgid "Close-Low"
-msgstr ""
+msgstr "Close-Low"
 
 msgid "High-Close"
-msgstr ""
+msgstr "High-Close"
 
 msgid "High-Low"
-msgstr ""
+msgstr "High-Low"
 
 msgid "Multiply Down"
-msgstr ""
+msgstr "Multiply Down"
 
 msgid "Multiply Up"
-msgstr ""
+msgstr "Multiply Up"
 
 msgid "Does Not Touch"
-msgstr ""
+msgstr "Does Not Touch"
 
 msgid "Touches"
-msgstr ""
+msgstr "Touches"
 
 msgid "Lower"
-msgstr ""
+msgstr "Lower"
 
 msgid "Put Spread"
-msgstr ""
+msgstr "Put Spread"
 
 msgid "Stays Between"
-msgstr ""
+msgstr "Stays Between"
 
 msgid "Reset Call"
-msgstr ""
+msgstr "Reset Call"
 
 msgid "Reset Put"
-msgstr ""
+msgstr "Reset Put"
 
 msgid "Only Ups"
-msgstr ""
+msgstr "Only Ups"
 
 msgid "Only Downs"
-msgstr ""
+msgstr "Only Downs"
 
 msgid "High Tick"
-msgstr ""
+msgstr "High Tick"
 
 msgid "Low Tick"
-msgstr ""
+msgstr "Low Tick"
 
 msgid "Turbos Long"
-msgstr ""
+msgstr "Turbos Long"
 
 msgid "Turbos Short"
-msgstr ""
+msgstr "Turbos Short"
 
 msgid "Goes Outside"
-msgstr ""
+msgstr "Goes Outside"
 
 msgid "Vanilla Long Call"
-msgstr ""
+msgstr "Vanilla Long Call"
 
 msgid "Vanilla Long Put"
-msgstr ""
+msgstr "Vanilla Long Put"
 
 msgid "After the entry spot tick, your stake will grow continuously by %1% for every tick that the spot price remains within the ± %2 % from the previous spot price."
-msgstr ""
+msgstr "入市现价变动后，只要现货价与前一个现货价保持在 ± %2 % 范围内，投注额将以每个报价 %1% 的速度连续增长。"
 
 msgid "Win payout if the last tick of %1 is strictly lower than the average of the %plural(%3,%d tick,%d ticks)."
-msgstr ""
+msgstr "如果%1的最后跳动点严格低于%plural(%3,%d 跳动点) 的平均价位，将获得赔付额。"
 
 msgid "Win payout if the last tick of %1 is strictly higher than the average of the %plural(%3,%d tick,%d ticks)."
-msgstr ""
+msgstr "如果%1的最新跳动点严格高于%plural(%3,%d 跳动点) 的平均价格，将获得赔付额。"
 
 msgid "Win payout if %1 is strictly higher than %4 at %3."
-msgstr ""
+msgstr "如果%1在%3严格高于%4，将获得赔付额。"
 
 msgid "Win payout if %1 is strictly higher than %4 at %3 after %2."
-msgstr ""
+msgstr "如果%1在%2之后%3严格高于%4，将获得赔付额。"
 
 msgid "Win payout if %1 after %plural(%3,%d tick,%d ticks) is strictly higher than %4."
-msgstr ""
+msgstr "如果%1在%plural(%3,%d 跳动点) 之后严格高于%4，将获得赔付额。"
 
 msgid "Win payout if %1 is higher than or equal to %4 at %3."
-msgstr ""
+msgstr "如果%1在%3时高于或等于%4，将获得赔付额。"
 
 msgid "Win payout if %1 is higher than or equal to %4 at %3 after %2."
-msgstr ""
+msgstr "如果%1在%2之后到%3时高于或等于%4，将获得赔付额。"
 
 msgid "Win payout if %1 after %plural(%3,%d tick,%d ticks) is higher than or equal to %4."
-msgstr ""
+msgstr "如果%1在%plural(%3,%d 跳动点) 之后高于或等于%4，将获得赔付额。"
 
 msgid "Win up to %7 %6 if %1's exit tick is between %5 and %4 at %3."
-msgstr ""
+msgstr "如果%1的退市跳动点在%3时在%5与%4之间，将获赔付额高达%7 %6。"
 
 msgid "Win up to %7 %6 if %1's exit tick is between %5 and %4 at %3 after %2."
-msgstr ""
+msgstr "如果%1的退市跳动点在%2过后%3时在%5与%4之间，将获赔付额高达%7 %6。"
 
 msgid "Win up to %7 %6 if %1's exit tick is between %5 and %4 after %plural(%3,%d tick,%d ticks)."
-msgstr ""
+msgstr "如果%1的退市跳动点在 %复数(%3,%d 跳动点,%d 跳动点) 以后处于%5与%4之间，将获赔付额高达%7 %6。"
 
 msgid "close on %1"
-msgstr ""
+msgstr "在%1关闭"
 
 msgid "contract start time"
-msgstr ""
+msgstr "合约开始时间"
 
 msgid "Win payout if the last digit of %1 is not %4 after %plural(%3,%d tick,%d ticks)."
-msgstr ""
+msgstr "如果%1的最后数字在%plural(%3,%d 跳动点) 后不是%4，将获得赔付额。"
 
 msgid "Win payout if the last digit of %1 is even after %3 ticks."
-msgstr ""
+msgstr "如果%1的最后数字在%3跳动点之后为偶数，将获得赔付额。"
 
 msgid "Win payout if the last digit of %1 is %4 after %plural(%3,%d tick,%d ticks)."
-msgstr ""
+msgstr "如果%1的最后数字在%plural(%3,%d 跳动点) 之后为%4，将获得赔付额。"
 
 msgid "Win payout if the last digit of %1 is odd after %3 ticks."
-msgstr ""
+msgstr "如果%1的最后数字在%3跳动点之后为奇数，将获得赔付额。"
 
 msgid "Win payout if the last digit of %1 is strictly higher than %4 after %3 ticks."
-msgstr ""
+msgstr "如果%1的最后数字在%3跳动点之后严格高于%4，将获得赔付额。"
 
 msgid "Win payout if the last digit of %1 is strictly lower than %4 after %3 ticks."
-msgstr ""
+msgstr "如果%1的最后数字在%3跳动点之后严格低于%4，将获得赔付额。"
 
 msgid "entry spot"
-msgstr ""
+msgstr "入市现价"
 
 msgid "entry spot minus %1"
-msgstr ""
+msgstr "入市现价减去 %1"
 
 msgid "entry spot minus %plural(%1,%d pip, %d pips)"
-msgstr ""
+msgstr "入市现价减去 %plural(%1, %d 点)"
 
 msgid "entry spot plus %1"
-msgstr ""
+msgstr "入市现价加上 %1"
 
 msgid "entry spot plus %plural(%1,%d pip, %d pips)"
-msgstr ""
+msgstr "入市现价加上 %plural(%1, %d 点)"
 
 msgid "Win payout if %1 ends outside %5 to %4 at %3."
-msgstr ""
+msgstr "如果%1在%3时收盘于%5至%4之外，将获得赔付额。"
 
 msgid "Win payout if %1 ends outside %5 to %4 at %3 after %2."
-msgstr ""
+msgstr "如果%1在%2过后的%3时收盘于%5至%4之外，将获得赔付额。"
 
 msgid "Win payout if %1 ends on or outside %5 to %4 at %3."
-msgstr ""
+msgstr "如果%1在%3时收盘等于或处于%5至%4之外，将获得赔付额。"
 
 msgid "Win payout if %1 ends on or outside %5 to %4 at %3 after %2."
-msgstr ""
+msgstr "如果%1在%2过后的%3时收盘等于或处于%5至%4之外，将获得赔付额。"
 
 msgid "Win payout if %1 ends strictly between %5 to %4 at %3."
-msgstr ""
+msgstr "如果%1在%3时收盘严格处于%5至%4之间，将获得赔付额。"
 
 msgid "Win payout if %1 ends strictly between %5 to %4 at %3 after %2."
-msgstr ""
+msgstr "如果%1在%2之后的%3时收盘严格处于%5至%4之间，将获得赔付额。"
 
 msgid "Win payout if %1 ends on or between %5 to %4 at %3."
 msgstr ""
