@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deriv-websocket-api\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-02-14 15:48\n"
+"PO-Revision-Date: 2024-02-15 05:42\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -5276,304 +5276,304 @@ msgid "Win payout if %1 ends strictly between %5 to %4 at %3 after %2."
 msgstr "如果%1在%2之后的%3时收盘严格处于%5至%4之间，将获得赔付额。"
 
 msgid "Win payout if %1 ends on or between %5 to %4 at %3."
-msgstr ""
+msgstr "如果%1在%3时收盘等于或处于%5至%4之间，将获得赔付额。"
 
 msgid "Win payout if %1 ends on or between %5 to %4 at %3 after %2."
-msgstr ""
+msgstr "如果%1在%2之后的%3时收盘等于或处于%5至%4之间，将获得赔付额。"
 
 msgid "first tick"
-msgstr ""
+msgstr "首个跳动点"
 
 msgid "Win %6 %5 times %1's close minus low over the next %3."
-msgstr ""
+msgstr "在接下来的%3内赢取%6 %5乘以%1的收盘值减最低值。"
 
 msgid "Win %6 %5 times %1's close minus low at %3."
-msgstr ""
+msgstr "%3时赢取%6 %5乘以%1的收盘值减最低值。"
 
 msgid "Win %6 %5 times %1's high minus close over the next %3."
-msgstr ""
+msgstr "在接下来的%3内赢取%6 %5乘以%1的最高值减收盘值。"
 
 msgid "Win %6 %5 times %1's high minus close at %3."
-msgstr ""
+msgstr "%3时赢取%6 %5乘以%1的最高值减收盘值。"
 
 msgid "Win %6 %5 times %1's high minus low over the next %3."
-msgstr ""
+msgstr "在接下来的%3内赢取%6 %5乘以%1的最高值减最低值。"
 
 msgid "Win %6 %5 times %1's high minus low at %3."
-msgstr ""
+msgstr "%3时赢取%6 %5乘以%1的最高值减最低值。"
 
 msgid "Legacy contract. No further information is available."
-msgstr ""
+msgstr "旧版合约。无法提供更加详细的信息。"
 
 msgid "If you select 'Down', your total profit/loss will be the percentage decrease in %1, multiplied by %7, minus commissions."
-msgstr ""
+msgstr "如果选择“Down”，总利润/亏损将是下降百分比 %1 乘以 %7，再减去佣金。"
 
 msgid "If you select 'Up', your total profit/loss will be the percentage increase in %1, multiplied by %7, minus commissions."
-msgstr ""
+msgstr "如果选择“Up”，总利润/亏损将是增加的百分比%1乘以%7，减去佣金。"
 
 msgid "Win payout if %1 does not touch %4 through %3."
-msgstr ""
+msgstr "如果%1一直到%3时未触及%4，将获得赔付额。"
 
 msgid "Win payout if %1 does not touch %4 through %3 after %2."
-msgstr ""
+msgstr "如果%1在%2之后到%3时未触及%4，将获得赔付额。"
 
 msgid "Win payout if %1 does not touch %4 through %plural(%3,%d tick,%d ticks) after %2."
-msgstr ""
+msgstr "如果%1在%2之后到%plural(%3,%d 跳动点) 时未触及%4，将获得赔付额。"
 
 msgid "Win payout if %1 touches %4 through %3."
-msgstr ""
+msgstr "如果%1一直到%3时触及%4，将获得赔付额。"
 
 msgid "Win payout if %1 touches %4 through %3 after %2."
-msgstr ""
+msgstr "如果%1在%2过后一直到%3时触及%4，将获得赔付额。"
 
 msgid "Win payout if %1 touches %4 through %plural(%3,%d tick,%d ticks) after %2."
-msgstr ""
+msgstr "如果%1在%2过后一直到%plural(%3,%d 跳动点) 时触及%4，将获得赔付额。"
 
 msgid "Win payout if %1 is strictly lower than %4 at %3."
-msgstr ""
+msgstr "如果%1在%3严格低于%4，将获得赔付额。"
 
 msgid "Win payout if %1 is strictly lower than %4 at %3 after %2."
-msgstr ""
+msgstr "如果%1在%2之后的%3严格低于%4，将获得赔付额。"
 
 msgid "Win payout if %1 after %plural(%3,%d tick,%d ticks) is strictly lower than %4."
-msgstr ""
+msgstr "如果%1在%plural(%3,%d 跳动点) 之后严格低于%4，将获得赔付额。"
 
 msgid "Win payout if %1 is lower than or equal to %4 at %3."
-msgstr ""
+msgstr "如果%1在%3时低于或等于%4，将获得赔付额。"
 
 msgid "Win payout if %1 is lower than or equal to %4 at %3 after %2."
-msgstr ""
+msgstr "如果%1在%2之后的%3时低于或等于%4，将获得赔付额。"
 
 msgid "Win payout if %1 after %plural(%3,%d tick,%d ticks) is lower than or equal to %4."
-msgstr ""
+msgstr "如果%1在%plural(%3,%d 跳动点) 之后低于或等于%4，将获得赔付额。"
 
 msgid "Win up to %7 %6 if %1's exit tick is between %4 and %5 at %3."
-msgstr ""
+msgstr "如果%1的退市跳动点在%3时在%4与%5之间，将获赔付额高达%7 %6。"
 
 msgid "Win up to %7 %6 if %1's exit tick is between %4 and %5 at %3 after %2."
-msgstr ""
+msgstr "如果%1的退市跳动点在%2过后%3时在%4与%5之间，将获赔付额高达%7 %6。"
 
 msgid "Win up to %7 %6 if %1's exit tick is between %4 and %5 after %plural(%3,%d tick,%d ticks)."
-msgstr ""
+msgstr "如果%1的退市跳动点在%复数(%3,%d 跳动点,%d 跳动点) 以后处于%4与%5之间，将获赔付额高达%7 %6。"
 
 msgid "Win payout if %1 stays between %5 to %4 through %3."
-msgstr ""
+msgstr "如果%1在%3时一直在%5至%4之间，将获赔付额。"
 
 msgid "Win payout if %1 stays between %5 and %4 through %3 after %2."
-msgstr ""
+msgstr "如果%1在%2过后到%3时一直在%5与%4之间，将获得赔付额。"
 
 msgid "Win payout if %1 after %3 is strictly higher than it was at either entry or %5."
-msgstr ""
+msgstr "如果%1在%3之后严格高于入场价或%5，将获得赔付额。"
 
 msgid "Win payout if %1 after %plural(%3,%d tick,%d ticks) is strictly higher than it was at either entry or %5 ticks."
-msgstr ""
+msgstr "如果%1在%plural(%3,%d 跳动点) 之后严格高于入场价或%5跳动点，将获得赔付额。"
 
 msgid "Win payout if %1 after %3 is strictly lower than it was at either entry or %5."
-msgstr ""
+msgstr "如果%1在%3之后严格低于入场价或%5，将获得赔付额。"
 
 msgid "Win payout if %1 after %plural(%3,%d tick,%d ticks) is strictly lower than it was at either entry or %5 ticks."
-msgstr ""
+msgstr "如果%1在%plural(%3,%d 跳动点) 之后严格低于入场价或%5跳动点，将获得赔付额。"
 
 msgid "Win payout if %1 rises successively for %plural(%3,%d tick, %d ticks) after the entry spot."
-msgstr ""
+msgstr "如果%1在入市现价过后一直到%plural(%3,%d 跳动点) 时持续上涨，将获得赔付额。"
 
 msgid "Win payout if %1 falls successively for %plural(%3,%d tick, %d ticks) after the entry spot."
-msgstr ""
+msgstr "如果%1在入市现价过后一直到%plural(%3,%d 跳动点) 时持续下跌，将获得赔付额。"
 
 msgid "Win payout if tick %5 of %1 is the highest among all %3 ticks."
-msgstr ""
+msgstr "如果%1的%5跳动点为所有%3跳动点的最高值，将获得赔付额。"
 
 msgid "Win payout if tick %5 of %1 is the lowest among all %3 ticks."
-msgstr ""
+msgstr "如果%1的%5跳动点为所有%3跳动点的最低值，将获得赔付额。"
 
 msgid "For 'Long', you receive a payout on %3 if the spot price of %1 never touches or drops below %4. Your payout is equal to %5 multiplied by the absolute difference between the final price and %4. You may choose to sell the contract up until 15 seconds before %3, and receive a contract value."
-msgstr ""
+msgstr "对于 'Long' 合约，如果 %1 的现货价格从未触及或跌破 %4，将收到 %3 的赔付。赔付额等于 %5 乘以最终价格与 %4 之间的绝对差。可以选择在 %3 之前 15 秒内出售合约，并获得合约价值。"
 
 msgid "For 'Long', you receive a payout in %plural(%3,%d tick,%d ticks) if the spot price of %1 never touches or drops below %4. Your payout is equal to %5 multiplied by the absolute difference between the final price and %4. If you choose your duration in number of ticks, you won't be able to terminate your contract early."
-msgstr ""
+msgstr "对于 'Long' 合约，如果 %1 的现货价格从未触及或跌破 %4，将收到 %plural(%3,%d 跳动点,%d 跳动点) 的赔付。赔付额等于 %5 乘以最终价格与 %4 之间的绝对差。如果选择的持续时间以跳动点数为单位，将无法提前终止合同。"
 
 msgid "For 'Short', you receive a payout on %3 if the spot price of %1 never touches or rises above %4. Your payout is equal to %5 multiplied by the absolute difference between the final price and %4. You may choose to sell the contract up until 15 seconds before %3, and receive a contract value."
-msgstr ""
+msgstr "对于 'Short' 合约，如果 %1 的现货价格从未触及或涨至 %4 以上，将收到 %3 的赔付。赔付额等于 %5 乘以最终价格与 %4 之间的绝对差。可以选择在 %3 之前 15 秒内出售合约，并获得合约价值。"
 
 msgid "For 'Short', you receive a payout in %plural(%3,%d tick,%d ticks) if the spot price of %1 never touches or rises above %4. Your payout is equal to %5 multiplied by the absolute difference between the final price and %4. If you choose your duration in number of ticks, you won't be able to terminate your contract early."
-msgstr ""
+msgstr "对于 'Short' 合约，如果 %1 的现货价格从未触及或上涨到 %4 以上，将收到 %plural(%3,%d 跳动点,%d 跳动点) 的赔付。赔付额等于 %5 乘以最终价格与 %4 之间的绝对差。如果选择的持续时间以跳动点数为单位，将无法提前终止合同。"
 
 msgid "Win payout if %1 goes outside %5 to %4 through %3."
-msgstr ""
+msgstr "如果%1一直到%3时处于%5至%4之外，将获得赔付额。"
 
 msgid "Win payout if %1 goes outside %5 and %4 through %3 after %2."
-msgstr ""
+msgstr "如果%1在%2过后一直到%3时处于%5与%4之外，将获得赔付额。"
 
 msgid "For a 'Call' contract, you receive a payout on %3 if the final price of %1 is above %4. The payout is equal to %5 multiplied by the difference%7between the final price and %4. You may choose to sell the contract up until %6 before %3, and receive a contract value. "
-msgstr ""
+msgstr "对于'Call'合约，如果 %1 的最终价格高于 %4， %3将收到赔付。赔付额等于 %5 乘以最终价格与 %4 之间的%7差。可以选择在 %3 前至 %6卖出合约，并获得合约价值。 "
 
 msgid "For a 'Put' contract, you receive a payout on %3 if the final price of %1 is below %4. The payout is equal to %5 multiplied by the difference%7between the final price and %4. You may choose to sell the contract up until %6 before %3, and receive a contract value. "
-msgstr ""
+msgstr "对于“Put”合约，如果 %1 的最终价格低于 %4， %3将收到 赔付。赔付额等于 %5 乘以最终价格与 %4 之间的%7差。可以选择在 %3 前至 %6卖出合约，并获得合约价值。 "
 
 msgid "This contract has already expired."
-msgstr ""
+msgstr "合约已经到期。"
 
 msgid "Barrier is not allowed for this contract type."
-msgstr ""
+msgstr "此类合约不可设障碍。"
 
 msgid "Barrier is not an integer in range of %1 to %2."
-msgstr ""
+msgstr "障碍必须是%1至%2之间的整数。"
 
 msgid "Barrier is out of acceptable range."
-msgstr ""
+msgstr "障碍不在可接受范围内。"
 
 msgid "The spot price has moved. We have not closed this contract because your profit is negative and deal cancellation is active. Cancel your contract to get your full stake back."
-msgstr ""
+msgstr "现货价已有变动。由于利润为负值，且交易取消有效，尚未关闭此合约。取消合约即可收回全部投注额。"
 
 msgid "Deal cancellation is not available for this contract."
-msgstr ""
+msgstr "此合约交易不可取消。"
 
 msgid "This symbol is not available."
-msgstr ""
+msgstr "此符号不可用。"
 
 msgid "This contract has been sold."
-msgstr ""
+msgstr "此合约已卖出。"
 
 msgid "Contract may not expire between %1 and %2."
-msgstr ""
+msgstr "合约不可在%1 与 %2之间到期。"
 
 msgid "%1 is not allowed for residence of %2."
-msgstr ""
+msgstr "%2的居民不可进行%1。"
 
 msgid "Intraday contracts may not cross market open."
-msgstr ""
+msgstr "日内合约不能跨越开市。"
 
 msgid "Deal cancellation is not available from %1 to %2."
-msgstr ""
+msgstr "%1 至 %2交易不可取消。"
 
 msgid "Deal cancellation period has expired. Your contract can only be cancelled while deal cancellation is active."
-msgstr ""
+msgstr "交易取消已过期。合约仅能在交易取消有效期间才能取消。"
 
 msgid "Deal cancellation is not available for this asset."
-msgstr ""
+msgstr "此资产交易不可取消。"
 
 msgid "This contract does not include deal cancellation. Your contract can only be cancelled when you select deal cancellation in your purchase."
-msgstr ""
+msgstr "此合约不包括取消交易。仅当在购入时选择取消交易，才能取消合约。"
 
 msgid "Deal cancellation is not available at this moment."
-msgstr ""
+msgstr "当前不可取消交易。"
 
 msgid "Digit must be in the range of %1 to %2."
-msgstr ""
+msgstr "数字须在%1 至 %2之间。"
 
 msgid "Please enter only %1 or %2."
-msgstr ""
+msgstr "请仅输入%1或%2。"
 
 msgid "You may use either stop loss or deal cancellation, but not both. Please select either one."
-msgstr ""
+msgstr "可以使用止损或交易取消，但不能同时使用两者。请选择一个。"
 
 msgid "You may use either take profit or deal cancellation, but not both. Please select either one."
-msgstr ""
+msgstr "可以使用止盈或交易取消，但不能同时使用两者。请选择一个。"
 
 msgid "Waiting for entry tick."
-msgstr ""
+msgstr "正在等待进场跳动点。"
 
 msgid "Start time on forward-starting contracts must be more than 5 minutes from now."
-msgstr ""
+msgstr "远期起点合约的开始时间必须离现在5分钟以上。"
 
 msgid "Start time is in the future."
-msgstr ""
+msgstr "开始时间是在未来。"
 
 msgid "Growth rate is not in acceptable range. Accepts %1."
-msgstr ""
+msgstr "增长率不在可接受范围内。接受%1。"
 
 msgid "%1 barrier offset can not have more than %2 decimal places."
-msgstr ""
+msgstr "%1障碍抵销的小数点后不得超过%2位。"
 
 msgid "Payout can not have more than %1 decimal places."
-msgstr ""
+msgstr "赔付额的小数点后不得超过%1位。"
 
 msgid "Stake can not have more than %1 decimal places."
-msgstr ""
+msgstr "投注额的小数点后不得超过%1位。"
 
 msgid "Barrier must be an integer."
-msgstr ""
+msgstr "障碍必须是整数。"
 
 msgid "Selected tick must be an integer."
-msgstr ""
+msgstr "选定跳动点必须是整数。"
 
 msgid "Invalid barrier."
-msgstr ""
+msgstr "无效障碍。"
 
 msgid "Invalid barrier (Barrier type must be the same for double-barrier contracts)."
-msgstr ""
+msgstr "无效障碍（双重障碍合约的障碍类型必须相同）。"
 
 msgid "Invalid barrier (Double barrier input is expected)."
-msgstr ""
+msgstr "无效障碍（须输入双重障碍）。"
 
 msgid "Invalid barrier (Contract can have only one type of barrier)."
-msgstr ""
+msgstr "无效障碍（此合约只能有一种障碍）。"
 
 msgid "Invalid barrier (Barrier Range input is expected)."
-msgstr ""
+msgstr "无效障碍（须输入障碍范围）。"
 
 msgid "Invalid barrier (Single barrier input is expected)."
-msgstr ""
+msgstr "无效障碍（必须输入单一障碍）。"
 
 msgid "Invalid contract type."
-msgstr ""
+msgstr "无效合约类型。"
 
 msgid "Deal cancellation is not offered at this duration."
-msgstr ""
+msgstr "这期间不提供交易。"
 
 msgid "Invalid input (duration or date_expiry) for this contract type (%1)."
-msgstr ""
+msgstr "此合约类型（%1）的输入（期限或date_expiry）无效。"
 
 msgid "Invalid expiry time."
-msgstr ""
+msgstr "无效到期时间。"
 
 msgid "High barrier must be higher than low barrier."
-msgstr ""
+msgstr "最高障碍必须高于最低障碍。"
 
 msgid "High barrier is out of acceptable range. Please adjust the high barrier."
-msgstr ""
+msgstr "高障碍价格不在可接受的范围内。请调整高障碍价格。"
 
 msgid "Invalid stop loss. Stop loss must be higher than commission (%1)."
-msgstr ""
+msgstr "止损无效。止损须高于佣金 (%1)。"
 
 msgid "%1 is not a valid input for contract type %2."
-msgstr ""
+msgstr "合约类型%2的%1输入无效。"
 
 msgid "Trading is not offered for this asset."
-msgstr ""
+msgstr "这资产不提供交易。"
 
 msgid "Low barrier is out of acceptable range. Please adjust the low barrier."
-msgstr ""
+msgstr "低障碍价格不在可接受的范围内。请调整低障碍价格。"
 
 msgid "Please enter a stake amount that's less than %1."
-msgstr ""
+msgstr "请输入小于%1的投注金额。"
 
 msgid "Please enter a payout amount that's at least %1."
-msgstr ""
+msgstr "请输入不小于%1的赔付金额。"
 
 msgid "Please enter a stake amount that's at least %1."
-msgstr ""
+msgstr "请输入不小于%1的投注金额。"
 
 msgid "Contract price cannot be zero."
-msgstr ""
+msgstr "合约价格不可为零。"
 
 msgid "Invalid payout currency"
-msgstr ""
+msgstr "无效赔付币种"
 
 msgid "Invalid stake/payout."
-msgstr ""
+msgstr "无效投注/赔付金额。"
 
 msgid "Please enter a stop loss amount that's higher than %1."
-msgstr ""
+msgstr "请输入大于%1的止损金额。"
 
 msgid "Invalid stop out. Stop out must be %1 than current spot price. Please adjust stake or multiplier."
-msgstr ""
+msgstr "强制平仓无效。强制平仓须低于当前现货价%1。请调整投注资金或 multiplier 值。"
 
 msgid "Invalid duration (tick) for contract type (%1)."
-msgstr ""
+msgstr "合约类型（%1）的持久期（跳动点）无效。"
 
 msgid "We could not process this contract at this time."
-msgstr ""
+msgstr "目前无法处理该合约。"
 
 msgid "Only %1 decimal places allowed."
 msgstr ""
@@ -5726,154 +5726,154 @@ msgid "Invalid stop loss. Stop loss cannot be more than %1."
 msgstr ""
 
 msgid "Barrier must be symmetrical."
-msgstr ""
+msgstr "障碍必须对称。"
 
 msgid "Please enter a take profit amount that's lower than %1."
-msgstr ""
+msgstr "请输入小于%1的止盈金额。"
 
 msgid "Please enter a take profit amount that's higher than %1."
-msgstr ""
+msgstr "请输入大于%1的止盈金额。"
 
 msgid "Number of ticks must be between %1 and %2."
-msgstr ""
+msgstr "跳动点数目须在%1 与 %2之间。"
 
 msgid "Too many market holidays during the contract period."
-msgstr ""
+msgstr "该合约期限内有太多市场假日。"
 
 msgid "This trade is temporarily unavailable."
-msgstr ""
+msgstr "此交易暂时不可用。"
 
 msgid "Contracts on this market with a duration of more than 24 hours must expire at the end of a trading day."
-msgstr ""
+msgstr "期限超过24小时的市场内合约必须在同一交易日到期。"
 
 msgid "The contract must expire on a trading day."
-msgstr ""
+msgstr "合约到期日必须为交易日。"
 
 msgid "Trading is not offered for this duration."
-msgstr ""
+msgstr "这期间不提供交易。"
 
 msgid "Contract must expire during trading hours."
-msgstr ""
+msgstr "合约必须在交易时段内到期。"
 
 msgid "Trading is not available from %1 to %2."
-msgstr ""
+msgstr "%1到%2期间内交易暂停。"
 
 msgid "Trading on forex contracts with duration less than 5 hours is not available from %1 to %2"
-msgstr ""
+msgstr "%1到%2期间内，持续时间少于5小时的外汇交易暂时停止"
 
 msgid "Minimum stake allowed is %1."
-msgstr ""
+msgstr "最小允许投注额为%1。"
 
 msgid "Please wait for contract settlement. The final settlement price may differ from the indicative price."
-msgstr ""
+msgstr "正在进行合约结算，请稍等。最终结算价格可能与指示性价格有差异。"
 
 msgid "Basis must be %1 for this contract."
-msgstr ""
+msgstr "此合约的基准必须是%1。"
 
 msgid "Basis can either be %1 or %2 for this contract."
-msgstr ""
+msgstr "本合约的基准可为%1或%2。"
 
 msgid "Barrier cannot be zero."
-msgstr ""
+msgstr "障碍不可为零。"
 
 msgid "Duration above 7 days"
-msgstr ""
+msgstr "持续时间超过7天"
 
 msgid "ATM"
-msgstr ""
+msgstr "自动取款机"
 
 msgid "Buy"
-msgstr ""
+msgstr "购买"
 
 msgid "Christmas Day"
-msgstr ""
+msgstr "圣诞节"
 
 msgid "Close"
-msgstr ""
+msgstr "收盘"
 
 msgid "Closes early (at 20:55)"
-msgstr ""
+msgstr "收盘提前（于 20:55）"
 
 msgid "Closes early (at 18:00)"
-msgstr ""
+msgstr "收盘提前（于18:00）"
 
 msgid "Closing Spot"
-msgstr ""
+msgstr "收盘现价"
 
 msgid "End Time"
-msgstr ""
+msgstr "结束时间"
 
 msgid "Entry Spot"
-msgstr ""
+msgstr "入市现价"
 
 msgid "Even/Odd"
-msgstr ""
+msgstr "Even/Odd"
 
 msgid "Exit Spot"
-msgstr ""
+msgstr "退市现价"
 
 msgid "Fridays"
-msgstr ""
+msgstr "星期五"
 
 msgid "High"
-msgstr ""
+msgstr "High"
 
 msgid "Higher/Lower"
-msgstr ""
+msgstr "Higher/Lower"
 
 msgid "Highest Spot"
-msgstr ""
+msgstr "最高现货价格"
 
 msgid "In/Out"
-msgstr ""
+msgstr "In/Out"
 
 msgid "Low"
-msgstr ""
+msgstr "Low"
 
 msgid "Lowest Spot"
-msgstr ""
+msgstr "最低现货价格"
 
 msgid "Matches/Differs"
-msgstr ""
+msgstr "Matches/Differs"
 
 msgid "New Year's Day"
-msgstr ""
+msgstr "元旦"
 
 msgid "Non-ATM"
-msgstr ""
+msgstr "非自动取款机"
 
 msgid "Over/Under"
-msgstr ""
+msgstr "Over/Under"
 
 msgid "Payoff"
-msgstr ""
+msgstr "付清"
 
 msgid "There was a problem accessing the server during purchase."
-msgstr ""
+msgstr "买入时服务器访问发生问题。"
 
 msgid "Sell"
-msgstr ""
+msgstr "卖出"
 
 msgid "There was a problem accessing the server."
-msgstr ""
+msgstr "服务器访问发生问题。"
 
 msgid "Start Time"
-msgstr ""
+msgstr "开始时间"
 
 msgid "Stop out"
-msgstr ""
+msgstr "强制平仓"
 
 msgid "%1 and %2"
-msgstr ""
+msgstr "%1 和 %2"
 
 msgid "today, Fridays"
-msgstr ""
+msgstr "今天、周五"
 
 msgid "Duration up to 7 days"
-msgstr ""
+msgstr "持续时间不超过7天"
 
 msgid "Your account is deactivated. Please contact us via live chat."
-msgstr ""
+msgstr "账户已停用。请通过即时聊天跟我们联系。"
 
 msgid "Your email and/or password is incorrect. Perhaps you signed up with a social account?"
 msgstr ""
