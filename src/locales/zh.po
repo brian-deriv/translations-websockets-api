@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deriv-websocket-api\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-02-15 05:42\n"
+"PO-Revision-Date: 2024-02-15 10:25\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -5576,154 +5576,154 @@ msgid "We could not process this contract at this time."
 msgstr "目前无法处理该合约。"
 
 msgid "Only %1 decimal places allowed."
-msgstr ""
+msgstr "只允许%1 个小数位。"
 
 msgid "This market is presently closed. Market will open at %1."
-msgstr ""
+msgstr "此市场目前已收市。将于%1开市。"
 
 msgid "This market is presently closed. Market will open at %1. Try out the Synthetic Indices which are always open."
-msgstr ""
+msgstr "此市场目前已关闭。将于%1开市。可以试试一直开放的综合指数。"
 
 msgid "The market must be open at the start time."
-msgstr ""
+msgstr "市场开始时必须已经开市。"
 
 msgid "The market must be open at the start time. Try out the Synthetic Indices which are always open."
-msgstr ""
+msgstr "此市场须于开始时间开启。可以试试一直开放的综合指数。"
 
 msgid "Contract market price is too close to final payout."
-msgstr ""
+msgstr "合约市场价格和最终赔付额太接近。"
 
 msgid "Minimum multiplier of %1."
-msgstr ""
+msgstr "%1的最小 multiplier 值。"
 
 msgid "Basis spot is not defined."
-msgstr ""
+msgstr "未界定基本现价。"
 
 msgid "Trading is suspended due to missing market (dividend) data."
-msgstr ""
+msgstr "由于市场数据丢失（红利），交易暂停。"
 
 msgid "Please specify either %1 or %2."
-msgstr ""
+msgstr "请指定%1或%2。"
 
 msgid "Trading is suspended due to missing market data."
-msgstr ""
+msgstr "由于市场数据丢失，交易暂停。"
 
 msgid "Missing required contract config."
-msgstr ""
+msgstr "遗漏所需合约配置。"
 
 msgid "Missing required contract parameters (%1)."
-msgstr ""
+msgstr "遗漏所需合约参数(%1)。"
 
 msgid "Missing required contract parameters (last digit prediction for digit contracts)."
-msgstr ""
+msgstr "遗漏所需合约参数 (digit 合约的最后数字预测)。"
 
 msgid "Missing required contract parameters (selected tick)."
-msgstr ""
+msgstr "遗漏所需合约参数 (选定跳动点)。"
 
 msgid "Trading is suspended due to missing market (spot too far) data."
-msgstr ""
+msgstr "由于市场数据丢失（与现货价相距太远），交易暂停。"
 
 msgid "Trading is suspended due to missing market (tick) data."
-msgstr ""
+msgstr "由于市场数据丢失（跳动点），交易暂停。"
 
 msgid "%1 must be supplied for multi barrier contracts."
-msgstr ""
+msgstr "多重障碍合约必须有%1。"
 
 msgid "Trading is suspended due to missing market (volatility) data."
-msgstr ""
+msgstr "由于市场数据丢失（波动率），交易暂停。"
 
 msgid "Only 3 decimal places are allowed."
-msgstr ""
+msgstr "只允许3个小数位。"
 
 msgid "Multiplier is not in acceptable range. Accepts %1."
-msgstr ""
+msgstr "Multiplier 值不在可接受范围内。接受%1。"
 
 msgid "Multiplier is not in acceptable range."
-msgstr ""
+msgstr "Multiplier 值不在可接受范围内。"
 
 msgid "Contracts more than 24 hours in duration would need an absolute barrier."
-msgstr ""
+msgstr "超过24小时持续期间的合约必须有个绝对障碍。"
 
 msgid "Barrier offset %1 exceeded quote price, contract barrier must be positive."
-msgstr ""
+msgstr "障碍抵销%1大于报价，合约障碍必须为正数。"
 
 msgid "Negative take profit value is not accepted"
-msgstr ""
+msgstr "不接受负值止盈"
 
 msgid "This contract offers no return."
-msgstr ""
+msgstr "该合约不提供回报。"
 
 msgid "Barriers could not be determined."
-msgstr ""
+msgstr "无法确定障碍。"
 
 msgid "Landing company is invalid."
-msgstr ""
+msgstr "登陆公司无效。"
 
 msgid "There's no contract available for this symbol."
-msgstr ""
+msgstr "此符号无适用的合约。"
 
 msgid "Symbol is required."
-msgstr ""
+msgstr "符号是必要的。"
 
 msgid "Trading is suspended due to missing market (old) data."
-msgstr ""
+msgstr "由于市场数据丢失（旧数据），交易暂停。"
 
 msgid "Trading is suspended due to missing market (out-of-date volatility) data."
-msgstr ""
+msgstr "由于市场数据丢失（过时波动率），交易暂停。"
 
 msgid "Expiry time cannot be in the past."
-msgstr ""
+msgstr "到期时间不可在过去。"
 
 msgid "Maximum payout allowed is %1."
-msgstr ""
+msgstr "最高允许赔付额为%1。"
 
 msgid "Minimum stake of %1 and maximum payout of %2. Current payout is %3."
-msgstr ""
+msgstr "最小交易金额%1及最大赔付额%2。当前赔付额是%3。"
 
 msgid "Contracts with predefined barrier would need an absolute barrier."
-msgstr ""
+msgstr "拥有预定障碍的合约必须有个绝对障碍。"
 
 msgid "Contract cannot be sold at this time. Please try again."
-msgstr ""
+msgstr "此时不能卖出合约。请重试。"
 
 msgid "There was a market data disruption during the contract period. For real-money accounts we will attempt to correct this and settle the contract properly, otherwise the contract will be cancelled and refunded. Virtual-money contracts will be cancelled and refunded."
-msgstr ""
+msgstr "合约执行期间发生市场数据中断。对于真实货币账户, 我们将尝试纠正此情况并妥善结算合约, 否则合约将取消并退款。虚拟货币合约将取消并退款。"
 
 msgid "Resale of this contract is not offered."
-msgstr ""
+msgstr "该合约不能转售。"
 
 msgid "Resale of this contract is not offered due to market holidays during contract period."
-msgstr ""
+msgstr "由于合约期限内有市场假日，该合约不能转售。"
 
 msgid "Non atm barrier is not allowed for reset contract."
-msgstr ""
+msgstr "非 atm 障碍市场不可重置合约。"
 
 msgid "Fixed expiry for reset contract is not allowed."
-msgstr ""
+msgstr "重置合约不允许固定到期日。"
 
 msgid "High and low barriers must be different."
-msgstr ""
+msgstr "最高和最低障碍必须不同。"
 
 msgid "Expiry time cannot be equal to start time."
-msgstr ""
+msgstr "到期时间不可与开始时间相同。"
 
 msgid "Contracts on this market with a duration of under 24 hours must expire on the same trading day."
-msgstr ""
+msgstr "期限小于24小时的市场内合约必须在同一交易日到期。"
 
 msgid "Tick prediction must be between %1 and %2."
-msgstr ""
+msgstr "跳动价格预测须在%1 与 %2之间。"
 
 msgid "Contract cannot be sold at entry tick. Please wait for the next tick."
-msgstr ""
+msgstr "入市价点时不能卖出合约。请等待下一跳动点。"
 
 msgid "An error occurred during contract settlement."
-msgstr ""
+msgstr "合约结算时出错。"
 
 msgid "Minimum stake of %1 and maximum payout of %2. Current stake is %3."
-msgstr ""
+msgstr "最小交易金额%1及最大赔付额%2。当前交易金额是%3。"
 
 msgid "Invalid stop loss. Stop loss cannot be more than %1."
-msgstr ""
+msgstr "止损无效。止损不可大于%1。"
 
 msgid "Barrier must be symmetrical."
 msgstr "障碍必须对称。"
@@ -5876,1019 +5876,1019 @@ msgid "Your account is deactivated. Please contact us via live chat."
 msgstr "账户已停用。请通过即时聊天跟我们联系。"
 
 msgid "Your email and/or password is incorrect. Perhaps you signed up with a social account?"
-msgstr ""
+msgstr "电子邮件地址和/或密码不正确。可能是已用社交账户注册？"
 
 msgid "Login to this account has been temporarily disabled due to system maintenance. Please try again in 30 minutes."
-msgstr ""
+msgstr "由于系统维护，账户暂时不能登录。请在30分钟后重试。"
 
 msgid "Sorry, you have already had too many unsuccessful attempts. Please try again in 5 minutes."
-msgstr ""
+msgstr "对不起，失败次数过多。请5分钟后再试。"
 
 msgid "Chrome"
-msgstr ""
+msgstr "Chrome"
 
 msgid "Edge"
-msgstr ""
+msgstr "Edge"
 
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 msgid "Safari"
-msgstr ""
+msgstr "Safari"
 
 msgid "UC"
-msgstr ""
+msgstr "UC"
 
 msgid "android"
-msgstr ""
+msgstr "android"
 
 msgid "iphone"
-msgstr ""
+msgstr "iphone"
 
 msgid "This account has been disabled."
-msgstr ""
+msgstr "此账户已禁用。"
 
 msgid "Email not given."
-msgstr ""
+msgstr "未提交电子邮件 。"
 
 msgid "Password not given."
-msgstr ""
+msgstr "未输入密码。"
 
 msgid "The email address you provided is already registered with your %1 account."
-msgstr ""
+msgstr "提供的电邮地址已经在%1账户注册过了。"
 
 msgid "Sorry, our service is currently unavailable in %1."
-msgstr ""
+msgstr "对不起，目前不对%1提供服务。"
 
 msgid "Please grant access to your email address to log in with %1"
-msgstr ""
+msgstr "请授权访问电邮地址，以便用%1登录"
 
 msgid "Invalid user."
-msgstr ""
+msgstr "无效用户。"
 
 msgid "Please log in to your social account to continue."
-msgstr ""
+msgstr "请登录到社交账户，以继续操作。"
 
 msgid "Social login is not enabled for this account. Please log in with your email and password instead."
-msgstr ""
+msgstr "此账户不允许社交登录。请尝试输入电子邮件和密码登录。"
 
 msgid "Failed to get user identity."
-msgstr ""
+msgstr "无法获取用户身份。"
 
 msgid "Suspicious activity detected from this device - for safety, login has been blocked temporarily."
-msgstr ""
+msgstr "检测到此设备有可疑活动 - 为了安全起见，已暂时禁止登录。"
 
 msgid "Invalid authentication code"
-msgstr ""
+msgstr "无效的验证代码"
 
 msgid "Antarctic Dollar"
-msgstr ""
+msgstr "南极元"
 
 msgid "UAE Dirham"
-msgstr ""
+msgstr "阿联酋迪拉姆"
 
 msgid "Afghan Afghani"
-msgstr ""
+msgstr "阿富汗 阿富汗尼"
 
 msgid "Albanian Lek"
-msgstr ""
+msgstr "阿尔巴尼亚莱克"
 
 msgid "Armenian Dram"
-msgstr ""
+msgstr "亚美尼亚德拉姆"
 
 msgid "Netherlands Antillean Guilder"
-msgstr ""
+msgstr "荷属安地列斯盾"
 
 msgid "Angolan Kwanza"
-msgstr ""
+msgstr "安哥拉宽扎"
 
 msgid "Argentine Peso"
-msgstr ""
+msgstr "阿根廷比索"
 
 msgid "Australian Dollar"
-msgstr ""
+msgstr "澳大利亚元"
 
 msgid "Aruban Florin"
-msgstr ""
+msgstr "阿鲁巴弗罗林"
 
 msgid "Azerbaijan Manat"
-msgstr ""
+msgstr "阿塞拜疆玛纳特"
 
 msgid "Convertible Mark"
-msgstr ""
+msgstr "可兑换马克"
 
 msgid "Barbados Dollar"
-msgstr ""
+msgstr "巴巴多斯元"
 
 msgid "Bangladeshi Taka"
-msgstr ""
+msgstr "孟加拉塔卡"
 
 msgid "Bulgarian Lev"
-msgstr ""
+msgstr "保加利亚列弗"
 
 msgid "Bahraini Dinar"
-msgstr ""
+msgstr "巴林第纳尔"
 
 msgid "Burundi Franc"
-msgstr ""
+msgstr "布隆迪法郎"
 
 msgid "Bermudian Dollar"
-msgstr ""
+msgstr "百慕大元"
 
 msgid "Brunei Dollar"
-msgstr ""
+msgstr "文莱元"
 
 msgid "Boliviano"
-msgstr ""
+msgstr "玻利维亚诺"
 
 msgid "Brazilian Real"
-msgstr ""
+msgstr "巴西雷亚尔"
 
 msgid "Bahamian Dollar"
-msgstr ""
+msgstr "巴哈马元"
 
 msgid "Bhutanese Ngultrum"
-msgstr ""
+msgstr "不丹努尔特鲁姆"
 
 msgid "Botswana Pula"
-msgstr ""
+msgstr "博茨瓦纳普拉"
 
 msgid "Belarusian Ruble"
-msgstr ""
+msgstr "白俄罗斯卢布"
 
 msgid "Belize Dollar"
-msgstr ""
+msgstr "伯利兹元"
 
 msgid "Canadian Dollar"
-msgstr ""
+msgstr "加拿大元"
 
 msgid "Congolese Franc"
-msgstr ""
+msgstr "刚果法郎"
 
 msgid "Swiss Franc"
-msgstr ""
+msgstr "瑞士法郎"
 
 msgid "Chilean Peso"
-msgstr ""
+msgstr "智利比索"
 
 msgid "Yuan Renminbi"
-msgstr ""
+msgstr "人民币元"
 
 msgid "Colombian Peso"
-msgstr ""
+msgstr "哥伦比亚比索"
 
 msgid "Costa Rican Colon"
-msgstr ""
+msgstr "哥斯达黎加科郎"
 
 msgid "Cuban Peso"
-msgstr ""
+msgstr "古巴比索"
 
 msgid "Cabo Verde Escudo"
-msgstr ""
+msgstr "佛得角埃斯库多"
 
 msgid "Czech Koruna"
-msgstr ""
+msgstr "捷克克朗"
 
 msgid "Djibouti Franc"
-msgstr ""
+msgstr "吉布提法郎"
 
 msgid "Danish Krone"
-msgstr ""
+msgstr "丹麦克朗"
 
 msgid "Dominican Peso"
-msgstr ""
+msgstr "多米尼加比索"
 
 msgid "Algerian Dinar"
-msgstr ""
+msgstr "阿尔及利亚第纳尔"
 
 msgid "Ecuadorian Sucre"
-msgstr ""
+msgstr "厄瓜多尔苏克雷"
 
 msgid "Egyptian Pound"
-msgstr ""
+msgstr "埃及镑"
 
 msgid "Eritrean Nakfa"
-msgstr ""
+msgstr "厄立特里亚纳克法"
 
 msgid "Ethiopian Birr"
-msgstr ""
+msgstr "埃塞俄比亚比尔"
 
 msgid "Euro"
-msgstr ""
+msgstr "欧元"
 
 msgid "Fiji Dollar"
-msgstr ""
+msgstr "斐济元"
 
 msgid "Falkland Islands Pound"
-msgstr ""
+msgstr "福克兰镑"
 
 msgid "Pound Sterling"
-msgstr ""
+msgstr "英镑"
 
 msgid "Georgian Lari"
-msgstr ""
+msgstr "格鲁吉亚拉里"
 
 msgid "Ghanaian Cedi (old)"
-msgstr ""
+msgstr "加纳塞地（旧名）"
 
 msgid "Ghana Cedi"
-msgstr ""
+msgstr "加纳塞地"
 
 msgid "Gibraltar Pound"
-msgstr ""
+msgstr "直布罗陀镑"
 
 msgid "Gambian Dalasi"
-msgstr ""
+msgstr "冈比亚达拉西"
 
 msgid "Guinean Franc"
-msgstr ""
+msgstr "几内亚法郎"
 
 msgid "Guatemalan Quetzal"
-msgstr ""
+msgstr "危地马拉格查尔"
 
 msgid "Guyana Dollar"
-msgstr ""
+msgstr "圭亚那元"
 
 msgid "Hong Kong Dollar"
-msgstr ""
+msgstr "香港元"
 
 msgid "Honduran Lempira"
-msgstr ""
+msgstr "洪都拉斯伦皮拉"
 
 msgid "Croatian Kuna"
-msgstr ""
+msgstr "克罗地亚库纳"
 
 msgid "Haitian Gourde"
-msgstr ""
+msgstr "海地古德"
 
 msgid "Hungarian Forint"
-msgstr ""
+msgstr "匈牙利福林"
 
 msgid "Indonesian Rupiah"
-msgstr ""
+msgstr "印尼卢比"
 
 msgid "New Israeli Sheqel"
-msgstr ""
+msgstr "以色列新谢克尔"
 
 msgid "Indian Rupee"
-msgstr ""
+msgstr "印度卢比"
 
 msgid "Iraqi Dinar"
-msgstr ""
+msgstr "伊拉克第纳尔"
 
 msgid "Iranian Rial"
-msgstr ""
+msgstr "伊朗里亚尔"
 
 msgid "Iceland Krona"
-msgstr ""
+msgstr "冰岛克朗"
 
 msgid "Jamaican Dollar"
-msgstr ""
+msgstr "牙买加元"
 
 msgid "Jordanian Dinar"
-msgstr ""
+msgstr "约旦第纳尔"
 
 msgid "Japanese Yen"
-msgstr ""
+msgstr "日元"
 
 msgid "Kenyan Shilling"
-msgstr ""
+msgstr "肯尼亚先令"
 
 msgid "Kyrgyzstani Som"
-msgstr ""
+msgstr "吉尔吉斯斯坦索姆"
 
 msgid "Cambodian Riel"
-msgstr ""
+msgstr "柬埔寨里尔"
 
 msgid "Comorian Franc"
-msgstr ""
+msgstr "科摩罗法郎"
 
 msgid "North Korean Won"
-msgstr ""
+msgstr "朝鲜元"
 
 msgid "South Korean Won"
-msgstr ""
+msgstr "韩元"
 
 msgid "Kuwaiti Dinar"
-msgstr ""
+msgstr "科威特第纳尔"
 
 msgid "Cayman Islands Dollar"
-msgstr ""
+msgstr "开曼群岛元"
 
 msgid "Kazakhstani Tenge"
-msgstr ""
+msgstr "哈萨克斯坦腾格"
 
 msgid "Lao Kip"
-msgstr ""
+msgstr "老挝基普"
 
 msgid "Lebanese Pound"
-msgstr ""
+msgstr "黎巴嫩镑"
 
 msgid "Sri Lanka Rupee"
-msgstr ""
+msgstr "斯里兰卡卢比"
 
 msgid "Liberian Dollar"
-msgstr ""
+msgstr "利比里亚元"
 
 msgid "Lesotho Loti"
-msgstr ""
+msgstr "莱索托鲁梯"
 
 msgid "Libyan Dinar"
-msgstr ""
+msgstr "利比亚第纳尔"
 
 msgid "Moroccan Dirham"
-msgstr ""
+msgstr "摩洛哥迪拉姆"
 
 msgid "Moldovan Leu"
-msgstr ""
+msgstr "摩尔多瓦列伊"
 
 msgid "Malagasy Ariary"
-msgstr ""
+msgstr "马达加斯加阿里亚里"
 
 msgid "Macedonian Denar"
-msgstr ""
+msgstr "马其顿代纳尔"
 
 msgid "Myanmar Kyat"
-msgstr ""
+msgstr "缅甸元"
 
 msgid "Mongolian Tögrög"
-msgstr ""
+msgstr "蒙古图格里克"
 
 msgid "Macanese Pataca"
-msgstr ""
+msgstr "澳门元"
 
 msgid "Mauritanian Ouguiya"
-msgstr ""
+msgstr "毛里塔尼亚乌吉亚"
 
 msgid "Mauritius Rupee"
-msgstr ""
+msgstr "毛里求斯卢比"
 
 msgid "Maldivian Rufiyaa"
-msgstr ""
+msgstr "马尔代夫拉菲亚"
 
 msgid "Malawi Kwacha"
-msgstr ""
+msgstr "马拉维克瓦查"
 
 msgid "Mexican Peso"
-msgstr ""
+msgstr "墨西哥比索"
 
 msgid "Malaysian Ringgit"
-msgstr ""
+msgstr "马来西亚林吉特"
 
 msgid "Mozambique Metical (old)"
-msgstr ""
+msgstr "莫桑比克梅蒂卡尔（旧名）"
 
 msgid "Mozambique Metical"
-msgstr ""
+msgstr "莫桑比克梅蒂卡尔"
 
 msgid "Namibia Dollar"
-msgstr ""
+msgstr "纳米比亚元"
 
 msgid "Nigerian Naira"
-msgstr ""
+msgstr "尼日利亚奈拉"
 
 msgid "Cordoba Oro"
-msgstr ""
+msgstr "科多巴"
 
 msgid "Norwegian Krone"
-msgstr ""
+msgstr "挪威克朗"
 
 msgid "Nepalese Rupee"
-msgstr ""
+msgstr "尼泊尔卢比"
 
 msgid "New Zealand Dollar"
-msgstr ""
+msgstr "新西兰元"
 
 msgid "Omani Rial"
-msgstr ""
+msgstr "阿曼里亚尔"
 
 msgid "Panamanian Balboa"
-msgstr ""
+msgstr "巴拿马巴波亚"
 
 msgid "Peruvian Sol"
-msgstr ""
+msgstr "秘鲁索尔"
 
 msgid "Papua New Guinean Kina"
-msgstr ""
+msgstr "巴布亚新几内亚基那"
 
 msgid "Philippine Peso"
-msgstr ""
+msgstr "菲律宾比索"
 
 msgid "Pakistan Rupee"
-msgstr ""
+msgstr "巴基斯坦卢比"
 
 msgid "Polish Złoty"
-msgstr ""
+msgstr "波兰兹罗提"
 
 msgid "Paraguayan Guaraní"
-msgstr ""
+msgstr "巴拉圭瓜拉尼"
 
 msgid "Qatari Riyal"
-msgstr ""
+msgstr "卡塔尔里亚尔"
 
 msgid "Romanian Leu"
-msgstr ""
+msgstr "罗马尼亚列伊"
 
 msgid "Serbian Dinar"
-msgstr ""
+msgstr "塞尔维亚第纳尔"
 
 msgid "Russian Ruble"
-msgstr ""
+msgstr "俄罗斯卢布"
 
 msgid "Rwanda Franc"
-msgstr ""
+msgstr "卢旺达法郎"
 
 msgid "Saudi Riyal"
-msgstr ""
+msgstr "沙特阿拉伯里亚尔"
 
 msgid "Solomon Islands Dollar"
-msgstr ""
+msgstr "所罗门群岛元"
 
 msgid "Seychelles Rupee"
-msgstr ""
+msgstr "塞舌尔卢比"
 
 msgid "Sudanese Pound"
-msgstr ""
+msgstr "苏丹镑"
 
 msgid "Swedish Krona"
-msgstr ""
+msgstr "瑞典克朗"
 
 msgid "Singapore Dollar"
-msgstr ""
+msgstr "新加坡元"
 
 msgid "Saint Helena Pound"
-msgstr ""
+msgstr "圣赫勒拿群岛磅"
 
 msgid "Sierra Leonean Leone"
-msgstr ""
+msgstr "塞拉利昂利昂"
 
 msgid "Somali Shilling"
-msgstr ""
+msgstr "索马里先令"
 
 msgid "Surinam Dollar"
-msgstr ""
+msgstr "苏里南元"
 
 msgid "South Sudanese Pound"
-msgstr ""
+msgstr "南苏丹镑"
 
 msgid "São Tomé and Príncipe Dobra"
-msgstr ""
+msgstr "圣多美岛多布拉"
 
 msgid "El Salvador Colon"
-msgstr ""
+msgstr "萨尔瓦多科朗"
 
 msgid "Syrian Pound"
-msgstr ""
+msgstr "叙利亚镑"
 
 msgid "Swazi Lilangeni"
-msgstr ""
+msgstr "斯威士兰里兰吉尼"
 
 msgid "Thai Baht"
-msgstr ""
+msgstr "泰铢"
 
 msgid "Tajikistani Somoni"
-msgstr ""
+msgstr "塔吉克斯坦索莫尼"
 
 msgid "Turkmenistan New Manat"
-msgstr ""
+msgstr "土库曼斯坦新马纳特"
 
 msgid "Tunisian Dinar"
-msgstr ""
+msgstr "突尼斯第纳尔"
 
 msgid "Tongan Paʻanga"
-msgstr ""
+msgstr "汤加潘加"
 
 msgid "Turkish Lira"
-msgstr ""
+msgstr "土耳其里拉"
 
 msgid "Trinidad and Tobago Dollar"
-msgstr ""
+msgstr "特立尼达多巴哥元"
 
 msgid "New Taiwan Dollar"
-msgstr ""
+msgstr "新台币"
 
 msgid "Tanzanian Shilling"
-msgstr ""
+msgstr "坦桑尼亚先令"
 
 msgid "Ukrainian Hryvnia"
-msgstr ""
+msgstr "乌克兰戈里夫纳"
 
 msgid "Uganda Shilling"
-msgstr ""
+msgstr "乌干达先令"
 
 msgid "US Dollar"
-msgstr ""
+msgstr "美元"
 
 msgid "Uruguayan Peso"
-msgstr ""
+msgstr "乌拉圭比索"
 
 msgid "Uzbekistan Sum"
-msgstr ""
+msgstr "乌兹别克斯坦苏姆"
 
 msgid "Venezuelan Bolívar"
-msgstr ""
+msgstr "委内瑞拉玻利瓦"
 
 msgid "Venezuelan Bolívar Fuente"
-msgstr ""
+msgstr "委内瑞拉玻利瓦 Fuente"
 
 msgid "Venezuelan Bolívar Soberano"
-msgstr ""
+msgstr "委内瑞拉玻利瓦"
 
 msgid "Vietnamese Đồng"
-msgstr ""
+msgstr "越南盾"
 
 msgid "Vanuatu Vatu"
-msgstr ""
+msgstr "瓦努阿图瓦图"
 
 msgid "Samoan Tala"
-msgstr ""
+msgstr "萨摩亚塔拉"
 
 msgid "CFA Franc BEAC"
-msgstr ""
+msgstr "中非金融合作法郎"
 
 msgid "East Caribbean Dollar"
-msgstr ""
+msgstr "东加勒比元"
 
 msgid "CFA Franc BCEAO"
-msgstr ""
+msgstr "非洲金融共同体法郎"
 
 msgid "CFP Franc"
-msgstr ""
+msgstr "法属玻里尼西亚法郎"
 
 msgid "Yemeni Rial"
-msgstr ""
+msgstr "也门里亚尔"
 
 msgid "South African Rand"
-msgstr ""
+msgstr "南非兰特"
 
 msgid "Zambian Kwacha (old)"
-msgstr ""
+msgstr "赞比亚克瓦查（旧名）"
 
 msgid "Zambian Kwacha"
-msgstr ""
+msgstr "赞比亚克瓦查"
 
 msgid "Zimbabwe Dollar"
-msgstr ""
+msgstr "津巴布韦元"
 
 msgctxt "payment method name"
 msgid "2Checkout"
-msgstr ""
+msgstr "2Checkout"
 
 msgctxt "field for payment method 2Checkout"
 msgid "2Checkout account"
-msgstr ""
+msgstr "2Checkout 账户"
 
 msgctxt "payment method name"
 msgid "543 Konse Konse"
-msgstr ""
+msgstr "543 Konse Konse"
 
 msgctxt "field for payment method 543 Konse Konse"
 msgid "543 Konse Konse account"
-msgstr ""
+msgstr "543 Konse Konse 账户"
 
 msgctxt "payment method name"
 msgid "@ease wallet"
-msgstr ""
+msgstr "@ease 钱包"
 
 msgctxt "field for payment method @ease wallet"
 msgid "@ease wallet account"
-msgstr ""
+msgstr "@ease 钱包账户"
 
 msgctxt "payment method name"
 msgid "Access Money Wallet"
-msgstr ""
+msgstr "Access Money Wallet"
 
 msgctxt "field for payment method Access Money Wallet"
 msgid "Access Money Wallet account"
-msgstr ""
+msgstr "Access Money Wallet 账户"
 
 msgctxt "payment method name"
 msgid "Airtel"
-msgstr ""
+msgstr "Airtel"
 
 msgctxt "field for payment method Airtel"
 msgid "Airtel account"
-msgstr ""
+msgstr "Airtel 账户"
 
 msgctxt "payment method name"
 msgid "Alipay"
-msgstr ""
+msgstr "支付宝"
 
 msgctxt "field for payment method Alipay"
 msgid "Alipay ID"
-msgstr ""
+msgstr "支付宝 ID"
 
 msgctxt "payment method name"
 msgid "Apple Pay"
-msgstr ""
+msgstr "苹果支付"
 
 msgctxt "field for payment method Apple Pay"
 msgid "Phone number"
-msgstr ""
+msgstr "电话号码"
 
 msgctxt "payment method name"
 msgid "Azimo"
-msgstr ""
+msgstr "Azimo"
 
 msgctxt "field for payment method Azimo"
 msgid "Azimo account"
-msgstr ""
+msgstr "Azimo 账户"
 
 msgctxt "payment method name"
 msgid "BTC SMEGA"
-msgstr ""
+msgstr "比特币 SMEGA"
 
 msgctxt "field for payment method BTC SMEGA"
 msgid "BTC SMEGA account"
-msgstr ""
+msgstr "比特币 SMEGA 账户"
 
 msgctxt "payment method name"
 msgid "Bank Transfer"
-msgstr ""
+msgstr "银行转汇"
 
 msgctxt "field for payment method Bank Transfer"
 msgid "Account Number"
-msgstr ""
+msgstr "账号"
 
 msgctxt "field for payment method Bank Transfer"
 msgid "Bank Name"
-msgstr ""
+msgstr "银行名称"
 
 msgctxt "field for payment method Bank Transfer"
 msgid "Branch"
-msgstr ""
+msgstr "分行"
 
 msgctxt "field for payment method Bank Transfer"
 msgid "SWIFT or IFSC code"
-msgstr ""
+msgstr "银行 SWIFT 或 IFSC 代码"
 
 msgctxt "payment method name"
 msgid "BitPay"
-msgstr ""
+msgstr "BitPay"
 
 msgctxt "field for payment method BitPay"
 msgid "BitPay account"
-msgstr ""
+msgstr "BitPay 账户"
 
 msgctxt "payment method name"
 msgid "Boss Revolution"
-msgstr ""
+msgstr "Boss Revolution"
 
 msgctxt "field for payment method Boss Revolution"
 msgid "Boss Revolution account"
-msgstr ""
+msgstr "Boss Revolution 账户"
 
 msgctxt "payment method name"
 msgid "BroadPay"
-msgstr ""
+msgstr "BroadPay"
 
 msgctxt "field for payment method BroadPay"
 msgid "BroadPay account"
-msgstr ""
+msgstr "BroadPay 账户"
 
 msgctxt "payment method name"
 msgid "Buyonline"
-msgstr ""
+msgstr "Buyonline"
 
 msgctxt "field for payment method Buyonline"
 msgid "Buyonline account"
-msgstr ""
+msgstr "Buyonline 账户"
 
 msgctxt "payment method name"
 msgid "Carbon"
-msgstr ""
+msgstr "Carbon"
 
 msgctxt "field for payment method Carbon"
 msgid "Carbon account"
-msgstr ""
+msgstr "Carbon 账户"
 
 msgctxt "payment method name"
 msgid "Cashenvoy"
-msgstr ""
+msgstr "Cashenvoy"
 
 msgctxt "field for payment method Cashenvoy"
 msgid "Cashenvoy account"
-msgstr ""
+msgstr "Cashenvoy 账户"
 
 msgctxt "payment method name"
 msgid "Cassava Remit"
-msgstr ""
+msgstr "Cassava Remit"
 
 msgctxt "field for payment method Cassava Remit"
 msgid "Cassava Remit account"
-msgstr ""
+msgstr "Cassava Remit 账户"
 
 msgctxt "payment method name"
 msgid "Cellulant"
-msgstr ""
+msgstr "Cellulant"
 
 msgctxt "field for payment method Cellulant"
 msgid "Cellulant account"
-msgstr ""
+msgstr "Cellulant 账户"
 
 msgctxt "payment method name"
 msgid "Celpaid"
-msgstr ""
+msgstr "Celpaid"
 
 msgctxt "field for payment method Celpaid"
 msgid "Celpaid account"
-msgstr ""
+msgstr "Celpaid 账户"
 
 msgctxt "payment method name"
 msgid "ClickPesa"
-msgstr ""
+msgstr "ClickPesa"
 
 msgctxt "field for payment method ClickPesa"
 msgid "ClickPesa account"
-msgstr ""
+msgstr "ClickPesa 账户"
 
 msgctxt "payment method name"
 msgid "ClicknPay"
-msgstr ""
+msgstr "ClicknPay"
 
 msgctxt "field for payment method ClicknPay"
 msgid "ClicknPay account"
-msgstr ""
+msgstr "ClicknPay 账户"
 
 msgctxt "payment method name"
 msgid "DPO"
-msgstr ""
+msgstr "DPO"
 
 msgctxt "field for payment method DPO"
 msgid "DPO account"
-msgstr ""
+msgstr "DPO 账户"
 
 msgctxt "payment method name"
 msgid "DusuPay"
-msgstr ""
+msgstr "DusuPay"
 
 msgctxt "field for payment method DusuPay"
 msgid "DusuPay account"
-msgstr ""
+msgstr "DusuPay 账户"
 
 msgctxt "payment method name"
 msgid "EcoCash"
-msgstr ""
+msgstr "EcoCash"
 
 msgctxt "field for payment method EcoCash"
 msgid "EcoCash account"
-msgstr ""
+msgstr "EcoCash 账户"
 
 msgctxt "payment method name"
 msgid "Ecobank MobileMoney"
-msgstr ""
+msgstr "Ecobank MobileMoney"
 
 msgctxt "field for payment method Ecobank MobileMoney"
 msgid "Ecobank MobileMoney account"
-msgstr ""
+msgstr "Ecobank MobileMoney 账户"
 
 msgctxt "payment method name"
 msgid "Equitel"
-msgstr ""
+msgstr "Equitel"
 
 msgctxt "field for payment method Equitel"
 msgid "Equitel account"
-msgstr ""
+msgstr "Equitel 账户"
 
 msgctxt "payment method name"
 msgid "Exchange4free"
-msgstr ""
+msgstr "Exchange4free"
 
 msgctxt "field for payment method Exchange4free"
 msgid "Exchange4free account"
-msgstr ""
+msgstr "Exchange4free 账户"
 
 msgctxt "payment method name"
 msgid "FNB eWallet"
-msgstr ""
+msgstr "FNB eWallet"
 
 msgctxt "field for payment method FNB eWallet"
 msgid "FNB eWallet account"
-msgstr ""
+msgstr "FNB eWallet 账户"
 
 msgctxt "payment method name"
 msgid "Firstmonie Wallet"
-msgstr ""
+msgstr "Firstmonie Wallet"
 
 msgctxt "field for payment method Firstmonie Wallet"
 msgid "Firstmonie Wallet account"
-msgstr ""
+msgstr "Firstmonie Wallet 账户"
 
 msgctxt "payment method name"
 msgid "Flutterwave"
-msgstr ""
+msgstr "Flutterwave"
 
 msgctxt "field for payment method Flutterwave"
 msgid "Flutterwave account"
-msgstr ""
+msgstr "Flutterwave 账户"
 
 msgctxt "payment method name"
 msgid "Fortis Mobile Money"
-msgstr ""
+msgstr "Fortis Mobile Money"
 
 msgctxt "field for payment method Fortis Mobile Money"
 msgid "Fortis Mobile Money account"
-msgstr ""
+msgstr "Fortis Mobile Money 账户"
 
 msgctxt "payment method name"
 msgid "GCB"
-msgstr ""
+msgstr "GCB"
 
 msgctxt "field for payment method GCB"
 msgid "GCB account"
-msgstr ""
+msgstr "GCB 账户"
 
 msgctxt "payment method name"
 msgid "GTPay"
-msgstr ""
+msgstr "GTPay"
 
 msgctxt "field for payment method GTPay"
 msgid "GTPay account"
-msgstr ""
+msgstr "GTPay 账户"
 
 msgctxt "payment method name"
 msgid "Glo"
-msgstr ""
+msgstr "Glo"
 
 msgctxt "field for payment method Glo"
 msgid "Glo account"
-msgstr ""
+msgstr "Glo 账户"
 
 msgctxt "payment method name"
 msgid "Google Pay"
-msgstr ""
+msgstr "Google Pay"
 
 msgctxt "field for payment method Google Pay"
 msgid "Phone number or UPID"
-msgstr ""
+msgstr "电话号码或 UPID"
 
 msgctxt "payment method name"
 msgid "Halotel HaloPesa"
-msgstr ""
+msgstr "Halotel HaloPesa"
 
 msgctxt "field for payment method Halotel HaloPesa"
 msgid "Halotel HaloPesa account"
-msgstr ""
+msgstr "Halotel HaloPesa 账户"
 
 msgctxt "payment method name"
 msgid "Hubtel"
-msgstr ""
+msgstr "Hubtel"
 
 msgctxt "field for payment method Hubtel"
 msgid "Hubtel account"
-msgstr ""
+msgstr "Hubtel 账户"
 
 msgctxt "payment method name"
 msgid "Instacash"
-msgstr ""
+msgstr "Instacash"
 
 msgctxt "field for payment method Instacash"
 msgid "Instacash account"
-msgstr ""
+msgstr "Instacash 账户"
 
 msgctxt "payment method name"
 msgid "Interpay"
-msgstr ""
+msgstr "Interpay"
 
 msgctxt "field for payment method Interpay"
 msgid "Interpay account"
-msgstr ""
+msgstr "Interpay 账户"
 
 msgctxt "payment method name"
 msgid "Kazang"
-msgstr ""
+msgstr "Kazang"
 
 msgctxt "field for payment method Kazang"
 msgid "Kazang account"
-msgstr ""
+msgstr "Kazang 账户"
 
 msgctxt "payment method name"
 msgid "Konga"
-msgstr ""
+msgstr "Konga"
 
 msgctxt "field for payment method Konga"
 msgid "Konga account"
-msgstr ""
+msgstr "Konga 账户"
 
 msgctxt "payment method name"
 msgid "M-Lipa"
-msgstr ""
+msgstr "M-Lipa"
 
 msgctxt "field for payment method M-Lipa"
 msgid "M-Lipa account"
-msgstr ""
+msgstr "M-Lipa 账户"
 
 msgctxt "payment method name"
 msgid "M-Pesa Tanzania"
-msgstr ""
+msgstr "M-Pesa Tanzania"
 
 msgctxt "field for payment method M-Pesa Tanzania"
 msgid "M-Pesa Tanzania account"
-msgstr ""
+msgstr "M-Pesa Tanzania 账户"
 
 msgctxt "payment method name"
 msgid "MTN Mobile Money (MoMo)"
-msgstr ""
+msgstr "MTN Mobile Money (MoMo)"
 
 msgctxt "field for payment method MTN Mobile Money (MoMo)"
 msgid "MTN Mobile Money (MoMo) account"
-msgstr ""
+msgstr "MTN Mobile Money (MoMo) 账户"
 
 msgctxt "payment method name"
 msgid "Mascom MyZaka"
-msgstr ""
+msgstr "Mascom MyZaka"
 
 msgctxt "field for payment method Mascom MyZaka"
 msgid "Mascom MyZaka account"
-msgstr ""
+msgstr "Mascom MyZaka 账户"
 
 msgctxt "payment method name"
 msgid "MobiCash"
-msgstr ""
+msgstr "MobiCash"
 
 msgctxt "field for payment method MobiCash"
 msgid "MobiCash account"
-msgstr ""
+msgstr "MobiCash 账户"
 
 msgctxt "payment method name"
 msgid "MobiPay"
-msgstr ""
+msgstr "MobiPay"
 
 msgctxt "field for payment method MobiPay"
 msgid "MobiPay account"
-msgstr ""
+msgstr "MobiPay 账户"
 
 msgctxt "payment method name"
 msgid "Moov Money"
-msgstr ""
+msgstr "Moov Money"
 
 msgctxt "field for payment method Moov Money"
 msgid "Moov Money account"
-msgstr ""
+msgstr "Moov Money 账户"
 
 msgctxt "payment method name"
 msgid "Myghpay"
-msgstr ""
+msgstr "Myghpay"
 
 msgctxt "field for payment method Myghpay"
 msgid "Myghpay account"
-msgstr ""
+msgstr "Myghpay 账户"
 
 msgctxt "payment method name"
 msgid "NetPay"
-msgstr ""
+msgstr "NetPay"
 
 msgctxt "field for payment method NetPay"
 msgid "NetPay account"
-msgstr ""
+msgstr "NetPay 账户"
 
 msgctxt "payment method name"
 msgid "Nettcash"
-msgstr ""
+msgstr "Nettcash"
 
 msgctxt "field for payment method Nettcash"
 msgid "Nettcash account"
-msgstr ""
+msgstr "Nettcash 账户"
 
 msgctxt "payment method name"
 msgid "NowNow"
-msgstr ""
+msgstr "NowNow"
 
 msgctxt "field for payment method NowNow"
 msgid "NowNow account"
-msgstr ""
+msgstr "NowNow 账户"
 
 msgctxt "payment method name"
 msgid "OPay"
-msgstr ""
+msgstr "OPay"
 
 msgctxt "field for payment method OPay"
 msgid "OPay account"
-msgstr ""
+msgstr "OPay 账户"
 
 msgctxt "payment method name"
 msgid "OneMoney"
-msgstr ""
+msgstr "OneMoney"
 
 msgctxt "field for payment method OneMoney"
 msgid "OneMoney account"
-msgstr ""
+msgstr "OneMoney 账户"
 
 msgctxt "payment method name"
 msgid "Orange Money"
-msgstr ""
+msgstr "Orange Money"
 
 msgctxt "field for payment method Orange Money"
 msgid "Orange Money account"
-msgstr ""
+msgstr "Orange Money 账户"
 
 msgctxt "payment method name"
 msgid "Other"
-msgstr ""
+msgstr "其它"
 
 msgctxt "field for payment method Other"
 msgid "Account ID / phone number / email"
-msgstr ""
+msgstr "账户 ID / 电话号 / 电子邮件"
 
 msgctxt "field for payment method Other"
 msgid "Payment method name"
