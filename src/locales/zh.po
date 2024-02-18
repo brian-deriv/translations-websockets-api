@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deriv-websocket-api\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-02-18 06:49\n"
+"PO-Revision-Date: 2024-02-18 07:48\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -656,7 +656,7 @@ msgid "Invalid order expiry period provided."
 msgstr "提供的订单到期日无效。"
 
 msgid "Invalid payment method provided: %1."
-msgstr "提供的付款方法无效:%1。"
+msgstr "提供的付款方法无效: %1。"
 
 msgid "Invalid payment methods provided."
 msgstr "提供的付款方式无效。"
@@ -713,7 +713,7 @@ msgid "It's not possible to give a review now. Reviews can only be placed within
 msgstr "现在无法评论。仅可在成功完成订单后%1 小时内评论。"
 
 msgid "Just hit the button below to upload a copy of your national ID, passport, or driving licence within 5 days."
-msgstr "只需于5天内单击下面的按钮，然后上传身份证、护照或驾照的影印本。"
+msgstr "只需于 5 天内单击下面的按钮，然后上传身份证、护照或驾照的影印本。"
 
 msgid "Kind Regards,"
 msgstr "谨致问候，"
@@ -1025,7 +1025,7 @@ msgid "Payments are suspended."
 msgstr "支付暂停。"
 
 msgid "Perhaps you signed up with a social account?"
-msgstr "也许您使用社交账户注册？"
+msgstr "也许使用了社交账户注册？"
 
 msgid "Permission denied, balances of all accounts require oauth token"
 msgstr "权限不足，所有账户余额需有 oauth 令牌"
@@ -1223,7 +1223,7 @@ msgid "Please set your 30-day turnover limit in our self-exclusion facilities to
 msgstr "请到自我禁止工具设置30天交易限额，以访问收银台。"
 
 msgid "Please set your MT5 password using the %1 API."
-msgstr "请使用%1 API设置MT5密码。"
+msgstr "请使用%1 API 设置 MT5 密码。"
 
 msgid "Please set your account currency."
 msgstr "请设置账户货币。"
@@ -1343,10 +1343,10 @@ msgid "Provided amount is not within permissible limits. Minimum transfer amount
 msgstr "输入的数目已超出允许范围。%1货币的最小转账金额是%2。"
 
 msgid "Purchasing this contract will cause you to exceed your 30-day turnover limit of %1 %2."
-msgstr "买入此合约将导致超出%1 %2的30天期交易限额。"
+msgstr "买入此合约将导致超出%1 %2的 30 天期交易限额。"
 
 msgid "Purchasing this contract will cause you to exceed your 7-day turnover limit of %1 %2."
-msgstr "买入此合约将导致超出%1 %2的7天期交易限额。"
+msgstr "买入此合约将导致超出%1 %2的 7 天期交易限额。"
 
 msgid "Purchasing this contract will cause you to exceed your daily turnover limit of %1 %2."
 msgstr "买入此合约将导致超出%1 %2的每日交易限额。"
