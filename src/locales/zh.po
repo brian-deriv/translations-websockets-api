@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deriv-websocket-api\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-02-18 07:48\n"
+"PO-Revision-Date: 2024-02-19 00:47\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -1406,7 +1406,7 @@ msgid "Saved payment methods cannot be provided for buy ads. Please provide paym
 msgstr "采购广告不可提供保存的付款方法。请提供付款方法名称。"
 
 msgid "Security and privacy"
-msgstr "安全隐私"
+msgstr "安全和隐私"
 
 msgid "Sell failed because contract was updated."
 msgstr "卖出失败，因为合约已更新。"
@@ -1415,7 +1415,7 @@ msgid "Server must be provided for Deriv X service token."
 msgstr "必须为 Deriv X 服务令牌提供服务器。"
 
 msgid "Session duration limit cannot be more than 6 weeks."
-msgstr "交易期持续时间限制不能大于 6周。"
+msgstr "交易期持续时间限制不能大于 6 周。"
 
 msgid "Should you have any questions, please reach out to us through the live chat on our website."
 msgstr "如有任何疑问，请通过网站的实时聊天与我们联系。"
