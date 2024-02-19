@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deriv-websocket-api\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-02-19 10:13\n"
+"PO-Revision-Date: 2024-02-19 11:51\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -5306,10 +5306,10 @@ msgid "Legacy contract. No further information is available."
 msgstr "旧版合约。无法提供更加详细的信息。"
 
 msgid "If you select 'Down', your total profit/loss will be the percentage decrease in %1, multiplied by %7, minus commissions."
-msgstr "如果选择“Down”，总利润/亏损将是下降百分比 %1 乘以 %7，再减去佣金。"
+msgstr "如果选择'Down'，总利润/亏损将是下降百分比 %1 乘以 %7，再减去佣金。"
 
 msgid "If you select 'Up', your total profit/loss will be the percentage increase in %1, multiplied by %7, minus commissions."
-msgstr "如果选择“Up”，总利润/亏损将是增加的百分比%1乘以%7，减去佣金。"
+msgstr "如果选择'Up'，总利润/亏损将是增加的百分比%1乘以%7，减去佣金。"
 
 msgid "Win payout if %1 does not touch %4 through %3."
 msgstr "如果%1一直到%3时未触及%4，将获得赔付额。"
@@ -5408,7 +5408,7 @@ msgid "For a 'Call' contract, you receive a payout on %3 if the final price of %
 msgstr "对于'Call'合约，如果 %1 的最终价格高于 %4， %3将收到赔付。赔付额等于 %5 乘以最终价格与 %4 之间的%7差。可以选择在 %3 前至 %6卖出合约，并获得合约价值。 "
 
 msgid "For a 'Put' contract, you receive a payout on %3 if the final price of %1 is below %4. The payout is equal to %5 multiplied by the difference%7between the final price and %4. You may choose to sell the contract up until %6 before %3, and receive a contract value. "
-msgstr "对于“Put”合约，如果 %1 的最终价格低于 %4， %3将收到 赔付。赔付额等于 %5 乘以最终价格与 %4 之间的%7差。可以选择在 %3 前至 %6卖出合约，并获得合约价值。 "
+msgstr "对于'Put'合约，如果 %1 的最终价格低于 %4， %3将收到 赔付。赔付额等于 %5 乘以最终价格与 %4 之间的%7差。可以选择在 %3 前至 %6卖出合约，并获得合约价值。 "
 
 msgid "This contract has already expired."
 msgstr "合约已经到期。"
@@ -5522,7 +5522,7 @@ msgid "Deal cancellation is not offered at this duration."
 msgstr "这期间不提供交易。"
 
 msgid "Invalid input (duration or date_expiry) for this contract type (%1)."
-msgstr "此合约类型（%1）的输入（期限或date_expiry）无效。"
+msgstr "此合约类型（%1）的输入（期限或 date_expiry）无效。"
 
 msgid "Invalid expiry time."
 msgstr "无效到期时间。"
@@ -5633,7 +5633,7 @@ msgid "Trading is suspended due to missing market (volatility) data."
 msgstr "由于市场数据丢失（波动率），交易暂停。"
 
 msgid "Only 3 decimal places are allowed."
-msgstr "只允许3个小数位。"
+msgstr "只允许 3 个小数位。"
 
 msgid "Multiplier is not in acceptable range. Accepts %1."
 msgstr "Multiplier 值不在可接受范围内。接受%1。"
@@ -5642,7 +5642,7 @@ msgid "Multiplier is not in acceptable range."
 msgstr "Multiplier 值不在可接受范围内。"
 
 msgid "Contracts more than 24 hours in duration would need an absolute barrier."
-msgstr "超过24小时持续期间的合约必须有个绝对障碍。"
+msgstr "超过 24 小时持续期间的合约必须有个绝对障碍。"
 
 msgid "Barrier offset %1 exceeded quote price, contract barrier must be positive."
 msgstr "障碍抵销%1大于报价，合约障碍必须为正数。"
@@ -5657,7 +5657,7 @@ msgid "Barriers could not be determined."
 msgstr "无法确定障碍。"
 
 msgid "Landing company is invalid."
-msgstr "登陆公司无效。"
+msgstr "着陆公司无效。"
 
 msgid "There's no contract available for this symbol."
 msgstr "此符号无适用的合约。"
@@ -5687,7 +5687,7 @@ msgid "Contract cannot be sold at this time. Please try again."
 msgstr "此时不能卖出合约。请重试。"
 
 msgid "There was a market data disruption during the contract period. For real-money accounts we will attempt to correct this and settle the contract properly, otherwise the contract will be cancelled and refunded. Virtual-money contracts will be cancelled and refunded."
-msgstr "合约执行期间发生市场数据中断。对于真实货币账户, 我们将尝试纠正此情况并妥善结算合约, 否则合约将取消并退款。虚拟货币合约将取消并退款。"
+msgstr "在合约期限内出现市场数据中断。对于真实资金账户，将尽力修正并合理结算，否则将取消合约并退款。对于虚拟资金交易，将取消合约并退款。"
 
 msgid "Resale of this contract is not offered."
 msgstr "该合约不能转售。"
@@ -5708,7 +5708,7 @@ msgid "Expiry time cannot be equal to start time."
 msgstr "到期时间不可与开始时间相同。"
 
 msgid "Contracts on this market with a duration of under 24 hours must expire on the same trading day."
-msgstr "期限小于24小时的市场内合约必须在同一交易日到期。"
+msgstr "期限小于 24 小时的市场内合约必须在同一交易日到期。"
 
 msgid "Tick prediction must be between %1 and %2."
 msgstr "跳动价格预测须在%1 与 %2之间。"
@@ -5744,7 +5744,7 @@ msgid "This trade is temporarily unavailable."
 msgstr "此交易暂时不可用。"
 
 msgid "Contracts on this market with a duration of more than 24 hours must expire at the end of a trading day."
-msgstr "期限超过24小时的市场内合约必须在同一交易日到期。"
+msgstr "期限超过 24 小时的市场内合约必须在同一交易日到期。"
 
 msgid "The contract must expire on a trading day."
 msgstr "合约到期日必须为交易日。"
@@ -5759,7 +5759,7 @@ msgid "Trading is not available from %1 to %2."
 msgstr "%1到%2期间内交易暂停。"
 
 msgid "Trading on forex contracts with duration less than 5 hours is not available from %1 to %2"
-msgstr "%1到%2期间内，持续时间少于5小时的外汇交易暂时停止"
+msgstr "%1到%2期间内，持续时间少于 5 小时的外汇交易暂时停止"
 
 msgid "Minimum stake allowed is %1."
 msgstr "最小允许投注额为%1。"
@@ -5777,13 +5777,13 @@ msgid "Barrier cannot be zero."
 msgstr "障碍不可为零。"
 
 msgid "Duration above 7 days"
-msgstr "持续时间超过7天"
+msgstr "持续时间超过 7 天"
 
 msgid "ATM"
 msgstr "自动取款机"
 
 msgid "Buy"
-msgstr "购买"
+msgstr "买入"
 
 msgid "Christmas Day"
 msgstr "圣诞节"
@@ -5870,19 +5870,19 @@ msgid "today, Fridays"
 msgstr "今天、周五"
 
 msgid "Duration up to 7 days"
-msgstr "持续时间不超过7天"
+msgstr "持续时间不超过 7 天"
 
 msgid "Your account is deactivated. Please contact us via live chat."
-msgstr "账户已停用。请通过即时聊天跟我们联系。"
+msgstr "账户已停用。请通过实时聊天与我们联系。"
 
 msgid "Your email and/or password is incorrect. Perhaps you signed up with a social account?"
 msgstr "电子邮件地址和/或密码不正确。可能是已用社交账户注册？"
 
 msgid "Login to this account has been temporarily disabled due to system maintenance. Please try again in 30 minutes."
-msgstr "由于系统维护，账户暂时不能登录。请在30分钟后重试。"
+msgstr "由于系统维护，此帐户的登录被暂时禁用。请在 30 分钟后再试。"
 
 msgid "Sorry, you have already had too many unsuccessful attempts. Please try again in 5 minutes."
-msgstr "对不起，失败次数过多。请5分钟后再试。"
+msgstr "对不起，失败次数过多。请 5 分钟后再试。"
 
 msgid "Chrome"
 msgstr "Chrome"
@@ -7408,7 +7408,7 @@ msgstr "国民身份证"
 
 msgctxt "IDV document type "
 msgid "Voter ID"
-msgstr "选民ID"
+msgstr "选民 ID"
 
 msgctxt "IDV document type "
 msgid "PAN Card"
@@ -7508,7 +7508,7 @@ msgstr "Deriv Trader"
 
 msgctxt "Customer.io email: svg_all_transactional_demo_welcome "
 msgid "Trade in the moment with powerful, inline charts and indicators of your choice."
-msgstr "使用您选择的强大的内联图表和指标交易。"
+msgstr "使用自选的强大内联图表和指标交易。"
 
 msgctxt "Customer.io email: svg_all_transactional_demo_welcome "
 msgid "Trade options on financial or synthetic markets."
