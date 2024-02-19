@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deriv-websocket-api\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-02-19 03:18\n"
+"PO-Revision-Date: 2024-02-19 10:13\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -5042,7 +5042,7 @@ msgid "Continuous payout growth if loss event hasn't happened and zero payout if
 msgstr "如果没有发生亏损事件，赔付将持续增长，但如果发生亏损事件，则赔付为零"
 
 msgid "Predict the ending market level relative to 2 chosen barriers."
-msgstr "预测相对于2个设定的障碍市场收盘价格的位置。"
+msgstr "预测相对于 2 个设定的障碍市场收盘价格的位置。"
 
 msgid "Predict the ending market level relative to a chosen barrier."
 msgstr "预测市场收盘价格相对于选定障碍的位置。"
@@ -5060,7 +5060,7 @@ msgid "Predict whether or not the market will touch a chosen level before expira
 msgstr "预测市场是否会在到期之前触及所选择的价格水平。"
 
 msgid "Predict whether or not the market will touch either of 2 chosen levels before expiration."
-msgstr "预测市场是否会在到期前触及2个选定价格水平中的任意一个。"
+msgstr "预测市场是否会在到期前触及 2 个选定价格水平中的任意一个。"
 
 msgid "Predict which tick is the highest/lowest at expiration."
 msgstr "预测到期时市场价格的最高/最低跳动点。"
