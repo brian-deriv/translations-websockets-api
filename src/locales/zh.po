@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deriv-websocket-api\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-02-19 00:47\n"
+"PO-Revision-Date: 2024-02-19 03:18\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -2093,7 +2093,7 @@ msgid "This order cannot be reviewed. It was not successfully completed."
 msgstr "此订单无法评价。尚未成功完成。"
 
 msgid "This order does not exist."
-msgstr "此订单 不存在。"
+msgstr "此订单不存在。"
 
 msgid "This order has already been cancelled."
 msgstr "此订单已取消。"
@@ -2300,10 +2300,10 @@ msgid "Unable to update email, password required for social login."
 msgstr "无法更新电子邮件，社交登录需要密码。"
 
 msgid "Unfortunately your answers to the questions above indicate that you do not have sufficient financial resources or trading experience to be eligible to open a trading account at this time."
-msgstr "很遗憾，您的回答显示您缺乏足够的财务资源或交易经验，还不具备开户资格。"
+msgstr "很遗憾，回答显示缺乏足够的财务资源或交易经验，还不具备开户资格。"
 
 msgid "Unicode is not allowed in URL"
-msgstr "网址不可含Unicode"
+msgstr "网址不可含 Unicode"
 
 msgid "Unknown contract proposal"
 msgstr "未知合约建议"
@@ -2315,7 +2315,7 @@ msgid "Unknown country code."
 msgstr "未知国家代码。"
 
 msgid "Unknown landing company."
-msgstr "未知登陆公司."
+msgstr "未知着陆公司。"
 
 msgid "Unsuccessful %1 password change"
 msgstr "更改%1密码失败"
@@ -2324,7 +2324,7 @@ msgid "Unsupported bet class %1."
 msgstr "不支持的投注级别%1。"
 
 msgid "Up to 100 tokens are allowed."
-msgstr "可拥有多达100个令牌。"
+msgstr "可拥有多达 100 个令牌。"
 
 msgid "Update of stop loss and take profit is not available at the moment."
 msgstr "止损和止盈目前不可更新。"
@@ -2357,7 +2357,7 @@ msgid "Virtual accounts don't require document uploads."
 msgstr "虚拟账户不需要上载文件。"
 
 msgid "Virtual money credit to account"
-msgstr "虚拟资金进入账户"
+msgstr "虚拟资金已经到账"
 
 msgid "Wallet account creation is currently suspended."
 msgstr "钱包账户创建当前已停用。"
@@ -2699,7 +2699,7 @@ msgid "You are on a virtual account. To open an Deriv EZ account, please upgrade
 msgstr "用的是虚拟账户。要开立 Deriv EZ 账户，请先升级为真实账户。"
 
 msgid "You are on a virtual account. To open an MT5 account, please upgrade to a real account."
-msgstr "用的是虚拟账户。要开立MT5账户，请先升级为真实账户。"
+msgstr "用的是虚拟账户。要开立 MT5 账户，请先升级为真实账户。"
 
 msgid "You are receiving this email because there was a password change request made for the %1 account associated with this email address. If you wish to get a new %1 account password, please click the button below:"
 msgstr "收到此邮件是因为有人请求更改与此电子邮件地址有关联的 %1 账户密码。如需要获取新的%1 账户密码，请点击以下按钮："
@@ -2768,13 +2768,13 @@ msgid "You cannot perform the withdrawal to account %1, as the payment agent's c
 msgstr "不能在账户 %1取款，因为付款代理的收银台已被锁。"
 
 msgid "You cannot perform this action because of your account status. Please contact our Customer Support team."
-msgstr "无法进行此操作，因为账户出现问题。请联系客服团队。"
+msgstr "无法执行此操作，因为账户出现问题。请联系客服团队。"
 
 msgid "You cannot perform this action, as %1 is not default currency for payment agent account %2."
 msgstr "不能执行此操作，因为%1不是支付代理账户%2的默认货币。"
 
 msgid "You cannot perform this action, as %1 is not default currency for your account %2."
-msgstr "您不能执行此操作，因为%1不是账户%2的默认货币。"
+msgstr "不能执行此操作，因为%1不是账户%2的默认货币。"
 
 msgid "You cannot perform this action, as %1 is not the default account currency for client %2."
 msgstr "不能执行此操作，因为%1不是客户%2的默认账户货币。"
@@ -2849,7 +2849,7 @@ msgid "You have a payment method with the same values for %1."
 msgstr "付款方法与 %1的数值相同。"
 
 msgid "You have active orders on this ad, so you must keep these payment methods: %1"
-msgstr "此广告有生效订单，因此须保持这些付款方式：%1"
+msgstr "此广告有生效订单，因此须保留这些付款方式：%1"
 
 msgid "You have already reviewed this order."
 msgstr "已评价此订单。"
@@ -2876,10 +2876,10 @@ msgid "You have exceeded the open position limit for contracts of this type."
 msgstr "已超出此类合约的开仓限额。"
 
 msgid "You have exceeded your 30-day limit on losses of %1 %2."
-msgstr "已超出 %1 %2的30天损失限额。"
+msgstr "已超出 %1 %2的 30 天损失限额。"
 
 msgid "You have exceeded your 7-day limit on losses of %1 %2."
-msgstr "已超出 %1 %2的7天损失限额。"
+msgstr "已超出 %1 %2的 7 天损失限额。"
 
 msgid "You have exceeded your daily limit on losses of %1 %2."
 msgstr "已超出%1 %2的每日损失限额。"
@@ -2918,7 +2918,7 @@ msgid "You may not chat until you have registered as a Deriv P2P advertiser."
 msgstr "注册成为 Deriv P2P 广告商前还不能聊天。"
 
 msgid "You may only place %1 orders every 24 hours. Please try again later."
-msgstr "每24小时只能下 %1 个订单。请稍后重试。"
+msgstr "每 24 小时只能下 %1 个订单。请稍后重试。"
 
 msgid "You may update your stop loss amount after deal cancellation has expired."
 msgstr "可以在取消交易过期后更新止损金额。"
@@ -2963,7 +2963,7 @@ msgid "You've already submitted a payment agent application request."
 msgstr "已提交申请成为付款代理。"
 
 msgid "You've been temporarily barred from using our services due to multiple cancellation attempts. Try again after %1 GMT."
-msgstr "由于多次尝试取消，您已暂时被禁使用我们的服务。请于GMT时间%1后重试。"
+msgstr "由于多次尝试取消，已暂时被禁使用服务。请于GMT时间%1后重试。"
 
 msgid "You've cancelled your withdrawal request."
 msgstr "已取消了提款请求。"
@@ -3029,7 +3029,7 @@ msgid "Your Deriv EZ login ID is missing. Please check the details and try again
 msgstr "缺少 Deriv EZ 登录 ID。请仔细检查并重试。"
 
 msgid "Your Deriv X account balance is insufficient for this withdrawal."
-msgstr "Deriv X账户余额不足，无法提款。"
+msgstr "Deriv X 账户余额不足，无法提款。"
 
 msgid "Your Deriv X demo account could not be topped up at this time. Please try later."
 msgstr "Deriv X 演示账户此时不能充值。请稍后重试。"
@@ -3056,7 +3056,7 @@ msgid "Your account cashier is locked. Please contact us for more information."
 msgstr "账户收银台已被锁定，欲知详情请跟我们联系。"
 
 msgid "Your account currencies need to be the same. Please choose accounts with matching currencies and try again."
-msgstr "账户币种必须相同。 请选择币种匹配的账户，然后重试。"
+msgstr "账户币种必须相同。请选择币种匹配的账户，然后重试。"
 
 msgid "Your account currency and trader currency must be same."
 msgstr "账户货币必须与交易者货币相符。"
@@ -3101,7 +3101,7 @@ msgid "Your age already been verified."
 msgstr "年龄已经验证。"
 
 msgid "Your age in the document you provided appears to be below 18 years. We're only allowed to offer our services to clients above 18 years old, so we'll need to close your account. If you have a balance in your account, contact us via live chat and we'll help to withdraw your funds before your account is closed."
-msgstr "提供的文件显示年龄似乎未满18岁。我们只能为18岁以上的客户提供服务，因此必须关闭账户。如果账户中有余额，请通过实时聊天与我们联系，我们将帮助您在关闭账户前提取资金。"
+msgstr "提供的文件显示年龄似乎未满 18 岁。只能为 18 岁以上的客户提供服务，因此必须关闭账户。如果账户中有余额，请通过实时聊天与我们联系，将帮助您在关闭账户前提取资金。"
 
 msgid "Your cTrader account balance is insufficient for this withdrawal."
 msgstr "cTrader 账户余额不足，无法提款。"
@@ -3206,7 +3206,7 @@ msgid "Your new trading password request"
 msgstr "新交易密码请求"
 
 msgid "Your password must be 8 to 25 characters long. It must include lowercase and uppercase letters, and numbers."
-msgstr "密码必须介于8至25个字符。必须由大小写字母和数字组成。"
+msgstr "密码必须介于 8 至 25 个字符。必须由大小写字母和数字组成。"
 
 msgid "Your place of birth cannot be changed."
 msgstr "出生地无法修改。"
@@ -3218,7 +3218,7 @@ msgid "Your profile appears to be incomplete. Please update your personal detail
 msgstr "个人资料像是不完整。请更新个人资料以便继续操作。"
 
 msgid "Your proof of address document is outdated. Visit your account profile to submit your valid documents and unlock your cashier."
-msgstr "地址证明文件已过期。请前往账户个人资料，提交有效文件并解锁收银员。"
+msgstr "地址证明文件已过期。请前往账户个人资料，提交有效文件并解锁收银台。"
 
 msgid "Your proof of address does not meet our verification standards."
 msgstr "地址证明不符合验证标准。"
@@ -3278,13 +3278,13 @@ msgid "Your withdrawal is successful."
 msgstr "取款已成功完成。"
 
 msgid "Your withdrawal is unsuccessful due to an error. Please contact us via live chat for more info."
-msgstr "由于出现错误，取款已失败。欲知详情，请通过即时聊天跟我们联系。"
+msgstr "由于出现错误，取款已失败。欲知详情，请通过实时聊天跟我们联系。"
 
 msgid "Your withdrawal is unsuccessful. Please make sure you have enough funds in your account."
 msgstr "取款失败。请确认账户有足够资金。"
 
 msgid "Your withdrawal is unsuccessful. We've sent you an email with more information."
-msgstr "取款失败。有关详情，已给您发送了电子邮件。"
+msgstr "取款失败。有关详情，已发送了电子邮件。"
 
 msgid "Your withdrawal request has been pending for too long. We're returning the funds to your account."
 msgstr "提款请求等待太久。资金将退还至账户。"
@@ -3296,7 +3296,7 @@ msgid "You’ve paid more than the order amount"
 msgstr "付款超出了订单金额"
 
 msgid "alphanumeric with space and dash, 2-32 characters"
-msgstr "允许输入字母数字组合、空格和划线，2-32个字符"
+msgstr "允许输入字母数字组合、空格和划线，2-32 个字符"
 
 msgid "barrier2 is not allowed for reset contract."
 msgstr "barrier2 不可重置合约。"
@@ -3308,7 +3308,7 @@ msgid "cTrader account management is currently suspended."
 msgstr "cTrader 账户管理当前已停用。"
 
 msgid "cTrader account or landing company is not available in your country yet."
-msgstr "您的国家还不能使用 cTrader 账户或登陆公司。"
+msgstr "您的国家还不能使用 cTrader 账户或着陆公司。"
 
 msgid "cTrader deposit is currently suspended."
 msgstr "cTrader 存款目前已暂停。"
@@ -3383,7 +3383,7 @@ msgid "AUD/NOK"
 msgstr "澳元/挪威克朗"
 
 msgid "AUD/NZD"
-msgstr "澳元/纽元"
+msgstr "澳元/新西兰元"
 
 msgid "AUD/PLN"
 msgstr "澳元/波兰兹罗提"
@@ -3437,7 +3437,7 @@ msgid "Alphabet"
 msgstr "Alphabet 公司"
 
 msgid "Amazon.com"
-msgstr "Amazon.com 网站"
+msgstr "Amazon.com"
 
 msgid "American Airlines Group Inc."
 msgstr "美国航空公司"
@@ -4628,7 +4628,7 @@ msgid "Uber Technologies Inc"
 msgstr "优步科技有限公司"
 
 msgid "United States Natural Gas ETF CFD"
-msgstr "美国天然气基金差价合约"
+msgstr "美国天然气交易所买卖基金差价合约"
 
 msgid "VISA Inc."
 msgstr "威士卡公司"
@@ -4652,13 +4652,13 @@ msgid "Volatility 10 (1s) Index"
 msgstr "Volatility 10 (1s) 指数"
 
 msgid "Volatility 10 Index"
-msgstr "波动率 10 指数"
+msgstr "Volatility 10 指数"
 
 msgid "Volatility 100 (1s) Index"
 msgstr "Volatility 100 (1s) 指数"
 
 msgid "Volatility 100 Index"
-msgstr "波动率 100 指数"
+msgstr "Volatility 100 指数"
 
 msgid "Volatility 15 (1s) Index"
 msgstr "Volatility 15 (1s) 指数"
@@ -4673,7 +4673,7 @@ msgid "Volatility 25 (1s) Index"
 msgstr "Volatility 25 (1s) 指数"
 
 msgid "Volatility 25 Index"
-msgstr "波动率 25 指数"
+msgstr "Volatility 25 指数"
 
 msgid "Volatility 250 (1s) Index"
 msgstr "Volatility 250 (1s) 指数"
@@ -4961,7 +4961,7 @@ msgid "JD index follows normal distribution just as our R_* with a jump in both 
 msgstr "JD 指数与 R_* 一样，根据正常方式分布，并向两个方向跳动"
 
 msgid "Represent a single day of trading with different market factors. They are reset at the start of each trading day (00:00GMT)."
-msgstr "指不同市场因素下进行的一整天交易。它们在每个交易日开始时重设（格林威治标准时间00:00点）。"
+msgstr "指不同市场因素下进行的一整天交易。它们在每个交易日开始时重置（格林威治标准时间00:00点）。"
 
 msgid "Switzerland OTC Stocks"
 msgstr "瑞士场外交易股票"
