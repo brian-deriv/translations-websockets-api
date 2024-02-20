@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: deriv-websocket-api\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2024-02-19 11:51\n"
+"PO-Revision-Date: 2024-02-20 01:23\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -7884,7 +7884,7 @@ msgstr "%1您好！检查银行账户或电子钱包以确认已收到买方的�
 
 msgctxt "Customer.io email: svg_all_transactional_p2p_buyer_paid_confirmation_toseller "
 msgid "Exchange rate:"
-msgstr "兑换率："
+msgstr "汇率："
 
 msgctxt "Customer.io email: svg_all_transactional_p2p_buyer_paid_confirmation_toseller "
 msgid "%1Important:%2 You must complete the order before %3%4 GMT%5. Failure to do so will affect your completion rate."
@@ -8044,7 +8044,7 @@ msgstr "调查此案例后，以对卖方有利的方式解决了争议。%1%2 %
 
 msgctxt "Customer.io email: svg_all_transactional_p2p_buyer_notpaid_favor_seller_tobuyer "
 msgid "If you believe there has been a mistake, please contact the seller to recreate and complete the exchange."
-msgstr "如果认为有误，请联系卖家重新创建并完成兑换。"
+msgstr "如果认为有误，请联系卖方重新创建并完成兑换。"
 
 msgctxt "Customer.io email: svg_all_transactional_p2p_buyer_unreleased_favor_seller_tobuyer "
 msgid "After investigating the case, we have resolved the dispute in the seller’s favour. %1%2 %3%4 has been released to the seller’s account, and the case is closed."
@@ -8092,7 +8092,7 @@ msgstr "广告已删除"
 
 msgctxt "Customer.io email: svg_all_transactional_p2p_inactive_ad_removed "
 msgid "We removed the following ad(s) due to 72 hours of inactivity:"
-msgstr "由于72小时没活动，已移除以下广告："
+msgstr "由于 72 小时没活动，已移除以下广告："
 
 msgctxt "Customer.io email: svg_all_transactional_p2p_inactive_ad_removed "
 msgid "Ad ID"
@@ -8136,7 +8136,7 @@ msgstr "要开始交易，请前往 Trader's Hub。"
 
 msgctxt "Customer.io email: svg_all_transactional_derivx_signup "
 msgid "Your Deriv X account is ready!"
-msgstr "Deriv X 账户已准备就绪!"
+msgstr "Deriv X 账户已准备就绪！"
 
 msgctxt "Customer.io email: svg_all_transactional_p2p_order_placed "
 msgid "Your order has been placed"
@@ -8236,7 +8236,7 @@ msgstr "有效的护照、驾照或国民身份证"
 
 msgctxt "Customer.io email: svg_all_transactional_request_poi "
 msgid "Your bank statement or utility bill showing your name and address (not more than 6 months old)"
-msgstr "显示姓名和地址的银行对账单或水电煤账单（日期不得超过6个月）"
+msgstr "显示姓名和地址的银行对账单或水电煤账单（日期不得超过 6 个月）"
 
 msgctxt "Customer.io email: svg_all_transactional_request_poi "
 msgid "Once you have these documents ready, go to the %1verification page%2 under settings to upload them."
@@ -8428,7 +8428,7 @@ msgstr "%1您好，"
 
 msgctxt "Customer.io email: svg_all_transactional_binary_unknown_login "
 msgid "We detected a new sign-in on your account."
-msgstr "我们发现有人刚登录账户。"
+msgstr "发现有人刚登录账户。"
 
 msgctxt "Customer.io email: svg_all_transactional_binary_unknown_login "
 msgid "Browser:"
@@ -8476,7 +8476,7 @@ msgstr "如没有要求新密码，请前往网站通过实时聊天%1与我们�
 
 msgctxt "Customer.io email: svg_all_transactional_password_change_successful "
 msgid "Your new  %1 account password has been changed."
-msgstr "新 %1账户 密码已更改。"
+msgstr "新 %1账户密码已更改。"
 
 msgctxt "Customer.io email: svg_all_transactional_crypto_withdrawal_rejected "
 msgid "Your withdrawal of %1%2 %3%4 from your account %5 was declined because it wasn’t made via Deriv P2P, your usual deposit method."
